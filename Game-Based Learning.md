@@ -3,9 +3,9 @@
 ## Why is Game-Based Learning useful?
 - **Experience as main driver for learning**: According to learning scientists experience is an important factor of learning: “If you do it, you learn it”. This can be obtained by applying serious games and simulations ([[Ref -> Mayo (2007)]]).
 
-- **Immediate feedback**: Serious games and simulations provide players with current feedback on their actions. They allow players to test different behaviour and strategies and experience possible implications ([[Ref -> Christen and Katsarov (2018)]]).
+- **Immediate feedback**: [[Serious Games]] and [[Simulations]] provide players with current feedback on their actions. They allow players to test different behaviour and strategies and experience possible implications ([[Ref -> Christen and Katsarov (2018)]]).
 
-- **Learning effects**: Numerous meta-analyses show superior learning outcomes when learning with serious games and simulations compared to traditional learning techniques ([[Ref -> Sailer and Homner (2020)]]).
+- **Learning effects**: Numerous meta-analyses show superior learning outcomes when learning with [[serious games]] and [[simulations]] compared to traditional learning techniques ([[Ref -> Sailer and Homner (2020)]]).
 
 - **Safe environment**: Serious games and simulations enable a risk-free learning environment. This allows for players to make mistakes and to derive valuable learning experiences from these ([[Ref -> Fox, Pittaway, and Uzuegbunam (2018)]]).
 
