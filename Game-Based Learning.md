@@ -1,0 +1,1 @@
+**Definition:** (Digital) Game-Based Learning describes „any marriage of educational content and computer games“ (Prensky (2007, p. 145)). As such, the game becomes the training. Important game types are: Serious Game and Simulation.
