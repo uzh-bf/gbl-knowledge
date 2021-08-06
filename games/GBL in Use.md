@@ -1,5 +1,3 @@
-TBD
-
 ## Simulations
 - [[Portfolio Management Simulation]]
 
