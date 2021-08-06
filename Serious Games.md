@@ -1,2 +1,0 @@
-## What is a Serious Game?
-**Definition**: A serious game „is a game in which education (in its various forms) is the primary goal, rather than entertainment“ ([[Ref -> Michael and Chen (2006, p. 17)]]). Although the learning outcome is key, these games are usually also measured by their entertainment value. As such, they allow a liberal approach to complexity reduction ([[Ref -> Breuer (2010)]]).
