@@ -23,39 +23,39 @@ imprint: Department of Banking and Finance
 contact: Department of Banking and Finance, [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin)
 radarCharts:
   - name: Characteristics
-    text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum blanditiis corrupti porro tempore necessitatibus dolorem dolor, animi nihil nam pariatur libero quos commodi iste ipsa quae adipisci qui suscipit. Sint?
+    text: The Portfolio Management Game enables its users to cooperate as a management of a private bank while competing for customers against other management teams. Thereby they apply their knowledge in the field of asset management.
     content:
       - name: Analytic Thinking
-        value: 6
+        value: 8
       - name: Collaboration
-        value: 2
-      - name: Competition
-        value: 2
-      - name: Entertainment
         value: 7
-      - name: Precognition
+      - name: Competition
+        value: 8
+      - name: Entertainment
         value: 4
+      - name: Precognition
+        value: 7
       - name: Soft skills
-        value: 9
+        value: 2
   - name: GamificationElements
-    text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum sint consequuntur, id ducimus eius aperiam dicta sapiente, error et obcaecati temporibus soluta molestias placeat. Ad quisquam impedit beatae libero quam!
+    text: Within the Portfolio Management Game users analyse economic outlooks that help them to deal with the unpredictability of the financial markets. They try to avoid losses for their clients and their company. Additionally, the users target to accomplish an improvement of their portfolio management skills.
     content:
       - name: Epic Meaning
-        value: 5
+        value: 4
       - name: Empowerment
-        value: 5
+        value: 6
       - name: Social Influence
-        value: 5
+        value: 6
       - name: Unpredictability
-        value: 5
+        value: 8
       - name: Avoidance
-        value: 5
+        value: 8
       - name: Scarcity
-        value: 5
+        value: 2
       - name: Ownership
-        value: 5
+        value: 8
       - name: Accomplishment
-        value: 5
+        value: 8
 ---
 
 In the Portfolio Management Game you and your team take on the role as a manager of a bank’s portfolio management and compete with different teams. Based on a computer-assisted simulation, the entire investment process is simulated from the perspective of an asset manager using historical or fictitiously generated business cycles.

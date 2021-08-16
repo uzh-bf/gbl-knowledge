@@ -1,6 +1,6 @@
 ---
 slug: private-banking-game
-thumbnail: ""
+thumbnail: ''
 title: Private Banking Advisory Game
 subtitle: A serious game to enhance your understanding of risk and return in an
   investment context
@@ -24,39 +24,39 @@ imprint: Department of Banking and Finance
 contact: Department of Banking and Finance, [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin)
 radarCharts:
   - name: Characteristics
-    text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum blanditiis corrupti porro tempore necessitatibus dolorem dolor, animi nihil nam pariatur libero quos commodi iste ipsa quae adipisci qui suscipit. Sint?
+    text: The Private Banking Advisory Game emphasizes the enhancement of soft skills in the field of client advisory in private banking while providing a high entertainment value.
     content:
       - name: Analytic Thinking
-        value: 6
+        value: 5
       - name: Collaboration
-        value: 2
+        value: 1
       - name: Competition
-        value: 2
+        value: 1
       - name: Entertainment
         value: 7
       - name: Precognition
         value: 4
       - name: Soft skills
-        value: 9
+        value: 8
   - name: GamificationElements
-    text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum sint consequuntur, id ducimus eius aperiam dicta sapiente, error et obcaecati temporibus soluta molestias placeat. Ad quisquam impedit beatae libero quam!
+    text: Within the Private Banking Advisory Game the users engage in a creative process. They have to figure out how to interact with clients. They experience an epic meaning by believing that they are chosen to handle important client within a private bank.
     content:
       - name: Epic Meaning
-        value: 5
+        value: 6
       - name: Empowerment
-        value: 5
+        value: 8
       - name: Social Influence
-        value: 5
+        value: 6
       - name: Unpredictability
-        value: 5
+        value: 6
       - name: Avoidance
-        value: 5
+        value: 6
       - name: Scarcity
-        value: 5
+        value: 2
       - name: Ownership
-        value: 5
+        value: 2
       - name: Accomplishment
-        value: 5
+        value: 6
 ---
 
 The Private Banking Advisory Game helps players to learn how to carry out holistic investment advisory discussions. The game design requires the player to manage the triangular relationship between profits (thinking in terms of the company), customer satisfaction (thinking in terms of the customer), and soft skills (being friendly and empathetic).​
