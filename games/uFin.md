@@ -25,10 +25,10 @@ imprint: Prof. Dr. Carmen Tanner, PD Dr. Markus Christen, Dr. David Schmocker
   und Johannes Katsarov (Spielentwicklung), koboldgames GmbH
   ([www.koboldgames.ch](http://www.koboldgames.ch/), technische Umsetzung)
 contact: Department of Banking and Finance, Center for Responsibility in
-  Finance, Prof.Dr. Carmen Tanner,
-  <https://www.bf.uzh.ch/de/persons/tanner-carmen>
+  Finance, [Prof.Dr. Carmen Tanner](https://www.bf.uzh.ch/de/persons/tanner-carmen)
 radarCharts:
   - name: Characteristics
+    text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum blanditiis corrupti porro tempore necessitatibus dolorem dolor, animi nihil nam pariatur libero quos commodi iste ipsa quae adipisci qui suscipit. Sint?
     content:
       - name: Analytic Thinking
         value: 6
@@ -43,6 +43,7 @@ radarCharts:
       - name: Soft skills
         value: 9
   - name: GamificationElements
+    text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum sint consequuntur, id ducimus eius aperiam dicta sapiente, error et obcaecati temporibus soluta molestias placeat. Ad quisquam impedit beatae libero quam!
     content:
       - name: Epic Meaning
         value: 5
