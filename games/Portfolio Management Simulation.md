@@ -21,6 +21,36 @@ keywords:
   - web-based
 imprint: Department of Banking and Finance
 contact: Dr. Benjamin Wilding, <https://www.bf.uzh.ch/de/persons/wilding-benjamin>
+radarChartCharacteristics:
+  - name: Analytic Thinking
+    value: 6
+  - name: Collaboration
+    value: 2
+  - name: Competition
+    value: 2
+  - name: Entertainment
+    value: 7
+  - name: Precognition
+    value: 4
+  - name: Soft skills
+    value: 9
+radarChartGamificationElements:
+  - name: Epic Meaning
+    value: 5
+  - name: Empowerment
+    value: 5
+  - name: Social Influence
+    value: 5
+  - name: Unpredictability
+    value: 5
+  - name: Avoidance
+    value: 5
+  - name: Scarcity
+    value: 5
+  - name: Ownership
+    value: 5
+  - name: Accomplishment
+    value: 5
 ---
 
 In the Portfolio Management Game you and your team take on the role as a manager of a bank’s portfolio management and compete with different teams. Based on a computer-assisted simulation, the entire investment process is simulated from the perspective of an asset manager using historical or fictitiously generated business cycles.
