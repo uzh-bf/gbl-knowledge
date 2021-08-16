@@ -2,14 +2,12 @@
 slug: private-banking-game
 thumbnail: ''
 title: Private Banking Advisory Game
-subtitle: A serious game to enhance your understanding of risk and return in an
-  investment context
+subtitle: A serious game to enhance your understanding of risk and return in an investment context
 objectives:
   - The participant is able to identify risk/return relations​
   - The participant is able to perform holistic investment advisory talks​
   - The participant is sensitive to behavioural biases​
-  - The participant is able to assign the correct investment strategies for
-    different types of clients
+  - The participant is able to assign the correct investment strategies for different types of clients
 scenarios:
   - University education and training
   - In-house training

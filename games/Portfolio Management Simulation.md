@@ -5,8 +5,7 @@ title: Portfolio Management Simulation
 subtitle: A simulation to improve decision-making ability
 objectives:
   - Acquire knowledge of portfolio management and investment processes​
-  - Get to know the success factors and conflicting goals of business management
-    in a department​
+  - Get to know the success factors and conflicting goals of business management in a department​
   - Promotion of decision-making and communication skills
 scenarios:
   - University education and training

@@ -4,8 +4,7 @@ thumbnail: /images/uploads/9ff6392f-9578-4058-b9a4-3e71b10c7b72.jpg
 title: 'uFin: The Challenge'
 subtitle: Promoting Values in Business through Digital Games
 objectives:
-  - Establish and improve a sensorium for violations of rules and ethical
-    standards
+  - Establish and improve a sensorium for violations of rules and ethical standards
   - Sharpen the perception of blind spots in the personal value system
   - Strengthen empathic perception of the needs and interests of others
 scenarios:

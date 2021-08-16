@@ -2,14 +2,11 @@
 slug: derivatives-game
 thumbnail: ''
 title: Derivatives Game
-subtitle: A simulation for a better understanding of exchange-traded financial
-  derivatives
+subtitle: A simulation for a better understanding of exchange-traded financial derivatives
 objectives:
   - Understand the elementary differences between futures and options
-  - Be able to take long and short positions in futures and options and close
-    them out
-  - Get to know the process of derivatives trading from the formation of a
-    contract to its maturity date
+  - Be able to take long and short positions in futures and options and close them out
+  - Get to know the process of derivatives trading from the formation of a contract to its maturity date
 scenarios:
   - University education and training
   - In-house training
