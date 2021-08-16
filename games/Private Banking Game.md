@@ -21,8 +21,7 @@ keywords:
   - tablet
   - web-based
 imprint: Department of Banking and Finance
-contact: Dr. Benjamin Wilding,
-  <https://www.bf.uzh.ch/de/persons/wilding-benjamin>[](mailto:benjamin.wilding@bf.uzh.ch)
+contact: Department of Banking and Finance, [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin)
 radarCharts:
   - name: Characteristics
     content:

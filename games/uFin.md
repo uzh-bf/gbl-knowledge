@@ -25,8 +25,7 @@ imprint: Prof. Dr. Carmen Tanner, PD Dr. Markus Christen, Dr. David Schmocker
   und Johannes Katsarov (Spielentwicklung), koboldgames GmbH
   ([www.koboldgames.ch](http://www.koboldgames.ch/), technische Umsetzung)
 contact: Department of Banking and Finance, Center for Responsibility in
-  Finance, Prof.Dr. Carmen Tanner,
-  <https://www.bf.uzh.ch/de/persons/tanner-carmen>
+  Finance, [Prof.Dr. Carmen Tanner](https://www.bf.uzh.ch/de/persons/tanner-carmen)
 radarCharts:
   - name: Characteristics
     content:
