@@ -21,11 +21,10 @@ keywords:
   - serious game
   - sustainable finance
   - tablet
-imprint: Prof. Dr. Carmen Tanner, PD Dr. Markus Christen, Dr. David Schmocker
-  und Johannes Katsarov (Spielentwicklung), koboldgames GmbH
-  ([www.koboldgames.ch](http://www.koboldgames.ch/), technische Umsetzung)
-contact: Department of Banking and Finance, Center for Responsibility in
-  Finance, [Prof.Dr. Carmen Tanner](https://www.bf.uzh.ch/de/persons/tanner-carmen)
+imprint: Prof. Dr. Carmen Tanner, PD Dr. Markus Christen, Dr. David Schmocker,
+  and Johannes Katsarov (game development), koboldgames GmbH
+  ([www.koboldgames.ch](http://www.koboldgames.ch/), technical implementation)
+contact: [Prof.Dr. Carmen Tanner](https://www.bf.uzh.ch/de/persons/tanner-carmen), Department of Banking and Finance, Center for Responsibility in Finance
 radarCharts:
   - name: Characteristics
     text: 'The game uFin: The Challenge emphasizes the enhancement of soft skills while providing a high entertainment value.'
@@ -38,9 +37,9 @@ radarCharts:
         value: 2
       - name: Entertainment
         value: 7
-      - name: Precognition
+      - name: Prior Knowledge
         value: 4
-      - name: Soft skills
+      - name: Soft Skills
         value: 9
   - name: GamificationElements
     text: 'Within the game uFin: The Challenge the users engage in a creative process where they have to figure out ethical decisions. They experience an epic meaning by believing that they are chosen to solve a bigger ethical issue within the company.'

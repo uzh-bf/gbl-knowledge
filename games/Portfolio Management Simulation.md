@@ -20,7 +20,7 @@ keywords:
   - simulation
   - web-based
 imprint: Department of Banking and Finance
-contact: Department of Banking and Finance, [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin)
+contact: [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance
 radarCharts:
   - name: Characteristics
     text: The Portfolio Management Game enables its users to cooperate as a management of a private bank while competing for customers against other management teams. Thereby they apply their knowledge in the field of asset management.
@@ -33,9 +33,9 @@ radarCharts:
         value: 8
       - name: Entertainment
         value: 4
-      - name: Precognition
+      - name: Prior Knowledge
         value: 7
-      - name: Soft skills
+      - name: Soft Skills
         value: 2
   - name: GamificationElements
     text: Within the Portfolio Management Game users analyse economic outlooks that help them to deal with the unpredictability of the financial markets. They try to avoid losses for their clients and their company. Additionally, the users target to accomplish an improvement of their portfolio management skills.

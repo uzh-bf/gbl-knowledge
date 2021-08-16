@@ -21,7 +21,7 @@ keywords:
   - simulation
   - web-based
 imprint: Department of Banking and Finance
-contact: Department of Banking and Finance, [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin)
+contact: [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance
 radarCharts:
   - name: Characteristics
     text: In Progress
@@ -34,9 +34,9 @@ radarCharts:
         value: 8
       - name: Entertainment
         value: 3
-      - name: Precognition
+      - name: Prior Knowledge
         value: 5
-      - name: Soft skills
+      - name: Soft Skills
         value: 1
   - name: GamificationElements
     text: In Progress

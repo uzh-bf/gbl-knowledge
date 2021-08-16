@@ -21,7 +21,7 @@ keywords:
   - tablet
   - web-based
 imprint: Department of Banking and Finance
-contact: Department of Banking and Finance, [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin)
+contact: [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance
 radarCharts:
   - name: Characteristics
     text: The Private Banking Advisory Game emphasizes the enhancement of soft skills in the field of client advisory in private banking while providing a high entertainment value.
@@ -34,9 +34,9 @@ radarCharts:
         value: 1
       - name: Entertainment
         value: 7
-      - name: Precognition
+      - name: Prior Knowledge
         value: 4
-      - name: Soft skills
+      - name: Soft Skills
         value: 8
   - name: GamificationElements
     text: Within the Private Banking Advisory Game the users engage in a creative process. They have to figure out how to interact with clients. They experience an epic meaning by believing that they are chosen to handle important client within a private bank.
