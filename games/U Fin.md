@@ -1,7 +1,7 @@
 ---
 slug: ufin
 thumbnail: /images/uploads/9ff6392f-9578-4058-b9a4-3e71b10c7b72.jpg
-title: 'uFin: The Challenge'
+title: "uFin: The Challenge"
 subtitle: Promoting Values in Business through Digital Games
 objectives:
   - Establish and improve a sensorium for violations of rules and ethical standards
@@ -24,7 +24,7 @@ imprint: Prof. Dr. Carmen Tanner, PD Dr. Markus Christen, Dr. David Schmocker, a
 contact: [Prof.Dr. Carmen Tanner](https://www.bf.uzh.ch/de/persons/tanner-carmen), Department of Banking and Finance, Center for Responsibility in Finance
 radarCharts:
   - name: Characteristics
-    text: 'The game uFin: The Challenge emphasizes the enhancement of soft skills while providing a high entertainment value.'
+    text: "The game uFin: The Challenge emphasizes the enhancement of soft skills while providing a high entertainment value."
     content:
       - name: Analytic Thinking
         value: 6
@@ -39,7 +39,7 @@ radarCharts:
       - name: Soft Skills
         value: 9
   - name: GamificationElements
-    text: 'Within the game uFin: The Challenge the users engage in a creative process where they have to figure out ethical decisions. They experience an epic meaning by believing that they are chosen to solve a bigger ethical issue within the company.'
+    text: "Within the game uFin: The Challenge the users engage in a creative process where they have to figure out ethical decisions. They experience an epic meaning by believing that they are chosen to solve a bigger ethical issue within the company."
     content:
       - name: Epic Meaning
         value: 8

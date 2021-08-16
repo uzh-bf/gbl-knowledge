@@ -1,6 +1,6 @@
 ---
 slug: derivatives-game
-thumbnail: ''
+thumbnail: ""
 title: Derivatives Game
 subtitle: A simulation for a better understanding of exchange-traded financial derivatives
 objectives:

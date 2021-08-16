@@ -1,6 +1,6 @@
 ---
 slug: private-banking-game
-thumbnail: ''
+thumbnail: ""
 title: Private Banking Advisory Game
 subtitle: A serious game to enhance your understanding of risk and return in an investment context
 objectives:
