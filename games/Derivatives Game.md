@@ -18,7 +18,7 @@ keywords:
   - simulation
   - web-based
 imprint: Department of Banking and Finance
-contact: [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance
+contact: "[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance"
 radarCharts:
   - name: Characteristics
     text: In Progress

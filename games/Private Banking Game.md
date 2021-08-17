@@ -19,7 +19,7 @@ keywords:
   - tablet
   - web-based
 imprint: Department of Banking and Finance
-contact: [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance
+contact: "[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance"
 radarCharts:
   - name: Characteristics
     text: The Private Banking Advisory Game emphasizes the enhancement of soft skills in the field of client advisory in private banking while providing a high entertainment value.

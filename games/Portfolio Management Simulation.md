@@ -19,7 +19,7 @@ keywords:
   - simulation
   - web-based
 imprint: Department of Banking and Finance
-contact: [Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance
+contact: "[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance"
 radarCharts:
   - name: Characteristics
     text: The Portfolio Management Game enables its users to cooperate as a management of a private bank while competing for customers against other management teams. Thereby they apply their knowledge in the field of asset management.
