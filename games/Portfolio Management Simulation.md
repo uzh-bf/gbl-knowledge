@@ -58,6 +58,9 @@ radarCharts:
 gallery:
   - imgSrc: /images/game_topic.png
     alt: DEMO IMAGE
+resources:
+  - name: "DEMO RESOURCE (PDF)"
+    href: "/assets/Sources.pdf"
 ---
 
 In the Portfolio Management Game you and your team take on the role as a manager of a bank’s portfolio management and compete with different teams. Based on a computer-assisted simulation, the entire investment process is simulated from the perspective of an asset manager using historical or fictitiously generated business cycles.

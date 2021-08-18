@@ -58,6 +58,9 @@ radarCharts:
 gallery:
   - imgSrc: /images/game_topic.png
     alt: DEMO IMAGE
+resources:
+  - name: "DEMO RESOURCE (PDF)"
+    href: "/assets/Sources.pdf"
 ---
 
 The Private Banking Advisory Game helps players to learn how to carry out holistic investment advisory discussions. The game design requires the player to manage the triangular relationship between profits (thinking in terms of the company), customer satisfaction (thinking in terms of the customer), and soft skills (being friendly and empathetic).​

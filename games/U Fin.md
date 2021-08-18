@@ -62,6 +62,9 @@ gallery:
     alt: DEMO IMAGE 1
   - imgSrc: /images/game_topic.png
     alt: DEMO IMAGE 2
+resources:
+  - name: "DEMO RESOURCE (PDF)"
+    href: "/assets/Sources.pdf"
 ---
 
 Nowadays, many companies face the challenge of ensuring compliance with codes of conduct and strengthening a value-based corporate culture. While more rules and investment in compliance strategies were among the dominant strategies up to now, this game focuses on the promotion of individual skills and thus complements current practices in an optimal way. For this purpose, uFin: The Challenge was developed and empirically tested.
