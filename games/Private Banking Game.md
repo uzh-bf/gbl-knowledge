@@ -2,6 +2,9 @@
 slug: private-banking-game
 thumbnail: ""
 title: Private Banking Advisory Game
+href: "/games/private-banking-game"
+imgSrc: "/images/under_construction.jpg"
+tags: ["serious game", "banking", "work in progress"]
 subtitle: A serious game to enhance your understanding of risk and return in an investment context
 objectives:
   - The participant is able to identify risk/return relations​

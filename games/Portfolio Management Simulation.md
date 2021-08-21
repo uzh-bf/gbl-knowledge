@@ -2,6 +2,9 @@
 slug: portfolio-management-simulation
 thumbnail: /images/uploads/pfm_game.png
 title: Portfolio Management Simulation
+href: "/games/portfolio-management-simulation"
+imgSrc: "/images/pfm_game.png"
+tags: ["simulation", "investing"]
 subtitle: A simulation to improve decision-making ability
 objectives:
   - Acquire knowledge of portfolio management and investment processes​

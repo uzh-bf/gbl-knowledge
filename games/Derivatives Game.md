@@ -2,6 +2,9 @@
 slug: derivatives-game
 thumbnail: ""
 title: Derivatives Game
+href: "/games/derivatives-game"
+imgSrc: "/images/under_construction.jpg"
+tags: ["simulation", "trading", "work in progress"]
 subtitle: A simulation for a better understanding of exchange-traded financial derivatives
 objectives:
   - Understand the elementary differences between futures and options
