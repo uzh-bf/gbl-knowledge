@@ -1,0 +1,24 @@
+---
+title: "Game Development"
+duration: "10 min"
+order: 3
+description:
+    "After the decision to implement a particular game idea, the actual
+    game development takes place. A loop-like approach involving the
+    content and technical developers is recommended. Individual game
+    elements should be tested and evaluated on an ongoing basis so that
+    corrective measures can be taken promptly if necessary."
+videoSrc: "https://tube.switch.ch/embed/DzvtvEspwp"
+resources:
+    - name: "Slides (PDF)"
+      href: "/assets/Game_Development.pdf"
+keyTakeawayList:
+    - "Let potential users test your game regularly throughout the development process.
+    Organize small testing sessions with a few participants to evaluate interactions."
+    - "Evaluate testing sessions with user-centered approaches to investigate the player
+    workflow and potential usability issues. Investigate how players approach and reach
+    their learning objectives during play."
+    - "Focus on your prioritized development goals and keep a wish list for further development.
+    Ensure that what is built is of high quality and fits together well."
+keyTakeawayImage: ""
+---

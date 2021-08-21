@@ -1,0 +1,26 @@
+---
+title: "Game Execution"
+duration: "15 min"
+order: 4
+description:
+    "When a game (part) is ready to play, it should be implemented in a
+    suitable learning setting. Necessary theories and teaching materials
+    should be taught at appropriate points before, during or after the
+    game itself. Whether in the virtual or physical classroom - a
+    didactically sound embedding in the flow of the lesson is important
+    for a sustainable learning success of the participants. In order to
+    find a suitable game setting and to further develop the game (part),
+    it is helpful to always ask for feedback and to regularly evaluate the
+    game and the game setting."
+videoSrc: "https://tube.switch.ch/embed/9noiwL00Oi"
+resources:
+    - name: "Slides (PDF)"
+      href: "/assets/Game_Execution.pdf"
+keyTakeawayList:
+    - "Ensure that the students have the relevant theoretical background before they play the game
+    (e.g., provide prerequisites, readings, or an introductory session)."
+    - "Prepare a sound didactical concept that embes the game into your course or similar setting."
+    - "Provide regular feedback to the players so that they can continuously improve their knowledge throughout the
+    game."
+keyTakeawayImage: ""
+---
