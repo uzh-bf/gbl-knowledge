@@ -1,7 +1,6 @@
 ---
 title: "Game Execution"
 duration: "15 min"
-order: 4
 description:
     "When a game (part) is ready to play, it should be implemented in a
     suitable learning setting. Necessary theories and teaching materials

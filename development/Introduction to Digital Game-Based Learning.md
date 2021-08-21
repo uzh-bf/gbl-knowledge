@@ -1,7 +1,6 @@
 ---
 title: "Introduction to Digital Game-Based Learning"
 duration: "10 min"
-order: 0
 description:
     "To get started with game development in the context of game-based
     learning, it is important to first understand the terminology, as well

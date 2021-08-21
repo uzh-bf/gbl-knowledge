@@ -1,7 +1,6 @@
 ---
 title: "Game Development"
 duration: "10 min"
-order: 3
 description:
     "After the decision to implement a particular game idea, the actual
     game development takes place. A loop-like approach involving the

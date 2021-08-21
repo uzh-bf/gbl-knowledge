@@ -1,7 +1,6 @@
 ---
 title: "Game Topic"
 duration: "10 min"
-order: 2
 description:
     "Before starting with the actual game development, it is necessary to
     evaluate which topics are suitable and useful for an implementation in

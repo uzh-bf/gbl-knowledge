@@ -1,7 +1,6 @@
 ---
 title: "Further Resources and References"
 duration: ""
-order: 5
 description: "Our workflow and best practices are based on the works of many
   practicioners and researchers. For an overview of our references, as
   well as further resources, we have prepared a short summary for you to
