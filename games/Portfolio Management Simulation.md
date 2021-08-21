@@ -1,6 +1,7 @@
 ---
 slug: portfolio-management-simulation
 thumbnail: /images/uploads/pfm_game.png
+order: 1
 title: Portfolio Management Simulation
 href: "/games/portfolio-management-simulation"
 imgSrc: "/images/pfm_game.png"

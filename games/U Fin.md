@@ -1,6 +1,7 @@
 ---
 slug: ufin
 thumbnail: /images/uploads/9ff6392f-9578-4058-b9a4-3e71b10c7b72.jpg
+order: 0
 title: "uFin: The Challenge"
 href: "/games/u-fin"
 imgSrc: "/images/ufin.jpg"
