@@ -60,8 +60,16 @@ radarCharts:
       - name: Accomplishment
         value: 8
 gallery:
-  - imgSrc: /images/game_topic.png
-    alt: DEMO IMAGE
+  - imgSrc: /images/pfm/pfm_scatter.png
+    alt: Portfolio Management Simulation Image 1
+  - imgSrc: /images/pfm/pfm_radar.png
+    alt: Portfolio Management Simulation Image 2
+  - imgSrc: /images/pfm/pfm_outlook.png
+    alt: Portfolio Management Simulation Image 3
+  - imgSrc: /images/pfm/pfm_depot.png
+    alt: Portfolio Management Simulation Image 4
+  - imgSrc: /images/pfm/pfm_allocation.png
+    alt: Portfolio Management Simulation Image 5
 resources:
   - name: "DEMO RESOURCE (PDF)"
     href: "/assets/Sources.pdf"
