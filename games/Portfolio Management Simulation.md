@@ -1,6 +1,5 @@
 ---
 slug: portfolio-management-simulation
-thumbnail: /images/uploads/pfm_game.png
 order: 1
 title: Portfolio Management Simulation
 href: "/games/portfolio-management-simulation"
@@ -60,6 +59,8 @@ radarCharts:
       - name: Accomplishment
         value: 8
 gallery:
+  - imgSrc: /images/uploads/pfm_game.png
+    alt: Thumbnail Image
   - imgSrc: /images/pfm/pfm_scatter.png
     alt: Portfolio Management Simulation Image 1
   - imgSrc: /images/pfm/pfm_radar.png

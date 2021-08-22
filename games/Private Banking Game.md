@@ -1,6 +1,5 @@
 ---
 slug: private-banking-game
-thumbnail: ""
 order: 3
 title: Private Banking Advisory Game
 href: "/games/private-banking-game"
@@ -59,9 +58,7 @@ radarCharts:
         value: 2
       - name: Accomplishment
         value: 6
-gallery:
-  - imgSrc: /images/game_topic.png
-    alt: DEMO IMAGE
+gallery: ""
 resources:
   - name: "DEMO RESOURCE (PDF)"
     href: "/assets/Sources.pdf"

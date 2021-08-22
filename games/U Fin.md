@@ -1,6 +1,5 @@
 ---
 slug: ufin
-thumbnail: /images/uploads/9ff6392f-9578-4058-b9a4-3e71b10c7b72.jpg
 order: 0
 title: "uFin: The Challenge"
 href: "/games/u-fin"
@@ -62,6 +61,8 @@ radarCharts:
       - name: Accomplishment
         value: 8
 gallery:
+  - imgSrc: /images/uploads/9ff6392f-9578-4058-b9a4-3e71b10c7b72.jpg
+    alt: Thumbnail Image
   - imgSrc: /images/hero.jpg
     alt: DEMO IMAGE 1
   - imgSrc: /images/game_topic.png

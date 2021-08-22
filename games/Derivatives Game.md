@@ -1,6 +1,5 @@
 ---
 slug: derivatives-game
-thumbnail: ""
 order: 2
 title: Derivatives Game
 href: "/games/derivatives-game"
@@ -58,9 +57,7 @@ radarCharts:
         value: 8
       - name: Accomplishment
         value: 6
-gallery:
-  - imgSrc: /images/game_topic.png
-    alt: DEMO IMAGE
+gallery: ""
 resources:
   - name: "DEMO RESOURCE (PDF)"
     href: "/assets/Sources.pdf"
