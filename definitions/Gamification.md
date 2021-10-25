@@ -4,4 +4,4 @@ Gamification is a process in which game design elements are used in non-game con
 
 [[Game-Based Learning]] is one of the most important subcategories of [[Gamification]], and the one we work in with many of our projects.
 
-[[Octalysis Framework]]
+When working with [[Gamification]] principles, we regularly refer to the [[Octalysis Framework]] as a baseline of the different elements that make up the overall topic.
