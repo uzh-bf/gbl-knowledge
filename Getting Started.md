@@ -1,3 +1,1 @@
-The [[GBL Knowledge Base]] is a networked
-
- https://obsidian.md/features
+The [[GBL Knowledge Base]] is based on [Obsidian](https://obsidian.md/), a tool for networked though and knowledge curation.
