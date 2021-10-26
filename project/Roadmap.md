@@ -1,4 +1,4 @@
-For current development progress, see [[Dev Log]].
+For current development progress, see [[Project Updates]].
 
 ## Focus Areas
 **[[GBL @ UZH]]**
