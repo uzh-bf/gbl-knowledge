@@ -1,7 +1,7 @@
 For current development progress, see [[Dev Log]].
 
 ## Focus Areas
-**[[GBL in Use]]**
+**[[GBL @ UZH]]**
 
 Establish an overview of how Game-Based Learning is being used at the University of Zurich.
 
@@ -17,7 +17,7 @@ Develop technical and content-related resources that can be used when designing 
 
 Create a foundational framework that can be applied when implementing simulations.
 
-**GBL Community**
+**[[GBL Community]]**
 
 Establish and foster a game-based learning community at the University of Zurich and connect with interested external parties.
 
