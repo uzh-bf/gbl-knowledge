@@ -5,15 +5,15 @@ For current development progress, see [[Dev Log]].
 
 Establish an overview of how Game-Based Learning is being used at the University of Zurich.
 
-**[[Knowledge Base]]**
+**[[GBL Knowledge Base]]**
 
 Develop a knowledge base and learning resources with know-how and best practices on game-based learning and game development.
 
-**[[Game Development Toolbox]]**
+**[[GBL Dev Workflow]]**
 
 Develop technical and content-related resources that can be used when designing and developing learning games.
 
-**[[Simulation Platform]]**
+**[[GBL Simulation Platform]]**
 
 Create a foundational framework that can be applied when implementing simulations.
 
