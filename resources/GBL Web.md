@@ -1,2 +1,4 @@
 # GBL Web
-The website hosted at https://www.gbl.uzh.ch/ is the main entrypoint for the 
+**Status**: In Progress
+
+The GBL website hosted at https://www.gbl.uzh.ch/ is the main entrypoint for the Game-Based Learning project that we work on at the Department of Banking and Finance of the University of Zurich.
