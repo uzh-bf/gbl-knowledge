@@ -1,3 +1,3 @@
-TBD
+The [[GBL Knowledge Base]] is a networked
 
-https://obsidian.md/features
+ https://obsidian.md/features
