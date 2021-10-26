@@ -59,8 +59,6 @@ radarCharts:
         value: 6
 gallery: ""
 resources:
-  - name: "DEMO RESOURCE (PDF)"
-    href: "/assets/Sources.pdf"
 ---
 
 In the Derivatives Game you take the position of a derivatives trader and speculate on the value of one single stock. You can use two types of derivatives, futures and options. Your goal is to achieve the highest possible profit by speculating on the value of this stock. For the risk positions you build up as a derivatives trader, you have to deposit capital in a margin account. However, you do not have an endless amount of capital at your disposal: Your starting balance is 100 Swiss francs. You will additionally use this capital, for example, to meet a margin call or to buy or sell options. Short-term profits and losses are also credited to your account, for example through day trading or closing out a long or short position early.

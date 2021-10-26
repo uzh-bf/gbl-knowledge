@@ -7,8 +7,8 @@ imgSrc: "/images/pfm_game.png"
 tags: ["Simulation", "Investing"]
 subtitle: A simulation to improve decision-making ability
 objectives:
-  - Acquire knowledge of portfolio management and investment processes​
-  - Get to know the success factors and conflicting goals of business management in a department​
+  - Acquire knowledge of portfolio management and investment processes
+  - Get to know the success factors and conflicting goals of business management in a department
   - Promotion of decision-making and communication skills
 scenarios:
   - University education and training
@@ -72,8 +72,6 @@ gallery:
   - imgSrc: /images/pfm/pfm_allocation.png
     alt: Portfolio Management Simulation Image 5
 resources:
-  - name: "DEMO RESOURCE (PDF)"
-    href: "/assets/Sources.pdf"
 ---
 
 In the Portfolio Management Game you and your team take on the role as a manager of a bank’s portfolio management and compete with different teams. Based on a computer-assisted simulation, the entire investment process is simulated from the perspective of an asset manager using historical or fictitiously generated business cycles.
