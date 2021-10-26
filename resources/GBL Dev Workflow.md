@@ -15,4 +15,4 @@ childrenFiles:
 # GBL Dev Workflow
 **Status**: In Progress
 
-The GBL Dev Workflow is our approximation of the 
+The GBL Dev Workflow is our approximation of the development process of a new learning game (primarily focused on simulations, where the bulk of our experiences are coming from). Besides learning contents like explanatory videos, we also plan to create technical and didactical resources (e.g., workshop templates) that can support throughout the workflow.
