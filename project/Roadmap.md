@@ -1,7 +1,7 @@
-For current development progress, see [[Project Updates]].
+For current development progress, see [[Project Updates]]. All of the progress made in our project is incorporated in our [[GBL Knowledge Base]] and on [[GBL Web]] (www.gbl.uzh.ch).
 
 ## Focus Areas
-**[[GBL @ UZH]]**
+**[[GBL in Use]]**
 
 Establish an overview of how Game-Based Learning is being used at the University of Zurich.
 
