@@ -9,7 +9,7 @@ Establish an overview of how Game-Based Learning is being used at the University
 
 Develop a knowledge base and learning resources with know-how and best practices on game-based learning and game development.
 
-**[[GBL Dev Workflow]]**
+**[[GBL Toolbox]]**
 
 Develop technical and content-related resources that can be used when designing and developing learning games.
 
