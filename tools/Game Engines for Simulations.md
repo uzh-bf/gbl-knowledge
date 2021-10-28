@@ -1,0 +1,1 @@
+[[Simulations]] are somewhat realistic representation of a real-world phenomenon. They often contain considerable logic in terms of 
