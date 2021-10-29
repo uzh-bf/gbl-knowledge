@@ -3,7 +3,7 @@
 [[Simulations]] often consist of considerable amounts of data processing and mathematical computations. Such computations can be abstracted into [[Game Models]]. [[Game Models]] can interact and yield a game state, a representation of the game at a given point in time.
 
 ## Periods
-In our [[Simulations]], there are almost always multiple periods in a single game. The simulation is played by the participants during a period, their decisions arecollected once a period is closing, and a new game state is computed by running the relevant [[Models]]. The new game state can then be evaluated and  discussed with the participants to foster their learning experience.
+In our [[Simulations]], there are almost always multiple periods in a single game. The simulation is played by the participants during a period, their decisions arecollected once a period is closing, and a new game state is computed by running the relevant [[Game Models]]. The new game state can then be evaluated and  discussed with the participants to foster their learning experience.
 
 ## ...
 
