@@ -7,5 +7,9 @@ In our [[Simulations]], there are almost always multiple periods in a single gam
 
 ## ...
 
+```ad-note
+WIP
+```
+
 ## Simulation Platform
 We plan to develop a technical framework in the form of a [[GBL Simulation Platform]] that will provide the basic functionalities described above, and allows you to focus on building the [[Game Models]] and [[Game Decisions]] based on your [[Learning Objectives]].

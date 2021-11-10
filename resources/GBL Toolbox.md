@@ -18,6 +18,9 @@ The GBL Toolbox is a collection of resources that support the development proces
 
 ## Game Topic
 
+```ad-note
+WIP
+```
 
 ## Game Development
 
@@ -26,3 +29,7 @@ The GBL Toolbox is a collection of resources that support the development proces
 - [[GBL Simulation Platform]]
 
 ## Game Execution
+
+```ad-note
+WIP
+```
