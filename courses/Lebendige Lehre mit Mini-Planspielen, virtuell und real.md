@@ -5,4 +5,5 @@ level:
 semester: 'Fall'
 institution: 'Didactica'
 href: 'https://www.didactica.uzh.ch/'
+publish: false
 ---
