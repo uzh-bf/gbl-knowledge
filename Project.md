@@ -1,4 +1,4 @@
-For current development progress, see [[Project Updates]]. All of the progress made in our project is incorporated in our [[GBL Knowledge Base]] and on [[GBL Web]] (www.gbl.uzh.ch).
+All of the progress made in our project is incorporated in our [[GBL Knowledge Base]] and on [GBL Web] (www.gbl.uzh.ch). We are also creating a [Public Roadmap](https://gbl-uzh.feedbear.com/roadmap) on which you can leave us your feedback and expectations.
 
 ## Focus Areas
 **[[GBL in Use]]**
