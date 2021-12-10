@@ -20,4 +20,5 @@ keyTakeawayList:
     - "Involve potential users in the idea generation process to get a broader perspective."
     - "Ensure that the knowledge level of the potential users and the learning goals of your game match well."
 keyTakeawayImage: ""
+publish: false
 ---

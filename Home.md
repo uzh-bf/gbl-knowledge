@@ -4,5 +4,5 @@ To get started, check out one of the following resources:
 
 - For a short guide on how this networked knowledge base works, see [[Getting Started]].
 - To get an overview of the courses, games and simulations we have developed or are currently working on, see [[GBL in Use]].
-- For the current planning and development progress of our projects, see [[Roadmap]] and [[Project Updates]].
+- For the current planning and development progress of our projects, see [[Project]] and [[Project Updates]].
 

@@ -20,4 +20,5 @@ keyTakeawayList:
     - "Focus on your prioritized development goals and keep a wish list for further development.
     Ensure that what is built is of high quality and fits together well."
 keyTakeawayImage: ""
+publish: false
 ---

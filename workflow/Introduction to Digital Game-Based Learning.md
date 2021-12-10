@@ -24,4 +24,5 @@ keyTakeawayList:
     learning matter and because intrinsic motivation is fostered by
     the gamified approach."
 keyTakeawayImage: ""
+publish: false
 ---

@@ -22,4 +22,5 @@ keyTakeawayList:
     - "Provide regular feedback to the players so that they can continuously improve their knowledge throughout the
     game."
 keyTakeawayImage: ""
+publish: false
 ---

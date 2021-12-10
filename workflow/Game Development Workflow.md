@@ -14,4 +14,5 @@ keyTakeawayImage:
   src: "/images/dev_workflow.png"
   width: "2103"
   height: "769"
+publish: false
 ---
