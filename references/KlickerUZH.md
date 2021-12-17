@@ -1,3 +1,5 @@
+![[KlickerUZH.png]]
+
 The KlickerUZH (https://www.klicker.uzh.ch/) is a web-based classroom interaction system that allows lecturers to interact with their students in real-time. Lecturers can create polling questions that students can respond to. Additionally, students can give feedback and ask questions in the Q&A channel, allowing for an interactive two-way exchange.
 
 ## Gamification in the KlickerUZH
