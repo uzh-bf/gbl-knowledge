@@ -1,10 +1,10 @@
 ---
 slug: ufin
 order: 0
-title: "uFin: The Challenge"
-href: "/games/u-fin"
-imgSrc: "/images/ufin.jpg"
-tags: ["Serious Game", "Ethics"]
+title: 'uFin: The Challenge'
+href: '/games/u-fin'
+imgSrc: '/images/ufin.jpg'
+tags: ['DBF', 'Serious Game', 'Ethics']
 subtitle: Promoting Values in Business through Digital Games
 objectives:
   - Establish and improve a sensorium for violations of rules and ethical standards
@@ -24,10 +24,10 @@ keywords:
   - sustainable finance
   - tablet
 imprint: Prof. Dr. Carmen Tanner, PD Dr. Markus Christen, Dr. David Schmocker, and Johannes Katsarov (game development), koboldgames GmbH ([www.koboldgames.ch](http://www.koboldgames.ch/), technical implementation)
-contact: "[Prof.Dr. Carmen Tanner](https://www.bf.uzh.ch/de/persons/tanner-carmen), Department of Banking and Finance, Center for Responsibility in Finance"
+contact: '[Prof.Dr. Carmen Tanner](https://www.bf.uzh.ch/de/persons/tanner-carmen), Department of Banking and Finance UZH, Center for Responsibility in Finance'
 radarCharts:
   - name: Characteristics
-    text: "The game uFin: The Challenge emphasizes the enhancement of soft skills while providing a high entertainment value."
+    text: 'The game uFin: The Challenge emphasizes the enhancement of soft skills while providing a high entertainment value.'
     content:
       - name: Analytic Thinking
         value: 6
@@ -42,7 +42,7 @@ radarCharts:
       - name: Soft Skills
         value: 9
   - name: GamificationElements
-    text: "Within the game uFin: The Challenge the users engage in a creative process where they have to figure out ethical decisions. They experience an epic meaning by believing that they are chosen to solve a bigger ethical issue within the company."
+    text: 'Within the game uFin: The Challenge the users engage in a creative process where they have to figure out ethical decisions. They experience an epic meaning by believing that they are chosen to solve a bigger ethical issue within the company.'
     content:
       - name: Epic Meaning
         value: 8

@@ -2,9 +2,9 @@
 slug: portfolio-management-simulation
 order: 1
 title: Portfolio Management Simulation
-href: "/games/portfolio-management-simulation"
-imgSrc: "/images/pfm_game.png"
-tags: ["Simulation", "Investing"]
+href: '/games/portfolio-management-simulation'
+imgSrc: '/images/pfm_game.png'
+tags: ['DBF', 'Simulation', 'Investing']
 subtitle: A simulation to improve decision-making ability
 objectives:
   - Acquire knowledge of portfolio management and investment processes
@@ -21,8 +21,8 @@ keywords:
   - investing
   - simulation
   - web-based
-imprint: Department of Banking and Finance
-contact: "[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance"
+imprint: Department of Banking and Finance, University of Zurich
+contact: '[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance, University of Zurich'
 radarCharts:
   - name: Characteristics
     text: The Portfolio Management Game enables its users to cooperate as a management of a private bank while competing for customers against other management teams. Thereby they apply their knowledge in the field of asset management.

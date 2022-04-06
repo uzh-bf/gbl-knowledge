@@ -2,9 +2,9 @@
 slug: derivatives-game
 order: 2
 title: Derivatives Game
-href: "/games/derivatives-game"
-imgSrc: "/images/under_construction.jpg"
-tags: ["Simulation", "Trading", "Work in Progress"]
+href: '/games/derivatives-game'
+imgSrc: '/images/under_construction.jpg'
+tags: ['DBF', 'Simulation', 'Trading', 'Work in Progress']
 subtitle: A simulation for a better understanding of exchange-traded financial derivatives
 objectives:
   - Understand the elementary differences between futures and options
@@ -20,8 +20,8 @@ keywords:
   - derivatives trading
   - simulation
   - web-based
-imprint: Department of Banking and Finance
-contact: "[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance"
+imprint: Department of Banking and Finance, University of Zurich
+contact: '[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance, University of Zurich'
 radarCharts:
   - name: Characteristics
     text: In Progress
@@ -57,7 +57,7 @@ radarCharts:
         value: 8
       - name: Accomplishment
         value: 6
-gallery: ""
+gallery: ''
 resources:
 ---
 
