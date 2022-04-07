@@ -1,6 +1,6 @@
 ---
 slug: derivatives-game
-order: 2
+order: 3
 title: Derivatives Game
 href: '/games/derivatives-game'
 imgSrc: '/images/under_construction.jpg'
