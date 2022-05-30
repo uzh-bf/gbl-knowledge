@@ -1,6 +1,6 @@
 ---
 slug: private-banking-game
-order: 4
+order: 3
 title: Private Banking Advisory Game
 href: '/games/private-banking-game'
 imgSrc: '/images/under_construction.jpg'
