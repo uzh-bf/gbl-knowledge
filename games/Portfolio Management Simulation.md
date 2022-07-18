@@ -1,6 +1,5 @@
 ---
 slug: portfolio-management-simulation
-order: 1
 title: Portfolio Management Simulation
 href: '/games/portfolio-management-simulation'
 imgSrc: '/images/pfm_game.png'
@@ -58,9 +57,8 @@ radarCharts:
         value: 8
       - name: Accomplishment
         value: 8
+thumbnail: /images/uploads/pfm_game.png
 gallery:
-  - imgSrc: /images/uploads/pfm_game.png
-    alt: Thumbnail Image
   - imgSrc: /images/pfm/pfm_scatter.png
     alt: Portfolio Management Simulation Image 1
   - imgSrc: /images/pfm/pfm_radar.png
@@ -71,7 +69,6 @@ gallery:
     alt: Portfolio Management Simulation Image 4
   - imgSrc: /images/pfm/pfm_allocation.png
     alt: Portfolio Management Simulation Image 5
-resources:
 ---
 
 In the Portfolio Management Game you and your team take on the role as a manager of a bank’s portfolio management and compete with different teams. Based on a computer-assisted simulation, the entire investment process is simulated from the perspective of an asset manager using historical or fictitiously generated business cycles.

@@ -1,10 +1,9 @@
 ---
 slug: derivatives-game
-order: 2
 title: Derivatives Game
 href: '/games/derivatives-game'
-imgSrc: '/images/under_construction.jpg'
-tags: ['DBF', 'Simulation', 'Trading', 'Work in Progress']
+imgSrc: '/images/derivatives_1.png'
+tags: ['DBF', 'Simulation', 'Derivatives Trading']
 subtitle: A simulation for a better understanding of exchange-traded financial derivatives
 objectives:
   - Understand the elementary differences between futures and options
@@ -31,18 +30,18 @@ radarCharts:
       - name: Collaboration
         value: 2
       - name: Competition
-        value: 8
+        value: 7
       - name: Entertainment
         value: 3
       - name: Prior Knowledge
-        value: 5
+        value: 6
       - name: Soft Skills
-        value: 1
+        value: 2
   - name: GamificationElements
     text: In Progress
     content:
       - name: Epic Meaning
-        value: 2
+        value: 4
       - name: Empowerment
         value: 4
       - name: Social Influence
@@ -56,9 +55,13 @@ radarCharts:
       - name: Ownership
         value: 8
       - name: Accomplishment
-        value: 6
-gallery: ''
-resources:
+        value: 7
+thumbnail: /images/derivatives_2.png
+gallery:
+  - imgSrc: /images/derivatives_2.png
+    alt: Derivatives Game Image 1
+  - imgSrc: /images/derivatives_1.png
+    alt: Derivatives Game Image 2
 ---
 
 In the Derivatives Game you take the position of a derivatives trader and speculate on the value of one single stock. You can use two types of derivatives, futures and options. Your goal is to achieve the highest possible profit by speculating on the value of this stock. For the risk positions you build up as a derivatives trader, you have to deposit capital in a margin account. However, you do not have an endless amount of capital at your disposal: Your starting balance is 100 Swiss francs. You will additionally use this capital, for example, to meet a margin call or to buy or sell options. Short-term profits and losses are also credited to your account, for example through day trading or closing out a long or short position early.

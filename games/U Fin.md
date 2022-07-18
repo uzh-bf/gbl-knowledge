@@ -1,6 +1,5 @@
 ---
 slug: ufin
-order: 0
 title: 'uFin: The Challenge'
 href: '/games/u-fin'
 imgSrc: '/images/ufin.jpg'
@@ -60,10 +59,7 @@ radarCharts:
         value: 2
       - name: Accomplishment
         value: 8
-gallery:
-  - imgSrc: /images/uploads/9ff6392f-9578-4058-b9a4-3e71b10c7b72.jpg
-    alt: Thumbnail Image
-resources:
+thumbnail: /images/uploads/9ff6392f-9578-4058-b9a4-3e71b10c7b72.jpg
 ---
 
 Nowadays, many companies face the challenge of ensuring compliance with codes of conduct and strengthening a value-based corporate culture. While more rules and investment in compliance strategies were among the dominant strategies up to now, this game focuses on the promotion of individual skills and thus complements current practices in an optimal way. For this purpose, uFin: The Challenge was developed and empirically tested.

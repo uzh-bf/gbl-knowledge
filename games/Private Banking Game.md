@@ -1,6 +1,5 @@
 ---
 slug: private-banking-game
-order: 3
 title: Private Banking Advisory Game
 href: '/games/private-banking-game'
 imgSrc: '/images/under_construction.jpg'
@@ -58,8 +57,6 @@ radarCharts:
         value: 2
       - name: Accomplishment
         value: 6
-gallery: ''
-resources:
 ---
 
 The Private Banking Advisory Game helps players to learn how to carry out holistic investment advisory discussions. The game design requires the player to manage the triangular relationship between profits (thinking in terms of the company), customer satisfaction (thinking in terms of the customer), and soft skills (being friendly and empathetic).
