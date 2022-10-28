@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "b4b09d30c9b5b3f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ad45438a2346a86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "496c682534553f22",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b12f7d378d451558",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a2aeda9e4a2009b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce8b4aca33014e4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b98b28f40c2375a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#in-use",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285
+  },
+  "right": {
+    "id": "022f0841dc8baff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5cf9fcc1617bff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da28cb09df986d0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ab07c7d647955128",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "70d8ed20233946dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b31ef2f2e1f143d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256
+  },
+  "active": "496c682534553f22",
+  "lastOpenFiles": [
+    "gamification/Resources.md",
+    "games/Derivatives Game.md",
+    "Courses.md",
+    "workflow/Introduction to Digital Game-Based Learning.md",
+    "workflow/Game Topic.md",
+    "workflow/Game Execution.md",
+    "workflow/Game Development Workflow.md",
+    "workflow/Game Development.md",
+    "workflow/Further Resources and References.md",
+    "courses/Negotiating successfully to a win-win result.md"
+  ]
+}
