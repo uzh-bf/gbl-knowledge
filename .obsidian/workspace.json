@@ -11,7 +11,7 @@
             "id": "496c682534553f22",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -90,9 +90,38 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3424a797e9128fba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "650baa5c24a48a71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4cb34b533cd244f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "70d8ed20233946dd",
@@ -114,6 +143,7 @@
   },
   "active": "496c682534553f22",
   "lastOpenFiles": [
+    "Home.md",
     "gamification/Resources.md",
     "games/Derivatives Game.md",
     "Courses.md",
@@ -122,7 +152,6 @@
     "workflow/Game Execution.md",
     "workflow/Game Development Workflow.md",
     "workflow/Game Development.md",
-    "workflow/Further Resources and References.md",
-    "courses/Negotiating successfully to a win-win result.md"
+    "workflow/Further Resources and References.md"
   ]
 }
