@@ -66,8 +66,10 @@ thumbnail: /images/derivatives_2.png
 gallery:
   - imgSrc: /images/derivatives_2.png
     alt: Derivatives Game Image 1
+    name: Blabla 1
   - imgSrc: /images/derivatives_1.png
     alt: Derivatives Game Image 2
+    name: Blabla 2
 ---
 
 In this game, you take on roles as hedgers who want to use exchange-traded financial derivatives to hedge price fluctuation of the commodity “cocoa”. Either, you will end up as the management of a cocoa farm which might want to hedge the selling price of its harvest. Else, you will put yourself in the situation of the management of a chocolate factory that might want to hedge the buying price of cocoa for its chocolate production. 
