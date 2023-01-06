@@ -22,7 +22,7 @@ keywords:
   - Futures
   - Options
   - Web-based Simulation
-technologies:
+useCases:
   - "`@gbl-uzh/platform` including Typescript, React, Next.js, Prisma, PostgreSQL"
 imprint: Department of Banking and Finance, University of Zurich
 contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
