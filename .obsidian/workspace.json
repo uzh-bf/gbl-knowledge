@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a860d15440841160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "use-cases/Design Thinking For Game Based Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "use-cases/Derivatives Game In Use.md",
+                "file": "use-cases/Design Thinking For Game Based Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "use-cases/Derivatives Game In Use.md",
+                "file": "use-cases/Design Thinking For Game Based Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "use-cases/Derivatives Game In Use.md"
+                "file": "use-cases/Design Thinking For Game Based Learning.md"
               }
             }
           },
@@ -161,17 +174,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "6efe64e6fb288ed5",
+  "active": "a860d15440841160",
   "lastOpenFiles": [
-    "use-cases/Portfolio Management Simulation In Use.md",
     "use-cases/Derivatives Game In Use.md",
+    "use-cases/Design Thinking For Game Based Learning.md",
+    "use-cases/Portfolio Management Simulation In Use.md",
     "games/Irrigania.md",
     "games/Portfolio Management Simulation.md",
     "games/Derivatives Game.md",
     "games/Private Banking Game.md",
     "games/U Fin.md",
     "Home.md",
-    "references/Chou (2019).md",
-    "courses/Lebendige Lehre mit Mini-Planspielen, virtuell und real.md"
+    "references/Chou (2019).md"
   ]
 }
