@@ -6,7 +6,7 @@ We are working on a collection of courses at UZH that include gamified elements 
 
 ## Simulations
 
-- [[Portfolio Management Simulation]] #in-use
+- [[games/Portfolio Management Simulation]] #in-use
 - [[Derivatives Game]] #work-in-progress
 - [[Banking Game]] #planned
 

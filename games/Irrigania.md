@@ -1,7 +1,6 @@
 ---
 slug: irrigania
 title: Irrigania
-href: '/games/irrigania'
 imgSrc: '/images/irrigania_hero.png'
 tags: ['GEO', 'Simulation', 'Water Management']
 subtitle: A web-based game about sharing water resources

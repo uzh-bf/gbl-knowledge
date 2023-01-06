@@ -1,7 +1,6 @@
 ---
 slug: ufin
 title: 'uFin: The Challenge'
-href: '/games/u-fin'
 imgSrc: '/images/ufin.jpg'
 tags: ['DBF', 'Serious Game', 'Ethics']
 subtitle: Promoting Values in Business through Digital Games

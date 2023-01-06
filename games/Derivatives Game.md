@@ -1,7 +1,6 @@
 ---
 slug: derivatives-game
 title: Derivatives Game
-href: '/games/derivatives-game'
 imgSrc: '/images/derivatives_1.png'
 tags: ['DBF', 'Simulation', 'Derivatives Trading']
 subtitle: A simulation for a better understanding of exchange-traded financial derivatives

@@ -1,7 +1,6 @@
 ---
 slug: portfolio-management-simulation
 title: Portfolio Management Simulation
-href: '/games/portfolio-management-simulation'
 imgSrc: '/images/pfm_game.png'
 tags: ['DBF', 'Simulation', 'Investing']
 subtitle: A simulation to improve decision-making ability

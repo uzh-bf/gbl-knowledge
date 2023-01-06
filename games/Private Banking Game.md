@@ -1,7 +1,6 @@
 ---
 slug: private-banking-game
 title: Private Banking Advisory Game
-href: '/games/private-banking-game'
 imgSrc: '/images/under_construction.jpg'
 tags: ['DBF', 'Serious Game', 'Banking', 'Work in Progress']
 subtitle: A serious game to enhance your understanding of risk and return in an investment context

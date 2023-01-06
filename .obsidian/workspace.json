@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "use-cases/Portfolio Management Simulation copy.md",
+                "file": "use-cases/PFM-Simulation in Use.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "use-cases/Portfolio Management Simulation copy.md",
+                "file": "use-cases/PFM-Simulation in Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "use-cases/Portfolio Management Simulation copy.md",
+                "file": "use-cases/PFM-Simulation in Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "use-cases/Portfolio Management Simulation copy.md"
+                "file": "use-cases/PFM-Simulation in Use.md"
               }
             }
           },
@@ -163,13 +163,13 @@
   },
   "active": "6efe64e6fb288ed5",
   "lastOpenFiles": [
-    "use-cases/Derivatives Game.md",
-    "use-cases/Portfolio Management Simulation copy.md",
-    "games/U Fin.md",
-    "games/Private Banking Game.md",
-    "games/Portfolio Management Simulation.md",
-    "games/Irrigania.md",
+    "use-cases/Derivatives Game in Use.md",
+    "use-cases/PFM-Simulation in Use.md",
     "games/Derivatives Game.md",
+    "games/Irrigania.md",
+    "games/Portfolio Management Simulation.md",
+    "games/Private Banking Game.md",
+    "games/U Fin.md",
     "Home.md",
     "references/Chou (2019).md",
     "courses/Lebendige Lehre mit Mini-Planspielen, virtuell und real.md"
