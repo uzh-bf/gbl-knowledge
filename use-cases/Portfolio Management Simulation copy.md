@@ -7,9 +7,11 @@ imgSrc: '/images/pfm_game.png'
 tags: ['DBF', 'Simulation', 'Investing']
 subtitle: A simulation to improve decision-making ability
 objectives:
-  - Acquire knowledge of portfolio management and investment processes
-  - Get to know the success factors and conflicting goals of business management in a department
-  - Promotion of decision-making and communication skills
+  - Players are able to apply their knowledge in finance and macroeconomics in a portfolio management setting. 
+  - Players are able to construct a strategic asset allocation which covers the customer's needs. 
+  - Players are able to construct a portfolio that fits to the strategic and tactical asset allocation. 
+  - Players are able to analyze various financial ratios, draw conclusions and make tactical adjustments in the portfolio(s) based on macroeconomic forecasts. 
+  - Players are able to present and explain their strategy, implementation decisions, and results to a specific target audience in a suitable and understandable way.
 scenarios:
   - University education and training
   - In-house training
