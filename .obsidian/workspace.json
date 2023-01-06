@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 200
   },
   "right": {
     "id": "022f0841dc8baff1",
@@ -149,8 +149,8 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "fc58deff6552dcac",
