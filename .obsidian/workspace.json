@@ -35,8 +35,12 @@
             "id": "81d32d0568a41dd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "games/Portfolio Management Simulation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "games/Portfolio Management Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "games/Portfolio Management Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "games/Portfolio Management Simulation.md"
+              }
             }
           },
           {
@@ -178,8 +186,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ce8b4aca33014e4b",
+  "active": "81d32d0568a41dd6",
   "lastOpenFiles": [
+    "use-cases/Game Development with the GBL Platform.md",
     "use-cases/Design Thinking For Game Based Learning.md",
     "use-cases/Derivatives Game In Use.md",
     "use-cases/Portfolio Management Simulation In Use.md",
@@ -188,7 +197,6 @@
     "games/Derivatives Game.md",
     "games/Private Banking Game.md",
     "games/U Fin.md",
-    "Home.md",
-    "references/Chou (2019).md"
+    "Home.md"
   ]
 }
