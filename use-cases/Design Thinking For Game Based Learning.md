@@ -15,17 +15,13 @@ The six steps of the Design Thinking Process based on Design Council UK (2019) a
 -   Understand: Understand the question respectively problem (e.g., difficult conceptional topic) as a team and identify involved stakeholders (e.g., students, lecturers). 
 -   Observe: Observe (e.g. visit lectures, look at exam results) and talk to relevant stakeholders (e.g., students, lecturers) while dealing with the question respectively the problem. 
 -   Synthesis: Share, consolidate and summarize the gained information and decide which question respectively problem to focus on with the creativity of one’s team. 
-
 -   Ideation: Brainstorming with creative phases for ideas that could solve the question respectively problem. 
-    
 -   Prototyping: Build (a) playable prototype(s) of selected game ideas to test its technological feasibility. Make sure that the game idea(s) match your specified learning objectives. 
-    
 -   Testing: Let stakeholders test play and interact with the game prototype (e.g., make decisions in Excel). Get structured feedback to improve your game prototype. 
-    
 
 A description of the design thinking process applied in the field of Game-Based Learning respectively how to proceed from a specific need (e.g., I want to gamify a difficult conceptional topic) to a testable prototype can be found on the following slides. The miro template facilitates a design thinking process workshop in the field of Game-Based Learning: 
 
-<PDF der Slides einbinden> 
+SLIDE PDF
 
 [https://miro.com/app/board/uXjVPP7InLo=/](https://miro.com/app/board/uXjVPP7InLo=/) 
 
