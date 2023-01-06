@@ -14,23 +14,25 @@ scenarios:
   - In-house training
 language:
   - en
-  - de
 keywords:
   - derivatives trading
+  - hedging
+  - futures
+  - options
   - simulation
   - web-based
 imprint: Department of Banking and Finance, University of Zurich
-contact: '[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance, University of Zurich'
+contact: 'Dr. Benjamin Wilding'
 radarCharts:
   - name: Characteristics
-    text: In Progress
+    text: The Derivatives Game enables its players to work as the management of a cocoa farm or a chocolate factory in a market environment with uncertain cocoa prices. Players get the opportunity of applying their theoretical knowledge in the field of derivatives in a practically oriented environment. Further, they get to understand the chances and risks of trading on the spot and the derivatives markets, respectively. Players may work together in groups, but do not trade directly with their competitors, as the focus lies primarily on the analytical perspective of trading.
     content:
       - name: Analytic Thinking
         value: 9
       - name: Collaboration
-        value: 2
+        value: 5
       - name: Competition
-        value: 7
+        value: 6
       - name: Entertainment
         value: 3
       - name: Prior Knowledge
@@ -38,24 +40,24 @@ radarCharts:
       - name: Soft Skills
         value: 2
   - name: GamificationElements
-    text: In Progress
+    text: Within the Derivatives Game, players analyze the information regarding the price development (trend and volatility) that helps them to deal with the uncertainties of cocoa price development. Overall, they try to sell at a high price today and/or in future or buy at a low average price today and/or in future to maximize the fortune of their company. Additionally, the players try to accomplish tasks and complete micro learning elements to gain experience points and increase their level.
     content:
       - name: Epic Meaning
-        value: 4
+        value: 5
       - name: Empowerment
-        value: 4
-      - name: Social Influence
         value: 2
+      - name: Social Influence
+        value: 3
       - name: Unpredictability
         value: 8
       - name: Avoidance
-        value: 8
-      - name: Scarcity
-        value: 2
-      - name: Ownership
-        value: 8
-      - name: Accomplishment
         value: 7
+      - name: Scarcity
+        value: 5
+      - name: Ownership
+        value: 7
+      - name: Accomplishment
+        value: 6
 thumbnail: /images/derivatives_2.png
 gallery:
   - imgSrc: /images/derivatives_2.png
@@ -64,6 +66,10 @@ gallery:
     alt: Derivatives Game Image 2
 ---
 
-In the Derivatives Game you take the position of a derivatives trader and speculate on the value of one single stock. You can use two types of derivatives, futures and options. Your goal is to achieve the highest possible profit by speculating on the value of this stock. For the risk positions you build up as a derivatives trader, you have to deposit capital in a margin account. However, you do not have an endless amount of capital at your disposal: Your starting balance is 100 Swiss francs. You will additionally use this capital, for example, to meet a margin call or to buy or sell options. Short-term profits and losses are also credited to your account, for example through day trading or closing out a long or short position early.
+In this game, you take on roles as hedgers who want to use exchange-traded financial derivatives to hedge price fluctuation of the commodity “cocoa”. Either, you will end up as the management of a cocoa farm which might want to hedge the selling price of its harvest. Else, you will put yourself in the situation of the management of a chocolate factory that might want to hedge the buying price of cocoa for its chocolate production. 
 
-All contracts expire at the end of the game and depending on the prevailing stock price, you will make a profit or a loss with your outstanding contracts. The winner is determined by the largest cash balance among the players at the end of the last period.
+**For cocoa producers**: You are a team responsible for selling the cocoa beans you produce. You expect to produce 100 tons per year, all of which you have to sell within the same year. You have chosen Switzerland as your target market and are now trying to sell your cocoa beans at the highest possible price. Your global competitors have also set their sights on the very lucrative Swiss market, and now you have the challenging task of selling your sweet commodity. 
+
+**For chocolate producers**: You are a team responsible for the procurement of a chocolate factory and have received the order to purchase cocoa beans as cheaply as possible on the market. You calculate that your company requires 100 tons per year to sustain production. Your competitors from other cantons have also set their sights on the very lucrative Swiss chocolate market, and now you have the challenging task of buying the required sweet commodity. 
+
+In order to get the necessary admission to the derivatives market, you as the management must first work through some **microlearning** and prove your skills. At the beginning, you can only sell your beans on the spot market. During further play and as you improve your knowledge, the futures and options markets will also become available. In later periods of the game, you will have to carefully decide on your strategy, as you may also use the advanced markets for speculation and to gain leverage.
