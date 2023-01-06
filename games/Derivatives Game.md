@@ -38,14 +38,14 @@ radarCharts:
       - name: Entertainment
         value: 3
       - name: Prior Knowledge
-        value: 6
+        value: 7
       - name: Soft Skills
-        value: 2
+        value: 3
   - name: GamificationElements
     text: Within the Derivatives Game, players analyze the information regarding the price development (trend and volatility) that helps them to deal with the uncertainties of cocoa price development. Overall, they try to sell at a high price today and/or in future or buy at a low average price today and/or in future to maximize the fortune of their company. Additionally, the players try to accomplish tasks and complete micro learning elements to gain experience points and increase their level.
     content:
       - name: Epic Meaning
-        value: 5
+        value: 6
       - name: Empowerment
         value: 2
       - name: Social Influence
@@ -59,7 +59,7 @@ radarCharts:
       - name: Ownership
         value: 7
       - name: Accomplishment
-        value: 6
+        value: 7
 thumbnail: /images/derivatives_2.png
 gallery:
   - imgSrc: /images/derivatives_2.png
