@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81d32d0568a41dd6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "use-cases/Design Thinking For Game Based Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "use-cases/Design Thinking For Game Based Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "use-cases/Design Thinking For Game Based Learning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +178,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a860d15440841160",
+  "active": "ce8b4aca33014e4b",
   "lastOpenFiles": [
-    "use-cases/Derivatives Game In Use.md",
     "use-cases/Design Thinking For Game Based Learning.md",
+    "use-cases/Derivatives Game In Use.md",
     "use-cases/Portfolio Management Simulation In Use.md",
     "games/Irrigania.md",
     "games/Portfolio Management Simulation.md",
