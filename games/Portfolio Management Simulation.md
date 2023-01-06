@@ -13,15 +13,15 @@ scenarios:
   - University education and training
   - In-house training
 language:
-  - en
+  - English
 usedIn:
   - name: Advanced Portfolio Management Game (S)
 keywords:
-  - investing
-  - simulation
-  - web-based
+  - Investing
+  - Simulation
+  - Web-based
 imprint: Department of Banking and Finance, University of Zurich
-contact: '[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance, University of Zurich'
+contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
 radarCharts:
   - name: Characteristics
     text: The Portfolio Management Game enables its users to cooperate as a management of a private bank while competing for customers against other management teams. Thereby they apply their knowledge in the field of asset management.

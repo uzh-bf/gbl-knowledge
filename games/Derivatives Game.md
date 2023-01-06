@@ -15,14 +15,14 @@ scenarios:
   - University education and training
   - In-house training
 language:
-  - en
+  - English
 keywords:
-  - derivatives trading
-  - hedging
-  - futures
-  - options
-  - simulation
-  - web-based
+  - Derivatives trading
+  - Hedging
+  - Futures
+  - Options
+  - Simulation
+  - Web-based
 technologies:
   - "`@gbl-uzh/platform` including Typescript, React, Next.js, Prisma, PostgreSQL"
 imprint: Department of Banking and Finance, University of Zurich
