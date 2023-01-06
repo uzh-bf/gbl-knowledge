@@ -6,9 +6,11 @@ imgSrc: '/images/derivatives_1.png'
 tags: ['DBF', 'Simulation', 'Derivatives Trading']
 subtitle: A simulation for a better understanding of exchange-traded financial derivatives
 objectives:
-  - Understand the elementary differences between futures and options
-  - Be able to take long and short positions in futures and options and close them out
-  - Get to know the process of derivatives trading from the formation of a contract to its maturity date
+ - Players can apply their theoretical knowledge to trade on spot, futures, and options markets according to their assigned role. 
+ - Players can describe and interpret the elementary differences between spot, futures, and options trading. 
+ - Players can decide whether a spot, future, or options transaction is favorable to their situation. 
+ - Players can summarize the process of derivatives trading from the formation of a contract to its maturity date for the different markets. 
+ - Players can analyze the outcome, draw conclusions, and adjust their (derivatives) portfolio based on the price expectations.
 scenarios:
   - University education and training
   - In-house training
@@ -22,7 +24,7 @@ keywords:
   - simulation
   - web-based
 imprint: Department of Banking and Finance, University of Zurich
-contact: 'Dr. Benjamin Wilding'
+contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
 radarCharts:
   - name: Characteristics
     text: The Derivatives Game enables its players to work as the management of a cocoa farm or a chocolate factory in a market environment with uncertain cocoa prices. Players get the opportunity of applying their theoretical knowledge in the field of derivatives in a practically oriented environment. Further, they get to understand the chances and risks of trading on the spot and the derivatives markets, respectively. Players may work together in groups, but do not trade directly with their competitors, as the focus lies primarily on the analytical perspective of trading.
