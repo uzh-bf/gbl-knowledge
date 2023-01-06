@@ -24,7 +24,7 @@ keywords:
   - simulation
   - web-based
 technologies:
-- @gbl-uzh/platform (React, Next.js, Prisma)
+  - "`@gbl-uzh/platform` including Typescript, React, Next.js, Prisma, PostgreSQL"
 imprint: Department of Banking and Finance, University of Zurich
 contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
 radarCharts:
