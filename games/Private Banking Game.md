@@ -14,12 +14,10 @@ scenarios:
   - University education and training
   - In-house training
 language:
-  - en
+  - English
 keywords:
-  - advisory
-  - serious game
-  - tablet
-  - web-based
+  - Client Advisory
+  - Web-based Serious Game
 imprint: Department of Banking and Finance, University of Zurich
 contact: '[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance, University of Zurich'
 radarCharts:

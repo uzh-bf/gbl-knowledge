@@ -17,9 +17,9 @@ language:
 usedIn:
   - name: Advanced Portfolio Management Game (S)
 keywords:
-  - Investing
-  - Simulation
-  - Web-based
+  - Investment Strategy
+  - Asset Management
+  - Web-based Simulation
 imprint: Department of Banking and Finance, University of Zurich
 contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
 radarCharts:

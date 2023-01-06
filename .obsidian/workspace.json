@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games/Derivatives Game.md",
+                "file": "games/U Fin.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/Derivatives Game.md",
+                "file": "games/U Fin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "games/Derivatives Game.md",
+                "file": "games/U Fin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "games/Derivatives Game.md"
+                "file": "games/U Fin.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "3d38fe3d481538ca",
   "lastOpenFiles": [
+    "games/Private Banking Game.md",
     "games/Portfolio Management Simulation.md",
+    "games/Irrigania.md",
     "games/Derivatives Game.md",
+    "games/U Fin.md",
     "Home.md",
     "references/Chou (2019).md",
     "courses/Lebendige Lehre mit Mini-Planspielen, virtuell und real.md",
     "courses/Introduction to Strategic Management (L+E).md",
-    "courses/Introduction to Digital Games.md",
-    "courses/Advanced Portfolio Management Game (S).md",
-    "gamification/Resources.md",
-    "Courses.md"
+    "courses/Introduction to Digital Games.md"
   ]
 }

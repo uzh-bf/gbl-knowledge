@@ -17,12 +17,11 @@ scenarios:
 language:
   - English
 keywords:
-  - Derivatives trading
+  - Derivatives Trading
   - Hedging
   - Futures
   - Options
-  - Simulation
-  - Web-based
+  - Web-based Simulation
 technologies:
   - "`@gbl-uzh/platform` including Typescript, React, Next.js, Prisma, PostgreSQL"
 imprint: Department of Banking and Finance, University of Zurich

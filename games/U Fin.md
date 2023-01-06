@@ -14,14 +14,13 @@ scenarios:
   - Ethics and compliance training
   - In-house training
 language:
-  - de
+  - German
 usedIn:
   - name: Behavioral Ethics (S)
 keywords:
-  - business ethics
-  - serious game
-  - sustainable finance
-  - tablet
+  - Business Ethics
+  - Sustainable Finance
+  - Tablet-based Serious Game
 imprint: Prof. Dr. Carmen Tanner, PD Dr. Markus Christen, Dr. David Schmocker, and Johannes Katsarov (game development), koboldgames GmbH ([www.koboldgames.ch](http://www.koboldgames.ch/), technical implementation)
 contact: '[Prof.Dr. Carmen Tanner](https://www.bf.uzh.ch/de/persons/tanner-carmen), Department of Banking and Finance UZH, Center for Responsibility in Finance'
 radarCharts:

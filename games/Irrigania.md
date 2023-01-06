@@ -12,13 +12,13 @@ objectives:
 scenarios:
   - University education and training
 language:
-  - en
+  - English
 usedIn:
   - name: 'ESS371 – Wasser und Mensch'
 keywords:
-  - shared water resources
-  - tragedy-of-the-commons
-  - web-based
+  - Shared Water Resources
+  - Tragedy of the Commons
+  - Web-based Simulation
 imprint: Department of Geography, University of Zurich
 contact: 'Prof. Dr. Jan Seibert (jan.seibert@geo.uzh.ch), Marc Vis (marc.vis@geo.uzh.ch), Hydrology and Climate, Department of Geography'
 gallery:
@@ -29,7 +29,7 @@ gallery:
 resources:
   - name: 'Research Paper: Seibert, J. and Vis, M. (2012)'
     href: https://hess.copernicus.org/articles/16/2523/2012/
-  - name: Website
+  - name: Game Website
     href: https://www.irrigania.ch
 ---
 
