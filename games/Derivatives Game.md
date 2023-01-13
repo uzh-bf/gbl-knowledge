@@ -23,8 +23,10 @@ keywords:
   - Options
 useCases:
   - title: Derivatives Game in Use
-  
-  - "`@gbl-uzh/platform` including Typescript, React, Next.js, Prisma, PostgreSQL"
+    href: /use-cases/derivatives-game-in-use
+  - title: "@gbl-uzh/platform"
+    subtitle: Open-Source Platform for Web-based Simulations
+    href: ""
 imprint: Department of Banking and Finance, University of Zurich
 contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
 radarCharts:
