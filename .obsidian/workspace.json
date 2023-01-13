@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "910c85be68fbe89e",
+        "id": "b5d332fab6d98a96",
         "type": "tabs",
         "children": [
           {
-            "id": "a860d15440841160",
+            "id": "f5bedf730637e747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project.md",
+                "file": "definitions/Course Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project.md",
+                "file": "definitions/Course Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project.md",
+                "file": "definitions/Course Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project.md"
+                "file": "definitions/Course Design.md"
               }
             }
           },
@@ -161,17 +161,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a860d15440841160",
+  "active": "ce8b4aca33014e4b",
   "lastOpenFiles": [
-    "Serious Games.md",
-    "definitions/Serious Game.md",
-    "tools/Game Engines for Serious Games.md",
-    "tools/Game Engines for Simulations.md",
-    "games/Derivatives Game.md",
-    "games/Portfolio Management Simulation.md",
-    "games/Private Banking Game.md",
-    "games/U Fin.md",
-    "definitions/Web-based Simulation.md",
-    "definitions/Soft Skills.md"
+    "use-cases/Portfolio Management Simulation In Use.md",
+    "use-cases/Design Thinking For Game Based Learning.md",
+    "use-cases/Derivatives Game In Use.md",
+    "resources/GBL Simulation Platform.md",
+    "Project.md",
+    "resources/GBL Toolbox.md",
+    "resources/GBL Knowledge Base.md",
+    "Getting Started.md",
+    "resources/GBL in Use.md",
+    "Home.md"
   ]
 }
