@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5d332fab6d98a96",
+        "id": "f9828978527b916c",
         "type": "tabs",
         "children": [
           {
-            "id": "f5bedf730637e747",
+            "id": "a5d919b2a8d03d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definitions/Course Design.md",
+                "file": "use-cases/Portfolio Management Simulation In Use.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definitions/Course Design.md",
+                "file": "use-cases/Portfolio Management Simulation In Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definitions/Course Design.md",
+                "file": "use-cases/Portfolio Management Simulation In Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitions/Course Design.md"
+                "file": "use-cases/Portfolio Management Simulation In Use.md"
               }
             }
           },
@@ -161,17 +161,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ce8b4aca33014e4b",
+  "active": "a5d919b2a8d03d2a",
   "lastOpenFiles": [
+    "definitions/Prior Knowledge.md",
     "use-cases/Portfolio Management Simulation In Use.md",
-    "use-cases/Design Thinking For Game Based Learning.md",
-    "use-cases/Derivatives Game In Use.md",
-    "resources/GBL Simulation Platform.md",
-    "Project.md",
-    "resources/GBL Toolbox.md",
-    "resources/GBL Knowledge Base.md",
-    "Getting Started.md",
-    "resources/GBL in Use.md",
-    "Home.md"
+    "definitions/Assessment Design.md",
+    "definitions/Course Evaluation.md",
+    "games/Portfolio Management Simulation.md",
+    "courses/An Introduction to Revenue Management and Pricing (S).md",
+    "courses/Advanced Portfolio Management Game (S).md",
+    "Courses.md",
+    "definitions/Course Design.md",
+    "use-cases/Design Thinking For Game Based Learning.md"
   ]
 }
