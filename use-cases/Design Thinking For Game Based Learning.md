@@ -8,26 +8,26 @@ resources:
 
 ## Design Thinking
 
-Design thinking provides a way to face dynamic, multifaceted challenges, such as elaborating game ideas and prototypes, by using a creative and collaborative process. «Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success», said Tim Brown, Executive Chair of IDEO.
+[[Design Thinking]] provides a way to face dynamic, multifaceted challenges, such as elaborating game ideas and prototypes, by using a creative and collaborative process. «Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success», said Tim Brown, Executive Chair of IDEO.
 
-The design thinking process is a way to solve problems through creativity. Throughout the design thinking process, choices are created (divergent thinking), and choices are being made (convergent thinking):
+The design thinking process is a way to solve problems through creativity. Throughout the [[Design Thinking|Design Thinking Process]], choices are created (divergent thinking), and choices are being made (convergent thinking):
 
-BILD
+![[Pasted image 20230113125209.png]]
 
 ## Design Thinking Process
 
-The six steps of the Design Thinking Process based on Design Council UK (2019) and Stadelmann (2021) are the following:
+The six steps of the [[Design Thinking|Design Thinking Process]] based on Design Council UK (2019) and Stadelmann (2021) are the following:
 
-- Understand: Understand the question respectively problem (e.g., difficult conceptional topic) as a team and identify involved stakeholders (e.g., students, lecturers).
-- Observe: Observe (e.g. visit lectures, look at exam results) and talk to relevant stakeholders (e.g., students, lecturers) while dealing with the question respectively the problem.
-- Synthesis: Share, consolidate and summarize the gained information and decide which question respectively problem to focus on with the creativity of one’s team.
-- Ideation: Brainstorming with creative phases for ideas that could solve the question respectively problem.
-- Prototyping: Build (a) playable prototype(s) of selected game ideas to test its technological feasibility. Make sure that the game idea(s) match your specified learning objectives.
-- Testing: Let stakeholders test play and interact with the game prototype (e.g., make decisions in Excel). Get structured feedback to improve your game prototype.
+- **Understand**: Understand the question respectively problem (e.g., difficult conceptional topic) as a team and identify involved stakeholders (e.g., students, lecturers).
+- **Observe**: Observe (e.g. visit lectures, look at exam results) and talk to relevant stakeholders (e.g., students, lecturers) while dealing with the question respectively the problem.
+- **Synthesis**: Share, consolidate and summarize the gained information and decide which question respectively problem to focus on with the creativity of one’s team.
+- **Ideation**: Brainstorming with creative phases for ideas that could solve the question respectively problem.
+- **Prototyping**: Build (a) playable prototype(s) of selected game ideas to test its technological feasibility. Make sure that the game idea(s) match your specified learning objectives.
+- **Testing**: Let stakeholders test play and interact with the game prototype (e.g., make decisions in Excel). Get structured feedback to improve your game prototype.
 
 ## Design Thinking for Game-Based Learning
 
-A description of the design thinking process applied in the field of Game-Based Learning respectively how to proceed from a specific need (e.g., I want to gamify a difficult conceptional topic) to a testable prototype can be found on the following slides. The miro template facilitates a design thinking process workshop in the field of Game-Based Learning:
+A description of the [[Design Thinking|Design Thinking Process]] applied in the field of [[Game-Based Learning]] respectively how to proceed from a specific need (e.g., I want to gamify a difficult conceptional topic) to a [[Prototype|Testable Prototype]] can be found on the following slides. The [[Miro]] template facilitates a [[Design Thinking]] workshop in the field of [[Game-Based Learning]]:
 
 SLIDE PDF
 

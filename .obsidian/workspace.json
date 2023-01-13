@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9828978527b916c",
+        "id": "58b3f0c20af64596",
         "type": "tabs",
         "children": [
           {
-            "id": "a5d919b2a8d03d2a",
+            "id": "8e973271e697f808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "use-cases/Portfolio Management Simulation In Use.md",
+                "file": "use-cases/Design Thinking For Game Based Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "use-cases/Portfolio Management Simulation In Use.md",
+                "file": "use-cases/Design Thinking For Game Based Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "use-cases/Portfolio Management Simulation In Use.md",
+                "file": "use-cases/Design Thinking For Game Based Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "use-cases/Portfolio Management Simulation In Use.md"
+                "file": "use-cases/Design Thinking For Game Based Learning.md"
               }
             }
           },
@@ -161,17 +161,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a5d919b2a8d03d2a",
+  "active": "8e973271e697f808",
   "lastOpenFiles": [
-    "definitions/Prior Knowledge.md",
+    "definitions/Miro.md",
+    "use-cases/Design Thinking For Game Based Learning.md",
+    "definitions/Prototype.md",
+    "definitions/Design Thinking.md",
     "use-cases/Portfolio Management Simulation In Use.md",
+    "definitions/Prior Knowledge.md",
     "definitions/Assessment Design.md",
     "definitions/Course Evaluation.md",
     "games/Portfolio Management Simulation.md",
-    "courses/An Introduction to Revenue Management and Pricing (S).md",
-    "courses/Advanced Portfolio Management Game (S).md",
-    "Courses.md",
-    "definitions/Course Design.md",
-    "use-cases/Design Thinking For Game Based Learning.md"
+    "courses/An Introduction to Revenue Management and Pricing (S).md"
   ]
 }

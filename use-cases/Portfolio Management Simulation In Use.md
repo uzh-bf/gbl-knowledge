@@ -67,6 +67,8 @@ Any of the following elements or any combination / weighting thereof can be used
 - **Written assignment**: e.g., design a portfolio factsheet resembling a real-life fund description, including a summary of the game performance and strategy/major decisions
 - **Game performance**: e.g., (game) stock price development, portfolio performance (portfolio return, Sharpe Ratio), total earnings as a bank
 
+![[Pasted image 20230113125115.png]]
+
 [[Assessment Design]] should be aligned with the [[Learning Objective]] and should keep the students engaged and motivated throughout the course. Natural competition between teams (I.e., banks) helps, but should not be the main focus during play.
 
 ## Evaluation and Feedback
