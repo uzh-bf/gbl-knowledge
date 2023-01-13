@@ -29,9 +29,9 @@ The six steps of the [[Design Thinking|Design Thinking Process]] based on Design
 
 A description of the [[Design Thinking|Design Thinking Process]] applied in the field of [[Game-Based Learning]] respectively how to proceed from a specific need (e.g., I want to gamify a difficult conceptional topic) to a [[Prototype|Testable Prototype]] can be found on the following slides. The [[Miro]] template facilitates a [[Design Thinking]] workshop in the field of [[Game-Based Learning]]:
 
-SLIDE PDF
-
 [https://miro.com/app/board/uXjVPP7InLo=/](https://miro.com/app/board/uXjVPP7InLo=/)
+
+![[GBL_Design_Thinking_Process.pdf]]
 
 ## Further Resources and References
 
