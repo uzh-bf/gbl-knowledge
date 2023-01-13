@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games/Portfolio Management Simulation.md",
+                "file": "use-cases/Derivatives Game In Use.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/Portfolio Management Simulation.md",
+                "file": "use-cases/Derivatives Game In Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "games/Portfolio Management Simulation.md",
+                "file": "use-cases/Derivatives Game In Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "games/Portfolio Management Simulation.md"
+                "file": "use-cases/Derivatives Game In Use.md"
               }
             }
           },
@@ -188,12 +188,12 @@
   },
   "active": "81d32d0568a41dd6",
   "lastOpenFiles": [
+    "games/Portfolio Management Simulation.md",
     "use-cases/Game Development with the GBL Platform.md",
     "use-cases/Design Thinking For Game Based Learning.md",
     "use-cases/Derivatives Game In Use.md",
     "use-cases/Portfolio Management Simulation In Use.md",
     "games/Irrigania.md",
-    "games/Portfolio Management Simulation.md",
     "games/Derivatives Game.md",
     "games/Private Banking Game.md",
     "games/U Fin.md",

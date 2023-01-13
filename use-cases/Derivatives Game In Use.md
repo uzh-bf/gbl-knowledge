@@ -22,7 +22,7 @@ A main target of the Derivatives Game is to let the students understand and expe
 - Futures market: A good is bought or sold in the future, but the price and the amount of the transaction are set today.
 - Options market: An option gives its owner the right, but not the obligation, to buy or sell a specific asset at a specific price. Conversely, the issuer (seller) of the option is obliged to sell or buy the asset at the agreed price if the owner of the option decides to exercise it. The buyer of the option can determine whether the option is exercised.
 
-It is not required that the students are able to conduct price calculations. A basic understanding of the mechanisms is sufficient. Throughout the game, players gain a deeper understanding of the materials.
+It is not required that the students are able to conduct price calculations. A basic understanding of the mechanisms is sufficient. Throughout the game, players gain a deeper understanding of the materials.asdasd
 
 ## Target Group
 
@@ -31,9 +31,3 @@ The Derivatives Game is primarily designed for students at university level with
 ## Course Design
 
 When applying the Derivatives Game, we recommend at least 4 game periods to introduce the game and the different markets. The pace of the periods can be increased over time. Between the game, lectures on theoretical and practice-oriented topics enrich the seminar.
-
-## Assessment Design
-
-...
-
-## Evaluation & Feedback
