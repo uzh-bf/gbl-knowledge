@@ -25,7 +25,8 @@ useCases:
   - title: Derivatives Game in Use
     imgSrc: '/images/derivatives_1.png'
     href: /use-cases/derivatives-game-in-use
-  - title: "@gbl-uzh/platform"
+  - title: "WIP: @gbl-uzh/platform"
+    imgSrc: '/images/under_construction.jpg'
     subtitle: Open-Source Platform for Web-based Simulations
     href: ""
 imprint: Department of Banking and Finance, University of Zurich

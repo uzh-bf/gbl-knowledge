@@ -15,8 +15,8 @@ scenarios:
 language:
   - English
 keywords:
-  - Client Advisory
   - Web-based Serious Game
+  - Client Advisory
 imprint: Department of Banking and Finance, University of Zurich
 contact: '[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance, University of Zurich'
 radarCharts:

@@ -15,9 +15,9 @@ language:
 usedIn:
   - name: 'ESS371 – Wasser und Mensch'
 keywords:
+  - Web-based Simulation
   - Shared Water Resources
   - Tragedy of the Commons
-  - Web-based Simulation
 imprint: Department of Geography, University of Zurich
 contact: 'Prof. Dr. Jan Seibert (jan.seibert@geo.uzh.ch), Marc Vis (marc.vis@geo.uzh.ch), Hydrology and Climate, Department of Geography'
 gallery:

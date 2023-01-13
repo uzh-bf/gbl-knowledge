@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58b3f0c20af64596",
+        "id": "e5c45dff40e13190",
         "type": "tabs",
         "children": [
           {
-            "id": "8e973271e697f808",
+            "id": "71ce917bed33b74c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,17 +161,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8e973271e697f808",
+  "active": "71ce917bed33b74c",
   "lastOpenFiles": [
     "games/Derivatives Game.md",
     "games/Portfolio Management Simulation.md",
+    "games/Private Banking Game.md",
+    "games/Irrigania.md",
+    "games/U Fin.md",
     "use-cases/Derivatives Game In Use.md",
     "workflow/Game Development Workflow.md",
     "workflow/Introduction to Digital Game-Based Learning.md",
     "workflow/Game Topic.md",
-    "workflow/Game Execution.md",
-    "workflow/Further Resources and References.md",
-    "workflow/Game Development.md",
-    "use-cases/Design Thinking For Game Based Learning.md"
+    "workflow/Game Execution.md"
   ]
 }

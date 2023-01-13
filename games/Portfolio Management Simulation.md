@@ -18,15 +18,16 @@ language:
 usedIn:
   - name: Advanced Portfolio Management Game (S)
 keywords:
+  - Web-based Simulation
   - Investment Strategy
   - Asset Management
-  - Web-based Simulation
 useCases:
   - title: Portfolio Management Simulation in Use
     imgSrc: '/images/pfm_game.png'
-    href: /use-cases/use-cases/portfolio-management-simulation-in-use
-  - title: "Time-Series Bootstrap for GBL"
+    href: /use-cases/portfolio-management-simulation-in-use
+  - title: "WIP: Time-Series Bootstrap for GBL"
     subtitle: Working with Time-Series and Scenarios
+    imgSrc: '/images/under_construction.jpg'
     href: ""
 imprint: Department of Banking and Finance, University of Zurich
 contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
