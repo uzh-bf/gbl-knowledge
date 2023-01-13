@@ -1,6 +1,6 @@
-[[Serious Games]] are focused on the game experience to foster experiential learning. Therefore, these games are often more similar to games made for entertainment, especially in terms of visual fidelity and storytelling. Game engines made for traditional games can be very useful when trying to build a serious game, as they abstract away a lot of the lower level coding.
+[[Serious Game|Serious Games]] are focused on the game experience to foster experiential learning. Therefore, these games are often more similar to games made for entertainment, especially in terms of visual fidelity and storytelling. Game engines made for traditional games can be very useful when trying to build a serious game, as they abstract away a lot of the lower level coding.
 
-We recommend evaluating at least the following engines if you are looking to build [[Serious Games]]:
+We recommend evaluating at least the following engines if you are looking to build [[Serious Game|Serious Games]]:
 
 - Unity Engine -> https://unity.com/ #proprietary
 	- Especially good for visual storytelling

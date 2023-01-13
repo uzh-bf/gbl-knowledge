@@ -5,9 +5,9 @@ imgSrc: '/images/ufin.jpg'
 tags: ['DBF', 'Serious Game', 'Ethics']
 subtitle: Promoting Values in Business through Digital Games
 objectives:
-  - Establish and improve a sensorium for violations of rules and ethical standards
-  - Sharpen the perception of blind spots in the personal value system
-  - Strengthen empathic perception of the needs and interests of others
+  - Establish and improve a sensorium for violations of rules and ethical standards.
+  - Sharpen the perception of blind spots in the personal value system.
+  - Strengthen empathic perception of the needs and interests of others.
 scenarios:
   - University education and training
   - Ethics and compliance training
