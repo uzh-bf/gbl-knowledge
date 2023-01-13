@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "81d32d0568a41dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "use-cases/Derivatives Game In Use.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,17 +173,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "81d32d0568a41dd6",
+  "active": "6efe64e6fb288ed5",
   "lastOpenFiles": [
-    "games/Portfolio Management Simulation.md",
-    "use-cases/Game Development with the GBL Platform.md",
-    "use-cases/Design Thinking For Game Based Learning.md",
+    "definitions/Learning Objective.md",
     "use-cases/Derivatives Game In Use.md",
+    "definitions/Banking and Finance.md",
+    "Spot Market.md",
+    "Courses.md",
+    "definitions/Microlearning.md",
+    "use-cases/Design Thinking For Game Based Learning.md",
     "use-cases/Portfolio Management Simulation In Use.md",
-    "games/Irrigania.md",
-    "games/Derivatives Game.md",
-    "games/Private Banking Game.md",
-    "games/U Fin.md",
-    "Home.md"
+    "games/Portfolio Management Simulation.md",
+    "use-cases/Game Development with the GBL Platform.md"
   ]
 }
