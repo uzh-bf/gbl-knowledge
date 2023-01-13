@@ -21,6 +21,13 @@ keywords:
   - Investment Strategy
   - Asset Management
   - Web-based Simulation
+useCases:
+  - title: Portfolio Management Simulation in Use
+    imgSrc: '/images/pfm_game.png'
+    href: /use-cases/use-cases/portfolio-management-simulation-in-use
+  - title: "Time-Series Bootstrap for GBL"
+    subtitle: Working with Time-Series and Scenarios
+    href: ""
 imprint: Department of Banking and Finance, University of Zurich
 contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
 radarCharts:

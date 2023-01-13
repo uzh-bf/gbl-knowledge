@@ -23,6 +23,7 @@ keywords:
   - Options
 useCases:
   - title: Derivatives Game in Use
+    imgSrc: '/images/derivatives_1.png'
     href: /use-cases/derivatives-game-in-use
   - title: "@gbl-uzh/platform"
     subtitle: Open-Source Platform for Web-based Simulations
