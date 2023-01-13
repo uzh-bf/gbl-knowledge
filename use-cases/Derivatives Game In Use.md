@@ -22,12 +22,16 @@ A main target of the [[Derivatives Game]] is to let the students understand and 
 - **Futures market**: A good is bought or sold in the future, but the price and the amount of the transaction are set today.
 - **Options market**: An option gives its owner the right, but not the obligation, to buy or sell a specific asset at a specific price. Conversely, the issuer (seller) of the option is obliged to sell or buy the asset at the agreed price if the owner of the option decides to exercise it. The buyer of the option can determine whether the option is exercised.
 
+![[Pasted image 20230113123042.png]]
+
 It is not required that the students are able to conduct price calculations. A basic understanding of the mechanisms is sufficient. Throughout the game, players gain a deeper understanding of the materials.
 
 ## Target Group
 
-The Derivatives Game is primarily designed for students at university level with courses in the field of [[Banking and Finance]]. Often, students are able to conduct specific calculations and answer exam questions. However, when it comes to actually putting the knowledge in the field of derivatives into action, many students struggle according to our experience. By applying the knowledge in a simulation where the underlying commodity is the somehow tangible good cocoa, players gain a higher level of understanding according to the [[Learning Objective]] taxonomy. From remembering, understanding and applying in terms of solving calculations they additionally move to analyzing, evaluating and creating own strategies using the given financial instruments.
+The Derivatives Game is primarily designed for students at university level with courses in the field of [[Banking and Finance]]. Often, students are able to conduct specific calculations and answer exam questions. However, when it comes to actually putting the knowledge in the field of derivatives into action, many students struggle according to our experience.
+
+By applying the knowledge in a simulation where the underlying commodity is the somehow tangible good cocoa, players gain a higher level of understanding according to the [[Learning Objective]] taxonomy. From remembering, understanding and applying in terms of solving calculations they additionally move to analyzing, evaluating and creating own strategies using the given financial instruments.
 
 ## Course Design
 
-When applying the [[Derivatives Game]], we recommend at least 4 game periods to introduce the game and the different markets. The pace of the periods can be increased over time. Between the game, lectures on theoretical and practice-oriented topics enrich the seminar.
+When applying the [[Derivatives Game]], we recommend playing at least 4 game periods to introduce the game and the different markets. The pace of the periods can be increased over time. Between the game, lectures on theoretical and practice-oriented topics enrich the seminar.

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6efe64e6fb288ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "use-cases/Derivatives Game In Use.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a860d15440841160",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "use-cases/Design Thinking For Game Based Learning.md",
+                "file": "games/Portfolio Management Simulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "use-cases/Derivatives Game In Use.md",
+                "file": "games/Portfolio Management Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "use-cases/Derivatives Game In Use.md",
+                "file": "games/Portfolio Management Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "use-cases/Derivatives Game In Use.md"
+                "file": "games/Portfolio Management Simulation.md"
               }
             }
           },
@@ -173,17 +161,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "6efe64e6fb288ed5",
+  "active": "a860d15440841160",
   "lastOpenFiles": [
-    "definitions/Learning Objective.md",
+    "games/Derivatives Game.md",
+    "definitions/Web-based Simulation.md",
+    "games/Portfolio Management Simulation.md",
+    "use-cases/Design Thinking For Game Based Learning.md",
+    "definitions/Microlearning.md",
     "use-cases/Derivatives Game In Use.md",
+    "definitions/Learning Objective.md",
     "definitions/Banking and Finance.md",
     "Spot Market.md",
-    "Courses.md",
-    "definitions/Microlearning.md",
-    "use-cases/Design Thinking For Game Based Learning.md",
-    "use-cases/Portfolio Management Simulation In Use.md",
-    "games/Portfolio Management Simulation.md",
-    "use-cases/Game Development with the GBL Platform.md"
+    "Courses.md"
   ]
 }

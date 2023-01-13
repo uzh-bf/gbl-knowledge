@@ -16,11 +16,11 @@ scenarios:
 language:
   - English
 keywords:
+  - Web-based Simulation
   - Derivatives Trading
   - Hedging
   - Futures
   - Options
-  - Web-based Simulation
 useCases:
   - "`@gbl-uzh/platform` including Typescript, React, Next.js, Prisma, PostgreSQL"
 imprint: Department of Banking and Finance, University of Zurich
@@ -64,10 +64,8 @@ thumbnail: /images/derivatives_2.png
 gallery:
   - imgSrc: /images/derivatives_2.png
     alt: Derivatives Game Image 1
-    name: Blabla 1
   - imgSrc: /images/derivatives_1.png
     alt: Derivatives Game Image 2
-    name: Blabla 2
 ---
 
 In this game, you take on roles as hedgers who want to use exchange-traded financial derivatives to hedge price fluctuation of the commodity “cocoa”. Either, you will end up as the management of a cocoa farm which might want to hedge the selling price of its harvest. Else, you will put yourself in the situation of the management of a chocolate factory that might want to hedge the buying price of cocoa for its chocolate production. 
@@ -76,4 +74,4 @@ In this game, you take on roles as hedgers who want to use exchange-traded finan
 
 **For chocolate producers**: You are a team responsible for the procurement of a chocolate factory and have received the order to purchase cocoa beans as cheaply as possible on the market. You calculate that your company requires 100 tons per year to sustain production. Your competitors from other cantons have also set their sights on the very lucrative Swiss chocolate market, and now you have the challenging task of buying the required sweet commodity. 
 
-In order to get the necessary admission to the derivatives market, you as the management must first work through some **microlearning** and prove your skills. At the beginning, you can only sell your beans on the spot market. During further play and as you improve your knowledge, the futures and options markets will also become available. In later periods of the game, you will have to carefully decide on your strategy, as you may also use the advanced markets for speculation and to gain leverage.
+In order to get the necessary admission to the derivatives market, you as the management must first work through some **[[Microlearning]]** and prove your skills. At the beginning, you can only sell your beans on the spot market. During further play and as you improve your knowledge, the futures and options markets will also become available. In later periods of the game, you will have to carefully decide on your strategy, as you may also use the advanced markets for speculation and to gain leverage.
