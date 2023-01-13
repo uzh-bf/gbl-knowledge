@@ -15,7 +15,7 @@ resources:
     - name: "Slides (PDF)"
       href: "/assets/Game_Topic.pdf"
     - name: "Miro Workshop Template"
-      href: "https://miro.com/app/board/uXjVP7ahGMM=/?share_link_id=139650840549"
+      href: "https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337"
 keyTakeawayList:
     - "Evaluate first whether a learning game is a good fit for your problem,
     as other teaching methods can work better depending on your use case."

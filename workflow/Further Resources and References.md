@@ -9,6 +9,8 @@ videoSrc: ""
 resources:
   - name: "Slides (PDF)"
     href: "/assets/Sources.pdf"
+  - name: "Miro Workshop Template"
+    href: "https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337"
 keyTakeawayList:
   - ""
   - ""

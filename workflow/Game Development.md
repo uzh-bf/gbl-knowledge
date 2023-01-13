@@ -12,7 +12,7 @@ resources:
     - name: "Slides (PDF)"
       href: "/assets/Game_Development.pdf"
     - name: "Miro Workshop Template"
-      href: "https://miro.com/app/board/uXjVP7ahGMM=/?share_link_id=139650840549"
+      href: "https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337"
 keyTakeawayList:
     - "Let potential users test your game regularly throughout the development process.
     Organize small testing sessions with a few participants to evaluate interactions."

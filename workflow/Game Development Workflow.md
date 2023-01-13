@@ -9,8 +9,8 @@ videoSrc: 'https://tube.switch.ch/embed/2wGzCrU0Vm'
 resources:
   - name: 'Slides (PDF)'
     href: '/assets/Game_Development_Workflow.pdf'
-  - name: 'Miro Workshop Template'
-    href: 'https://miro.com/app/board/uXjVP7ahGMM=/?share_link_id=139650840549'
+  - name: "Miro Workshop Template"
+    href: "https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337"
 keyTakeawayList: ''
 keyTakeawayImage:
   src: '/images/dev_workflow.png'
