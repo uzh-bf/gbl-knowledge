@@ -12,7 +12,7 @@ resources:
 
 The design thinking process is a way to solve problems through creativity. Throughout the [[Design Thinking|Design Thinking Process]], choices are created (divergent thinking), and choices are being made (convergent thinking):
 
-![[Pasted image 20230113125209.png]]
+![[DTP Overview.png]]
 
 ## Design Thinking Process
 

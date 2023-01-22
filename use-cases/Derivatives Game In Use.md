@@ -10,7 +10,7 @@ resources:
 
 The [[Derivatives Game]] teaches students the difference between a purchase today and a sure or possible purchase tomorrow. The modular structure of the game allows for different didactic settings and flexibility within the game. A possible playthrough is shown below:
 
-![[Pasted image 20230113122635.png]]
+![[Derivatives Game Process.png]]
 
 ## Necessary Theoretical Background
 
@@ -22,7 +22,7 @@ A main target of the [[Derivatives Game]] is to let the students understand and 
 - **Futures market**: A good is bought or sold in the future, but the price and the amount of the transaction are set today.
 - **Options market**: An option gives its owner the right, but not the obligation, to buy or sell a specific asset at a specific price. Conversely, the issuer (seller) of the option is obliged to sell or buy the asset at the agreed price if the owner of the option decides to exercise it. The buyer of the option can determine whether the option is exercised.
 
-![[Pasted image 20230113123042.png]]
+![[Derivatives Trading.png]]
 
 It is not required that the students are able to conduct price calculations. A basic understanding of the mechanisms is sufficient. Throughout the game, players gain a deeper understanding of the materials.
 

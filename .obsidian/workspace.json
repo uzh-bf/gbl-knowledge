@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ec09bf8a0c63d6",
+        "id": "097e2443ecdb2017",
         "type": "tabs",
         "children": [
           {
-            "id": "916c2730dfefe2dc",
+            "id": "97a71b00a9b0b993",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "workflow/Introduction to Digital Game-Based Learning.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/PFM Reports.png"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workflow/Introduction to Digital Game-Based Learning.md",
+                "file": "assets/PFM Reports.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workflow/Introduction to Digital Game-Based Learning.md",
+                "file": "assets/PFM Reports.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workflow/Introduction to Digital Game-Based Learning.md"
+                "file": "assets/PFM Reports.png"
               }
             }
           },
@@ -161,17 +159,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "916c2730dfefe2dc",
+  "active": "ce8b4aca33014e4b",
   "lastOpenFiles": [
-    "workflow/Further Resources and References.md",
-    "assets/Simulation.png",
-    "assets/Serious Game.png",
-    "assets/Pasted image 20230113125247.png",
-    "assets/Pasted image 20230113125209.png",
-    "assets/Pasted image 20230113125115.png",
-    "assets/Pasted image 20230113125110.png",
-    "assets/Pasted image 20230113125101.png",
-    "assets/Pasted image 20230113124637.png",
-    "assets/Pasted image 20230113124626.png"
+    "assets/PFM Weeks with Homework.png",
+    "assets/PFM Weeks.png",
+    "assets/PFM Three Days.png",
+    "assets/DTP Overview.png",
+    "assets/PFM Reports.png",
+    "assets/PFM Simulation Process.png",
+    "assets/Derivatives Trading.png",
+    "assets/GBL_Design_Thinking_Process.pdf",
+    "assets/GBL Web.png",
+    "assets/GBL Toolbox.png"
   ]
 }

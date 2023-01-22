@@ -12,7 +12,7 @@ With the [[Portfolio Management Simulation]], this experience is possible for va
 
 The [[Portfolio Management Simulation]] (game flow below in blue) follows the investment process in private banking (below in green).
 
-![[Pasted image 20230113124334.png]]
+![[PFM Simulation Process.png]]
 
 ## Necessary Theoretical Background
 
@@ -43,19 +43,19 @@ Depending on the available time and learning plan, there are different [[Course 
 
 Within a compact seminar respectively course, the [[Portfolio Management Simulation]] play sessions are distributed over one to three days.  Lectures on theoretical and practice-oriented topics enrich the seminar.
 
-![[Pasted image 20230113124555.png]]
+![[PFM Three Days.png]]
 
 ### Semester Course
 
 Within a semester course, the [[Portfolio Management Simulation]] play sessions are distributed over a couple of weeks. Lectures on theoretical and practice-oriented topics enrich the semester course.
 
-![[Pasted image 20230113124626.png]]
+![[PFM Weeks.png]]
 
 ### Semester Course with Homework (Partial Attendance)
 
 Within a semester course, the [[Portfolio Management Simulation]] play sessions are distributed over a couple of weeks. At the beginning it is helpful to play the sessions in class, but thereafter it is also possible to play the sessions decentralized with a certain deadline per period played. This setting allows for lectures on theoretical and practice-oriented topics during class instead of focusing only on playtime.
 
-![[Pasted image 20230113124637.png]]
+![[PFM Weeks with Homework.png]]
 
 ## Assessment Design
 
@@ -67,7 +67,7 @@ Any of the following elements or any combination / weighting thereof can be used
 - **Written assignment**: e.g., design a portfolio factsheet resembling a real-life fund description, including a summary of the game performance and strategy/major decisions
 - **Game performance**: e.g., (game) stock price development, portfolio performance (portfolio return, Sharpe Ratio), total earnings as a bank
 
-![[Pasted image 20230113125115.png]]
+![[PFM Reports.png]]
 
 [[Assessment Design]] should be aligned with the [[Learning Objective]] and should keep the students engaged and motivated throughout the course. Natural competition between teams (I.e., banks) helps, but should not be the main focus during play.
 
