@@ -20,6 +20,7 @@ The GBL Toolbox is a collection of resources that support the development proces
 
 ## Game Topic
 - [Design Thinking for GBL - Miro Template](https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337)
+- [Design Thinking for GBL - Process Description](https://sos-ch-dk-2.exo.io/gbl-uzh/GBL_Design_Thinking_Process.pdf)
 
 ## Game Development
 

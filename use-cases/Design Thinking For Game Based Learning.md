@@ -31,6 +31,8 @@ A description of the [[Design Thinking|Design Thinking Process]] applied in the 
 
 https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337
 
+[Design Thinking for GBL - Process Description](https://sos-ch-dk-2.exo.io/gbl-uzh/GBL_Design_Thinking_Process.pdf)
+
 ![[GBL_Design_Thinking_Process.pdf]]
 
 ## Further Resources and References
