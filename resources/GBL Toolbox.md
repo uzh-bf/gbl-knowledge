@@ -19,10 +19,7 @@ childrenFiles:
 The GBL Toolbox is a collection of resources that support the development process of a new learning game (primarily focused on simulations, where the bulk of our experiences are coming from). Besides learning contents like explanatory videos, we also plan to create technical and didactical resources (e.g., workshop templates) that can support throughout the workflow.
 
 ## Game Topic
-
-```ad-note
-WIP
-```
+- [Design Thinking for GBL - Miro Template](https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337)
 
 ## Game Development
 

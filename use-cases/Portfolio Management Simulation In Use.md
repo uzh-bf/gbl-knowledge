@@ -49,13 +49,13 @@ Within a compact seminar respectively course, the [[Portfolio Management Simulat
 
 Within a semester course, the [[Portfolio Management Simulation]] play sessions are distributed over a couple of weeks. Lectures on theoretical and practice-oriented topics enrich the semester course.
 
-![]
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/PFM%20Weeks.png)
 
 ### Semester Course with Homework (Partial Attendance)
 
 Within a semester course, the [[Portfolio Management Simulation]] play sessions are distributed over a couple of weeks. At the beginning it is helpful to play the sessions in class, but thereafter it is also possible to play the sessions decentralized with a certain deadline per period played. This setting allows for lectures on theoretical and practice-oriented topics during class instead of focusing only on playtime.
 
-![[PFM Weeks with Homework.png]]
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/PFM%20Weeks%20with%20Homework.png)
 
 ## Assessment Design
 
@@ -67,7 +67,7 @@ Any of the following elements or any combination / weighting thereof can be used
 - **Written assignment**: e.g., design a portfolio factsheet resembling a real-life fund description, including a summary of the game performance and strategy/major decisions
 - **Game performance**: e.g., (game) stock price development, portfolio performance (portfolio return, Sharpe Ratio), total earnings as a bank
 
-![[PFM Reports.png]]
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/PFM%20Reports.png)
 
 [[Assessment Design]] should be aligned with the [[Learning Objective]] and should keep the students engaged and motivated throughout the course. Natural competition between teams (I.e., banks) helps, but should not be the main focus during play.
 
