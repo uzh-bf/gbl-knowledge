@@ -12,7 +12,7 @@ With the [[Portfolio Management Simulation]], this experience is possible for va
 
 The [[Portfolio Management Simulation]] (game flow below in blue) follows the investment process in private banking (below in green).
 
-![[PFM Simulation Process.png]]
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/PFM%20Simulation%20Process.png)
 
 ## Necessary Theoretical Background
 
@@ -43,13 +43,13 @@ Depending on the available time and learning plan, there are different [[Course 
 
 Within a compact seminar respectively course, the [[Portfolio Management Simulation]] play sessions are distributed over one to three days.  Lectures on theoretical and practice-oriented topics enrich the seminar.
 
-![[PFM Three Days.png]]
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/PFM%20Three%20Days.png)
 
 ### Semester Course
 
 Within a semester course, the [[Portfolio Management Simulation]] play sessions are distributed over a couple of weeks. Lectures on theoretical and practice-oriented topics enrich the semester course.
 
-![[PFM Weeks.png]]
+![]
 
 ### Semester Course with Homework (Partial Attendance)
 

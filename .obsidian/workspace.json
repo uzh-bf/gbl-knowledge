@@ -11,9 +11,11 @@
             "id": "97a71b00a9b0b993",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/PFM Reports.png"
+                "file": "use-cases/Portfolio Management Simulation In Use.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/PFM Reports.png",
+                "file": "use-cases/Portfolio Management Simulation In Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/PFM Reports.png",
+                "file": "use-cases/Portfolio Management Simulation In Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/PFM Reports.png"
+                "file": "use-cases/Portfolio Management Simulation In Use.md"
               }
             }
           },
@@ -159,17 +161,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce8b4aca33014e4b",
+  "active": "97a71b00a9b0b993",
   "lastOpenFiles": [
+    "use-cases/Design Thinking For Game Based Learning.md",
+    "use-cases/Derivatives Game In Use.md",
+    "assets/Derivatives Game Process.png",
+    "assets/DTP Miro.png",
+    "assets/PFM Reports.png",
     "assets/PFM Weeks with Homework.png",
     "assets/PFM Weeks.png",
     "assets/PFM Three Days.png",
     "assets/DTP Overview.png",
-    "assets/PFM Reports.png",
-    "assets/PFM Simulation Process.png",
-    "assets/Derivatives Trading.png",
-    "assets/GBL_Design_Thinking_Process.pdf",
-    "assets/GBL Web.png",
-    "assets/GBL Toolbox.png"
+    "assets/PFM Simulation Process.png"
   ]
 }
