@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6a4a344bea168cb5",
+        "id": "aa3c590f5067be4d",
         "type": "tabs",
         "children": [
           {
-            "id": "5d66c1e6ee9efe8c",
+            "id": "aa7930cd93e803aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "use-cases/Derivatives Game In Use.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "use-cases/Derivatives Game In Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "use-cases/Derivatives Game In Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "use-cases/Derivatives Game In Use.md"
+              }
             }
           },
           {
@@ -153,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d66c1e6ee9efe8c",
+  "active": "aa7930cd93e803aa",
   "lastOpenFiles": [
     "use-cases/Design Thinking For Game Based Learning.md",
     "resources/GBL Toolbox.md",
