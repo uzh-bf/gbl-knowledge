@@ -11,8 +11,12 @@
             "id": "40a981237084d767",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "definitions/Microlearning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "definitions/Microlearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "definitions/Microlearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "definitions/Microlearning.md"
+              }
             }
           },
           {
@@ -155,6 +163,7 @@
   },
   "active": "40a981237084d767",
   "lastOpenFiles": [
+    "definitions/Miro.md",
     "use-cases/Design Thinking For Game Based Learning.md",
     "use-cases/Derivatives Game In Use.md",
     "workflow/Game Topic.md",
@@ -163,7 +172,6 @@
     "workflow/Game Development.md",
     "workflow/Further Resources and References.md",
     "use-cases/Portfolio Management Simulation In Use.md",
-    "resources/GBL Toolbox.md",
-    "assets/DTP Miro.png"
+    "resources/GBL Toolbox.md"
   ]
 }
