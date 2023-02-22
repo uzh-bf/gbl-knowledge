@@ -1,0 +1,3 @@
+## What is Microlearning
+
+The term microlearning refers to a learning approach that bases its concept on short, and targeted information content, also called microcontent. Such content is very topic specific and cannot be broken down into smaller pieces of content without any loss of meaning. In microlearning, this microcontent is used for the purpose of learning by transforming it into a microlearning unit.
