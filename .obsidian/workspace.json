@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definitions/Player Types.md",
+                "file": "definitions/Gamification.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definitions/Player Types.md",
+                "file": "definitions/Gamification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definitions/Player Types.md",
+                "file": "definitions/Gamification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitions/Player Types.md"
+                "file": "definitions/Gamification.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "4e4d5f024af0e375",
   "lastOpenFiles": [
+    "definitions/Player Types.md",
     "definitions/Gamification.md",
     "Octalysis Framework.md",
     "Courses.md",
@@ -188,7 +189,6 @@
     "definitions/Microlearning.md",
     "Landers et al. (2018).md",
     "definitions/Assessment Design.md",
-    "definitions/Banking and Finance.md",
-    "definitions/Miro.md"
+    "definitions/Banking and Finance.md"
   ]
 }
