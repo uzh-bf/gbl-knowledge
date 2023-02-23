@@ -12,5 +12,5 @@ We are working on a collection of tools and courses at UZH that include elements
 
 ## Serious Games
 
-- [[U Fin]] #in-use
+- [[UFin]] #in-use
 - [[Private Banking Game]] #work-in-progress 

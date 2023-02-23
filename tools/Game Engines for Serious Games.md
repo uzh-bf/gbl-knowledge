@@ -5,7 +5,7 @@ We recommend evaluating at least the following engines if you are looking to bui
 - Unity Engine -> https://unity.com/ #proprietary
 	- Especially good for visual storytelling
 	- Very powerful but also complex
-	- Used in [[U Fin]] and the [[Private Banking Game]]
+	- Used in [[UFin]] and the [[Private Banking Game]]
 - Godot Engine -> https://godotengine.org #free #open-source
 	- Alternative to Unity with similar capabilities
 - Twinery -> https://twinery.org/

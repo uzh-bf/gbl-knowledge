@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definitions/Gamification.md",
+                "file": "games/UFin.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definitions/Gamification.md",
+                "file": "games/UFin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definitions/Gamification.md",
+                "file": "games/UFin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitions/Gamification.md"
+                "file": "games/UFin.md"
               }
             }
           },
@@ -139,19 +139,15 @@
             "id": "9b31ef2f2e1f143d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definitions/Microlearning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 256
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,21 +157,21 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40a981237084d767",
+  "active": "ce8b4aca33014e4b",
   "lastOpenFiles": [
-    "definitions/Microlearning.md",
-    "Landers et al. (2018).md",
-    "definitions/Assessment Design.md",
-    "definitions/Gamification.md",
-    "Courses.md",
-    "definitions/Banking and Finance.md",
-    "definitions/Miro.md",
+    "references/Landers et al. (2018).md",
+    "games/UFin.md",
     "use-cases/Design Thinking For Game Based Learning.md",
     "use-cases/Derivatives Game In Use.md",
-    "workflow/Game Topic.md"
+    "workflow/Game Topic.md",
+    "workflow/Introduction to Digital Game-Based Learning.md",
+    "workflow/Game Development Workflow.md",
+    "workflow/Game Development.md",
+    "workflow/Further Resources and References.md",
+    "use-cases/Portfolio Management Simulation In Use.md"
   ]
 }
