@@ -6,7 +6,7 @@
 Around 10% of players belong to the Achiever type. They are motivated by in-game rewards and achieving measurable goals.
 
 ## Explorers:
-Another 10% of players make up the Explorer type. Explorers enjoy exploring the game world, discovering hidden secrets an
+Another 10% of players make up the Explorer type. Explorers enjoy exploring the game world, discovering hidden secrets, and solving puzzles.
 
 ## Socialisers:
 The largest part of players, around 80%, identify as Socialisers. They value social interaction and relationships with other players more than other aspects of the game.
