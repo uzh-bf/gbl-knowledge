@@ -8,12 +8,6 @@ Gamification refers to the concept of applying game design element in non-game c
 In our project we aim to augment or alter existing learning processes to create a revised version of this process that users experience as game-like ([[Landers et al. (2018)]]). Therefore, in our project we mainly focus on the gamification subcategory of Game-Based Learning where Simulations and Serious Games play an important role. Furthermore, we apply gamification to [[Microlearning]].
 
 ## Why is Gamification helpful?
-Gamification can solve the problem of motivation in learning because it increases the user’s learning engagement ([[Prensk (2001)]]). Furthermore, gamified (micro-)content is more captivating as it pushes curiosity and exploration as well as captures the structured play of rules and the competitive pursuit of goals ([[Deterding et al. (2011)]]).
-
-
-
-Gamification is a process in which game design elements are used in non-game contexts ([[Deterding et al. (2011)]]), aiming to augment or alter an existing learning process to create a revised version of this process that users experience as game-like ([[Landers et al. (2018)]]).
-
-[[Game-Based Learning]] is one of the most important subcategories of Gamification, and the one we work in [[Game-Based Learning]] with many of our projects.
+Gamification can solve the problem of motivation in learning because it increases the user’s learning engagement ([[Prensk (2001)]]). Moreover, gamified (micro-)content is more captivating as it stimulates curiosity and exploration as well as captures the structured play of rules and the competitive pursuit of goals ([[Deterding et al. (2011)]]).
 
 When working with Gamification principles, we regularly refer to the [[Octalysis Framework]] as a baseline of the different elements that make up the overall topic.
