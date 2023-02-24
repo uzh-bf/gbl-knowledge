@@ -19,11 +19,11 @@ The "Understand" category refers to determining the meaning of instructional mes
 
 ## Apply
 Within the "Apply" category, the learning aims at the ability to carry out or use a procedure in a given situation. Thereby, it is differentiated between familiar and unfamiliar situations.
-- Applying a procedure to a familiar task or "carrying out" a familiar task is refered to as **Executing**.
-- **Implementing** consequently is associated with "using" a know concept to solve an unfamiliar task.
+- Applying a procedure to a familiar task or *carrying out* a familiar task is refered to as **Executing**.
+- **Implementing** consequently is associated with *using* a know concept to solve an unfamiliar task.
 
 ## Analyse
-
+Breaking up material into its constituent parts in order to determine how the individual parts relate to the overall concept and to one another, mak  
 
 ## Evaluate
 
