@@ -23,7 +23,10 @@ Within the "Apply" category, the learning aims at the ability to carry out or us
 - **Implementing** consequently is associated with *using* a know concept to solve an unfamiliar task.
 
 ## Analyse
-Breaking up material into its constituent parts in order to determine how the individual parts relate to the overall concept and to one another, mak  
+Breaking up material into its constituent parts in order to determine how the individual parts relate to the overall concept and to one another is what makes the content of the "Analyse" category. It contains the following three cognitive processes:
+- **Differentiating** is associated with discriminating, distinguishing, focusing, and selecting. It refers to sepa
+- **Organizing**
+- **Attributing**
 
 ## Evaluate
 
