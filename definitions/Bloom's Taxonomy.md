@@ -11,8 +11,8 @@ In the "Remember" category, the focus lies on identifying and retrieving of rele
 ## Understand
 The "Understand" category refers to determining the meaning of instructional messages and communication of all sorts (oral, written and graphic). The following cognitive processes are related to "Understand":
 - **Interpreting** is connotated with clarifying, paraphrasing, representing, or translating some communication. It is applied when changing from one form of representation to another like paraphrasing a speech.
-- Within **Exemplifying**, the idea is to find examples for a concept or priciple 
-- **Classifying**
+- Within **Exemplifying**, the idea is to find examples for a concept or priciple. This can be done through illustrating and instantiating.
+- To determining the category of something, categorizing or subsuming outline the cognitive process of **Classifying** 
 - **Summarizing**
 - **Inferring** describes drawing logical conclusions form information and comprises the processes of concluding, extrapolating, interpolating or predicting.
 - **Comparing** entails the juxtaposition of two ideas, objects or the like and is outlined through contrasting, mapping and matching.
