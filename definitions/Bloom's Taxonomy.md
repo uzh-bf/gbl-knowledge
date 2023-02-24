@@ -35,6 +35,9 @@ The "Evaluate" category is described by forming judgements based on standards an
 
 ## Create
 "Create" represents the most complex category. Its goal is the ability to combine or rearrange pieces and elements to form a coherent or functional (new) whole. 
+- Within **Generating**, the idea is to come up with alternative hypotheses given certain criteria. The process is also called *hypothesizing*.
+- *Designing* a procedure to fullfil specific task  **Planning**
+- **Producing**
 
 
 The Bloom Taxonomy is also applicaple to [[Microlearning]].
