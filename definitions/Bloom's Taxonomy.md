@@ -1,4 +1,3 @@
-The Bloom Taxonomy is a framework to classify statements of what we  
+The Bloom Taxonomy is a taxonomy of educational objectives. It serves as a framework to classify statements about the expected learning as a result of instructions. 
 
 
-is a hierachical structure of the six major categories of the Cognitive Process of learning. 
