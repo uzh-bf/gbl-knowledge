@@ -34,7 +34,7 @@ The "Evaluate" category is described by forming judgements based on standards an
 - **Critiquing** refers to detecting external (in-)consistencies of a procedure or product. Also *judging* whether a procedure is appropirate for a given situation falls into this process.
 
 ## Create
-
+"Create" represents the most complex category. Its goal is the ability to combine or rearrange pieces and elements to form a coherent or functional (new) whole. 
 
 
 The Bloom Taxonomy is also applicaple to [[Microlearning]].
