@@ -4,24 +4,26 @@ The Bloom Taxonomy is a taxonomy of educational objectives. It serves as a frame
 
 ## Remember
 In the "Remember" category, the focus lies on identifying and retrieving of relevant knowledge from memory and on the retention of learned materials. Its associated cognitive processes are "Recognizing" and "Recalling".
-- **Recognizing** refers to identifying knowledge and locating it in one's memory.
-- **Recalling** is the process of retrieving knowledge from memory.
+- **Recognizing** refers to *identifying* knowledge and locating it in one's memory.
+- **Recalling** is the process of *retrieving* knowledge from memory.
 
 ## Understand
 The "Understand" category refers to determining the meaning of instructional messages and communication of all sorts (oral, written and graphic). The following cognitive processes are related to "Understand":
-- **Interpreting** is connotated with clarifying, paraphrasing, representing, or translating some communication. It is applied when changing from one form of representation to another like paraphrasing a speech.
-- Within **Exemplifying**, the idea is to find examples for a concept or priciple. This can be done through illustrating and instantiating.
-- To determining the category of something, categorizing or subsuming outline the cognitive process of **Classifying**.
-- **Summarizing** is associated with the abstracting and generalizing a theme of major points.
-- **Inferring** describes drawing logical conclusions form information and comprises the processes of concluding, extrapolating, interpolating or predicting.
-- **Comparing** entails the juxtaposition of two ideas, objects or the like and is outlined through contrasting, mapping and matching.
-- **Explaining** refers to the construction of a model of a system for example a model to describe causes and their effects.
+- **Interpreting** is connotated with *clarifying*, *paraphrasing*, *representing*, or *translating* some communication. It is applied when changing from one form of representation to another like paraphrasing a speech.
+- Within **Exemplifying**, the idea is to find examples for a concept or priciple. This can be done through *illustrating* and *instantiating*.
+- To determining the category of something, *categorizing* or *subsuming* outline the cognitive process of **Classifying**.
+- **Summarizing** is associated with the *abstracting* and *generalizing* a theme of major points.
+- **Inferring** describes drawing logical conclusions form information and comprises the processes of *concluding*, *extrapolating*, *interpolating* or *predicting*.
+- **Comparing** entails the juxtaposition of two ideas, objects or the like and is outlined through *contrasting*, *mapping* and *matching*.
+- **Explaining** refers to the *construction of a model* of a system for example a model to describe causes and their effects.
 
 ## Apply
 Within the "Apply" category, the learning aims at the ability to carry out or use a procedure in a given situation. Thereby, it is differentiated between familiar and unfamiliar situations.
-- Applying a procedure to a familiar task or carrying out a familiar task is refered to as **Executing**.
+- Applying a procedure to a familiar task or "carrying out" a familiar task is refered to as **Executing**.
+- **Implementing** consequently is associated with "using" a know concept to solve an unfamiliar task.
 
 ## Analyse
+
 
 ## Evaluate
 
