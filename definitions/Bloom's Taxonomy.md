@@ -29,7 +29,8 @@ Breaking up material into its constituent parts in order to determine how the in
 - **Attributing** characterizes the process of *deconstructing* in order to grasp a point of view, bias, or intent of a graph or essay.
 
 ## Evaluate
-The "Evaluate" category is described by forming judgements based on standards and criteria on a topic.
+The "Evaluate" category is described by forming judgements based on standards and criteria on a topic. The processes differ based on whether the are concerned with the internal or external consistency of, for example, a product.
+- **Checking** 
 ## Create
 
 
