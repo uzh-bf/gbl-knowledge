@@ -18,7 +18,8 @@ The "Understand" category refers to determining the meaning of instructional mes
 - **Explaining** refers to the construction of a model of a system for example a model to describe causes and their effects.
 
 ## Apply
-Within the "Apply" category, the learning aims at the ability to carry out or use a procedure in a given situation
+Within the "Apply" category, the learning aims at the ability to carry out or use a procedure in a given situation. Thereby, it is differentiated between familiar and unfamiliar situations.
+- Applying a procedure to a familiar task or carrying out a familiar task is refered to as **Executing**.
 
 ## Analyse
 
