@@ -3,10 +3,12 @@ The Bloom Taxonomy is a taxonomy of educational objectives. It serves as a frame
 ![[bloom taxonomy.png]]
 
 ## Remember
-In the "Remember" category, the focus lies on identifying and retrieving of relevant knowledge from memory and on the retention of learned materials. Its associated cognitive processes are "Recognizing" for identifying and "Recalling" for retrieving knowledge.
+In the "Remember" category, the focus lies on identifying and retrieving of relevant knowledge from memory and on the retention of learned materials. Its associated cognitive processes are "Recognizing" and "Recalling".
+### Recognizing
+
 
 ## Understand
-The "Understand" category refers to determining the meaning of 
+The "Understand" category refers to determining the meaning of instructional messages and communication of all sorts (oral, written and graphic). The cognitive processes related to "Understand" are "Interpreting", "Exemplifying", "Classifying", "Summarizing", "Inferring", "Comparing", and "Explaining".
 ## Apply
 ## Analyse
 ## Evaluate
