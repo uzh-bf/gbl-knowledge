@@ -15,8 +15,8 @@ The "Understand" category refers to determining the meaning of instructional mes
 - **Classifying**
 - **Summarizing**
 - **Inferring**
-- **Comparing**
-- **Explaining** refers to the construction of a model of a system for example a cause-and-effect model
+- **Comparing** 
+- **Explaining** refers to the construction of a model of a system for example a model to describe causes and their effects.
 ## Apply
 ## Analyse
 ## Evaluate
