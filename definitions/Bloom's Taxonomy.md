@@ -1,6 +1,7 @@
 The Bloom Taxonomy is a taxonomy of educational objectives. It serves as a framework to classify statements about the expected learning as a result of instructions. The taxonomy is depicted as a hierarchy of six major categories of the cognitive process. The categories differ in their complexity with increasing complexity the higher the category is rated.
 
 ![[bloom taxonomy.png]]
+The individual categories are briefly outline below. The corresponding cognitive processes are itemise
 
 ## Remember
 In the "Remember" category, the focus lies on identifying and retrieving of relevant knowledge from memory and on the retention of learned materials. Its associated cognitive processes are "Recognizing" and "Recalling".
@@ -36,8 +37,7 @@ The "Evaluate" category is described by forming judgements based on standards an
 ## Create
 "Create" represents the most complex category. Its goal is the ability to combine or rearrange pieces and elements to form a coherent or functional (new) whole. 
 - Within **Generating**, the idea is to come up with alternative hypotheses given certain criteria. The process is also called *hypothesizing*.
-- *Designing* a procedure to fullfil specific task  **Planning**
-- **Producing**
-
+- *Designing* a procedure to fullfil a specific task outline the **Planning** process.
+- The **Producing** entails *constructing* or inventing new products or procedures. 
 
 The Bloom Taxonomy is also applicaple to [[Microlearning]].
