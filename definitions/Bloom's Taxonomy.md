@@ -30,7 +30,9 @@ Breaking up material into its constituent parts in order to determine how the in
 
 ## Evaluate
 The "Evaluate" category is described by forming judgements based on standards and criteria on a topic. The processes differ based on whether the are concerned with the internal or external consistency of, for example, a product.
-- **Checking** 
+- Detecting internal (in-)consistencies of a procedure or product and their effectiveness upon implementation can be conducted through *coordinating*, *detecting*, *monitoring*, and *testing*. This internal process is known as **Checking**.
+- **Critiquing**
+
 ## Create
 
 
