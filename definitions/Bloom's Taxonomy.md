@@ -1,0 +1,1 @@
+The Bloom Taxonomy is a hierachical structure of the six major categories of the Cognitive Process of learning
