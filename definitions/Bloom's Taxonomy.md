@@ -25,13 +25,13 @@ Within the "Apply" category, the learning aims at the ability to carry out or us
 ## Analyse
 Breaking up material into its constituent parts in order to determine how the individual parts relate to the overall concept and to one another is what makes the content of the "Analyse" category. It contains the following three cognitive processes:
 - **Differentiating** is associated with *discriminating*, *distinguishing*, *focusing*, and *selecting*. It refers to the process of separating material into relevant and irrelevant parts.
-- The process of **Organizing** is implemented through *finding coherence*, *integrating*, *outlining*, *parsing*, and *structuring*. Its purpose it to determine how individual elements  a structure.
-- **Attributing**
+- The process of **Organizing** is implemented through *finding coherence*, *integrating*, *outlining*, *parsing*, and *structuring*. Its purpose it to determine how individual elements affect the bigger structure.
+- **Attributing** characterizes the process of *deconstructing* in order to grasp a point of view, bias, or intent of a graph or essay.
 
 ## Evaluate
 
 ## Create
 
-The categorization is not strict and overlapping is possible.
+
 
 The Bloom Taxonomy is also applicaple to [[Microlearning]].
