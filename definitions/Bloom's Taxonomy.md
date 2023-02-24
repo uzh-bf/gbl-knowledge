@@ -10,7 +10,7 @@ In the "Remember" category, the focus lies on identifying and retrieving of rele
 
 ## Understand
 The "Understand" category refers to determining the meaning of instructional messages and communication of all sorts (oral, written and graphic). The following cognitive processes are related to "Understand":
-- **Interpreting** is connotated with clarifying, paraphrasing, representing, and translating of communication. It 
+- **Interpreting** is connotated with clarifying, paraphrasing, representing, and translating of communication. It is applied when changing from one form of representation to another.
 - Exemplifying
 - Classifying
 - Summarizing
