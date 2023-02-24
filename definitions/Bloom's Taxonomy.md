@@ -14,8 +14,8 @@ The "Understand" category refers to determining the meaning of instructional mes
 - **Exemplifying** 
 - **Classifying**
 - **Summarizing**
-- **Inferring**
-- **Comparing** entails the juxtaposition of two ideas, objects or the like. 
+- **Inferring** describes the process of drawing conculconcluding, extrapolating, interpolating and predicting 
+- **Comparing** entails the juxtaposition of two ideas, objects or the like and is outlined through contrasting, mapping and matching.
 - **Explaining** refers to the construction of a model of a system for example a model to describe causes and their effects.
 ## Apply
 ## Analyse
