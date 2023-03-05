@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "57d930844b38e315",
+        "id": "ecddc400613aa080",
         "type": "tabs",
         "children": [
           {
-            "id": "40a981237084d767",
+            "id": "97ff7c00a883ff1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definitions/Bloom's Taxonomy.md",
+                "file": "courses/Banking Game: Gesamtfuehrung einer Bank (S).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5170fd5b17096daf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 441.5
   },
   "right": {
     "id": "022f0841dc8baff1",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definitions/Bloom's Taxonomy.md",
+                "file": "courses/Banking Game: Gesamtfuehrung einer Bank (S).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definitions/Bloom's Taxonomy.md",
+                "file": "courses/Banking Game: Gesamtfuehrung einer Bank (S).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitions/Bloom's Taxonomy.md"
+                "file": "courses/Banking Game: Gesamtfuehrung einer Bank (S).md"
               }
             }
           },
@@ -139,19 +150,15 @@
             "id": "9b31ef2f2e1f143d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definitions/Microlearning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 256
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,21 +168,40 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40a981237084d767",
+  "active": "5170fd5b17096daf",
   "lastOpenFiles": [
-    "definitions/Game-Based Learning.md",
-    "definitions/Bloom's Taxonomy.md",
-    "definitions/Gamification.md",
-    "definitions/Design Thinking.md",
-    "definitions/Course Evaluation.md",
-    "definitions/Course Design.md",
-    "definitions/Microlearning.md",
-    "definitions/Player Types.md",
-    "Buchem & Hamelmann, (2010).md",
-    "references/Landers et al. (2018).md"
+    "courses/Advanced Portfolio Management Game (S).md",
+    "Courses.md",
+    "Home.md",
+    "Getting Started.md",
+    "workflow/Game Topic.md",
+    "workflow/Game Execution.md",
+    "workflow/Game Development Workflow.md",
+    "workflow/Game Development.md",
+    "workflow/Further Resources and References.md",
+    "use-cases/Derivatives Game In Use.md",
+    "use-cases/Portfolio Management Simulation In Use.md",
+    "use-cases/Design Thinking For Game Based Learning.md",
+    "tools/Game Engines for Simulations.md",
+    "tools/Game Engines for Serious Games.md",
+    "resources/GBL Community.md",
+    "resources/GBL Web.md",
+    "resources/GBL Toolbox.md",
+    "resources/GBL Simulation Platform.md",
+    "resources/GBL Knowledge Base.md",
+    "resources/GBL in Use.md",
+    "references/Octalysis Framework.md",
+    "references/Mayo (2007).md",
+    "references/Landers et al. (2018).md",
+    "references/Buchem & Hamelmann, (2010).md",
+    "references/KlickerUZH.md",
+    "references/Chou (2019).md",
+    "assets/playertypes.png",
+    "assets/bloom taxonomy.png",
+    "assets/Pasted image 20230223124906.png"
   ]
 }
