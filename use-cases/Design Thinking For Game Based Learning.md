@@ -1,6 +1,8 @@
 ---
 slug: design-thinking-for-game-based-learning
 title: Design Thinking for Game-Based Learning
+abstract: Design Thinking provides a way to face dynamic, multifaceted challenges, by using a creative and collaborative process. In this use case, the Design Thinking Process is being applied to elaborating game ideas and prototypes.
+type: development
 imgSrc: '/images/DTP Miro.png'
 gallery: ''
 resources:

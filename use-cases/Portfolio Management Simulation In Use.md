@@ -1,6 +1,8 @@
 ---
 slug: portfolio-management-simulation-in-use
 title: Portfolio Management Simulation In Use
+abstract: Learning portfolio management by managing a portfolio is possible with our in-house developed Portfolio Management Game. This use case describes how the players can apply their knowledge of finance and macroeconomics in a portfolio management setting.
+type: simulations
 imgSrc: '/images/pfm_game.png'
 ---
 

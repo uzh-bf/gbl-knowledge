@@ -1,6 +1,8 @@
 ---
 slug: derivatives-game-in-use
 title: Derivatives Game in Use
+abstract: How participants experience the challenging topic derivatives in a Game-Based Learning setting. The Derivatives Game teaches students the difference between a purchase today and a sure or possible purchase tomorrow.
+type: simulations
 imgSrc: '/images/derivatives_1.png'
 gallery: ''
 resources:
