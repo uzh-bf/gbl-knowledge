@@ -1,9 +1,9 @@
 ---
 slug: escape-uzh
 title: EscapeUZH - Developing Digital Educational Escape Rooms
-abstract: How participants experience the challenging topic derivatives in a Game-Based Learning setting. The Derivatives Game teaches students the difference between a purchase today and a sure or possible purchase tomorrow.
+abstract: The development process of a hybrid escape room respectively scavenger hunt, where a captivating plot meets challenging riddles set at the University of Zurich. By leveraging this escape room platform, educators can craft their own escape room.
 type: development
-imgSrc: '/images/derivatives_1.png'
+imgSrc: '/images/escape_hero.png'
 gallery: ''
 resources:
 ---
@@ -13,6 +13,8 @@ resources:
 Our digital educational escape room, "The Search for the Instant University Diploma", is an escape room tour set within the University of Zurich. This experience is based on a campus-wide scavenger hunt across the UZH City Campus where players take on the role of scholars, following clues left behind in an age-old diary. Players traverse historical and symbolic university locations like the Lichthof, and get to know some interesting facts about the UZH while solving unique riddles.
 
 ## Digital Educational Escape Room
+
+![](/images/escape_phones.png)
 
 Digital educational escape rooms as the one presented in this use case provide an engaging way for participants to explore information that might otherwise be considered dry or mundane (e.g., historical facts and characters, institutions, faculties, deciphering room codes). Through playful interactions and challenges, these platforms offer a unique approach to imparting knowledge. Moreover, the immersive nature of the experience promotes longer retention of the information learned.
 
@@ -42,4 +44,8 @@ We invite lecturers or other teams who are interested to test and experience thi
 
 ## Technical Information about the Platform
 
-The platform we utilize has been designed and elaborated by a group of PhD students from the Universidad Politécnica de Madrid in Spain. We would like to extend our gratitude to the developers who have generously provided this technical platform as open source. Their contribution has paved the way for us to create immersive experiences while being able to focus on the content. We appreciate their commitment to open and collaborative digital tools.
+![](/images/escape_uzh_backend.png)
+
+The platform we utilize has been developed as open-source software by the Universidad Politécnica de Madrid in Spain. We would like to extend our gratitude to the developers who have generously provided this technical platform to the public. Their contribution has paved the way for us to create immersive experiences while being able to focus on the content and adjustments for our own use cases. We appreciate their commitment to open and collaborative digital tools and want to continue in this spirit by providing EscapeUZH for free for educational use.
+
+For more information on the platform and how you can get access, please refer to our dedicated [overview page](https://www.gbl.uzh.ch/escape).

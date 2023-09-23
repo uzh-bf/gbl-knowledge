@@ -1,7 +1,7 @@
 ---
 slug: escape-uzh
 title: EscapeUZH
-imgSrc: '/images/derivatives_1.png'
+imgSrc: '/images/escape_hero.png'
 tags: ['DBF', 'Educational Escape Room', 'University of Zurich']
 subtitle: The Search for the Instant University Diploma - A Scavenger Hunt to get to know the University of Zurich (UZH)
 objectives:
@@ -57,12 +57,20 @@ radarCharts:
         value: 1
       - name: Accomplishment
         value: 8
-thumbnail: /images/derivatives_2.png
+thumbnail: /images/escape_play.png
 gallery:
-  - imgSrc: /images/derivatives_2.png
-    alt: Derivatives Game Image 1
-  - imgSrc: /images/derivatives_1.png
-    alt: Derivatives Game Image 2
+  - imgSrc: /images/UC_EscapeRoom_Handybild_1.png
+    alt: EscapeUZH 1
+  - imgSrc: /images/UC_EscapeRoom_Handybild_2.png
+    alt: EscapeUZH 2
+  - imgSrc: /images/UC_EscapeRoom_Diary_UZH.png
+    alt: EscapeUZH 3
+  - imgSrc: /images/UC_EscapeRoom_Bild_1.jpg
+    alt: EscapeUZH 4
+  - imgSrc: /images/UC_EscapeRoom_Bild_2.jpg
+    alt: EscapeUZH 5
+  - imgSrc: /images/UC_EscapeRoom_Bild_3.jpg
+    alt: EscapeUZH 6
 ---
 
 Dive into "The Search for the Instant University Diploma" – an escape room tour set within the University of Zurich. This experience is based on a campus-wide scavenger hunt across the UZH City Campus where you and your team take on the role of scholars, following clues left behind in an age-old diary that speaks of an enigmatic Instant University Diploma. You will traverse historical and symbolic university locations like the Lichthof, and get to know some interesting facts about the UZH.
