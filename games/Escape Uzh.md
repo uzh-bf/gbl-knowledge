@@ -18,7 +18,7 @@ keywords:
   - Scavenger Hunt
 useCases:
   - title: EscapeUZH
-    imgSrc: '/images/derivatives_1.png'
+    imgSrc: '/images/escape_hero.png'
     href: /use-cases/escape-uzh
 imprint: 'Department of Banking and Finance, University of Zurich (Content and EscapeUZH Platform). Universidad Politécnica de Madrid (Escapp Platform).'
 contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
