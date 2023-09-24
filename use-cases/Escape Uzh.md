@@ -28,13 +28,33 @@ By merging entertainment with education, we believe these escape rooms can offer
 
 Our challenges and the lessons we have derived from them have shaped the development process we recommend to lecturers who want to prepare an escape room respectively a scavenger hunt.
 
-- Initially, it is crucial to define the learning objectives. Then, it is worthwhile to answer some more specific questions regarding your specific use case: Is creating an escape room worthwhile? Who is the target audience? Generally, the development process proves more worthwhile when there is a sufficiently large target or user group.
-- With a positive decision for an escape room, consider crafting an engaging storyline sooner rather than later. Additionally, decide whether participants should take a physical tour or if the escape room can be played in a stationary manner.
-- Only now we recommend starting with the step of elaboration of the riddles. The conceptualization of questions or puzzles for an escape room can be quite challenging. Play an escape room or a scavenger hunt yourself beforehand. This can also be a good team building experience for the creation team of the future escape room.
-- In a next step, think of a couple of hints for each riddle that can help the teams along the solution path and assist with intermediate steps, especially when a group gets stuck. These hints ensure that the game flow overall remains uninterrupted, even if a group has difficulties with one specific riddle.
-- Further, consider incorporating visual elements that will likely elevate the excitement of the escape room experience. For instance, we have integrated fitting images on the escape room platform itself, along with a printable or digitally usable supplementary guide designed in the style of an ancient diary, aligning seamlessly with the storyline. These visual elements not only enhance the aesthetic appeal but also contribute to the immersive nature of the escape room, drawing players deeper into the narrative. By thoughtfully integrating visuals that resonate with the theme, we aim to create a truly engaging and captivating adventure.
+### 1. Learning Objectives
 
-Throughout the development journey, it's essential to seek diverse perspectives, regularly test the existing components, and closely observe participants engaging with the escape room. It is also advisable to use the learning analytics integrated in the platform to check the difficulty of the riddles and adjust them if necessary.
+Initially, it is crucial to define the learning objectives. Then, it is worthwhile answering some more specific questions regarding your specific use case: Is creating an escape room worthwhile? Who is the target audience? Generally, the development process proves more worthwhile when there is a sufficiently large target or user group.
+
+### 2. Escape Room Format
+
+Decide whether participants should take a physical tour or scavenger hunt or if the escape room can be played in a stationary manner. A hybrid approach is also possible, meaning that riddles can incorporate clues from the physical locations, but can be solved without these clues as well (e.g., incorporating hints).
+
+### 3. Draft Storyline
+
+With a positive decision for an escape room, consider crafting an engaging draft for a storyline sooner rather than later. The storyline provides a common thread that links all of your riddles later on and makes the entire experience more engaging. Decide whether and what additional supporting materials should be created for the escape room (e.g., a handbook, images). Decide at what points in the storyline a riddle would naturally make sense.
+
+### 4. Riddles
+
+Only now do we recommend starting with the step of elaboration of the riddles and incorporating them into the storyline. The conceptualization of questions or puzzles for an escape room can be quite challenging. Play an escape room or a scavenger hunt yourself beforehand. This can also be a good team building experience for the creation team of the future escape room. There are many additional materials and building kits for physical/paper escape rooms which can also serve as further inspiration. Make it clear what is expected in terms of an answer (e.g., an answer scheme for the solution word, if required).
+
+### 5. Hints
+
+In the next step, think of a couple of hints for each riddle that can help the teams along the solution path and assist with intermediate steps, especially when a group gets stuck. These hints ensure that the game flow overall remains uninterrupted, even if a group has difficulties with one specific riddle. The hints should not be obvious and/or should not contain the entire solution (except maybe in a final hint).
+
+### 6. Visual Elements
+
+![](/images/UC_EscapeRoom_Diary_UZH_small.png)
+
+Consider incorporating visual elements that will likely elevate the excitement of the escape room experience. For instance, we have integrated fitting images on the escape room platform itself, along with a printable or digitally usable supplementary guide designed in the style of an ancient diary, aligning seamlessly with the storyline. These visual elements not only enhance the aesthetic appeal but also contribute to the immersive nature of the escape room, drawing players deeper into the narrative. By thoughtfully integrating visuals that resonate with the theme, we aim to create a truly engaging and captivating adventure.
+
+Throughout the development journey, it is essential to seek diverse perspectives, to regularly test the existing components, and to closely observe participants engaging with the escape room. It is also advisable to use the learning analytics integrated in the platform to check the difficulty of the riddles and adjust them if necessary.
 
 By doing so, we ensure that the experience remains engaging and enjoyable, while also identifying potential areas of frustration. This iterative approach allows us to refine and optimize the escape room, making it a truly immersive and satisfying adventure for all participants.
 
@@ -48,4 +68,4 @@ We invite lecturers or other teams who are interested to test and experience thi
 
 The platform we utilize has been developed as open-source software by the Universidad Politécnica de Madrid in Spain. We would like to extend our gratitude to the developers who have generously provided this technical platform to the public. Their contribution has paved the way for us to create immersive experiences while being able to focus on the content and adjustments for our own use cases. We appreciate their commitment to open and collaborative digital tools and want to continue in this spirit by providing EscapeUZH for free for educational use.
 
-For more information on the platform and how you can get access, please refer to our dedicated [overview page](https://www.gbl.uzh.ch/escape).
+For more information on the platform and how you can get access, please refer to our dedicated [overview page](/escape).
