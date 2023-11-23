@@ -1,0 +1,1 @@
+Robson, K., Plangger, K., Kietzmann, J. H., McCarthy, I., & Pitt, L. (2015). Is it all a game? Understanding the principles of gamification. _Business Horizons_, _58_(4), 411–420. https://doi.org/10.1016/j.bushor.2015.03.006

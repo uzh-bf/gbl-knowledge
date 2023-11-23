@@ -58,7 +58,7 @@ radarCharts:
 
 The Private Banking Advisory Game helps players to learn how to carry out holistic investment advisory discussions. The game design requires the player to manage the triangular relationship between profits (thinking in terms of the company), customer satisfaction (thinking in terms of the customer), and [[Soft Skills]] (being friendly and empathetic).
 
-Client satisfaction is highly dependent on choosing the right investment strategy. Therefore, the client-advisor must determine the client’s needs (risk, return, unique circumstances) with the client and propose the right strategy. This strategy forms the bridge between the client and asset management. This [[Serious Game]] intends to train people for the holistic consulting process.
+Client satisfaction is highly dependent on choosing the right investment strategy. Therefore, the client-advisor must determine the client’s needs (risk, return, unique circumstances) with the client and propose the right strategy. This strategy forms the bridge between the client and asset management. This [[definitions/Serious Games]] intends to train people for the holistic consulting process.
 
 The Private Banking Advisory Game puts the player in the role of an investment advisor (senior consultant) at the *uFin* bank. During the game, the advisor conducts two investment advisory talks with the target to allocate a suitable investment strategies to both clients and assign a bias to one of the two clients. After the two advisory meetings, the supervisor provides the player a feedback about his investment strategy selection and bias allocation. After getting feedback, the player can either restart the game or finish the game.
 

@@ -1,0 +1,1 @@
+Hamari, J., Shernoff, D. J., Rowe, E., Coller, B., Asbell-Clarke, J., & Edwards, T. (2016). Challenging games help students learn: An empirical study on engagement, flow and immersion in game-based learning. _Computers in Human Behavior_, _54_, 170–179. https://doi.org/10.1016/j.chb.2015.07.045

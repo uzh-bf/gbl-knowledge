@@ -1,0 +1,1 @@
+Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: Defining “gamification.” _Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments_, 9–15. https://doi.org/10.1145/2181037.2181040

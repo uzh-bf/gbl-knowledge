@@ -1,0 +1,1 @@
+Halbach, T., & Solheim, I. (2018). Gamified Micro-Learning for Increased Motivation: An Exploratory Study. _International Association for Development of the Information Society (IADIS) International Conference on Cognition and Exploratory Learning in the Digital Age (CELDA)_, 8.

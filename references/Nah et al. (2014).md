@@ -1,0 +1,1 @@
+Nah, F. F.-H., Zeng, Q., Telaprolu, V. R., Ayyappa, A. P., & Eschenbrenner, B. (2014). Gamification of Education: A Review of Literature. In F. F.-H. Nah (Ed.), _International Conference on HCI in Business_ (Vol. 8527, pp. 401–409). Springer International Publishing. https://doi.org/10.1007/978-3-319-07293-7_39

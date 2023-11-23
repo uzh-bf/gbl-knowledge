@@ -1,0 +1,1 @@
+Majuri, J., Koivisto, J., & Hamari, J. (2018). _Gamification of education and learning: A review of empirical literature_. The 2nd International GamiFIN conference.
