@@ -1,1 +1,4 @@
+## Abstract
+Research published by University of Rochester neuroscientists C. Shawn Green and Daphne Bavelier has grabbed national attention for suggesting that playing "action" video and computer games has the positive effect of enhancing students' visual selective attention. But that finding is just one small part of a more important message that all parents and educators need to hear: Video games are not the enemy, but the best opportunity we have to engage our kids in real learning.
+
 Prensky, M. (2003). Digital game-based learning. _Computers in Entertainment_, _1_(1), 21. https://doi.org/10.1145/950566.950596

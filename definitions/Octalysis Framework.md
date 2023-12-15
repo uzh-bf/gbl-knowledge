@@ -1,6 +1,6 @@
 Yu-Kai Chou, an avid gamer since childhood, has developed a structure centred around human motivation for gamifying real life ([[Chou (2019)]]). Gamification elements are flexible to address the different goals and personalities of users; [[Chou (2019)]] proposes **eight ‘core drives**’ as the various motivations driving our actions in his framework ‘Octalysis’ below. Are none of the drives present, we will find no motivation and thus take no action.
 
-![[Pasted image 20231122115224.png|The Octalysis Framework]]
+![[Octalysis Framework.png|The Octalysis Framework]]
 The above image is explained in the following paragraphs, based on [Chou's (2019)](Chou%20(2019)) Octalysis framework.
 
 **_1. Epic Meaning & Calling:_** Feeling ‘chosen’ to embark on something that may be voluntary or for the good of others. Also includes the feeling of ‘beginner’s luck’ or overarching storylines.

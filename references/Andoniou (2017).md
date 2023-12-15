@@ -1,1 +1,6 @@
+## Introduction
+Digital Explorations of Diverse Micro-Learning Experiences, Vol.7, is the seventh e-book in the TechnoLiterati series. This series of technology and education publications, explores a wide variety of issues on education, technology, art, design, future technologies, digital life and many more, which can be considered as micro-learning experiences of a larger puzzle of teaching and learning with digital technologies. The stories are selected based on content value, diversity of information and knowledge, personal academic interest and aesthetics, with the aim to motivate, educate and promote understanding of the ever increasing intrusion and effect of technology to the human nature and life experience.
+
+The stories included in this issue appeared online in a variety of online resources between March and April 2017 and were hosted in the TechnoLiterati content curation micro-blog. All stories in this e-book are linked to their original URL link, which simply means you need to be online to read the full stories. Click on the title, image, or source link to access the full story. If you get a Security Warning to connect to the online website click Allow and the story will open in your web browser. Enjoy.
+
 Andoniou, C. (2017). _Technoliterati: Digital Explorations of Diverse Micro-Learning Experiences Vol.7_.

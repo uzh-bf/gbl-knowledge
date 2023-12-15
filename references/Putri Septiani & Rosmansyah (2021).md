@@ -1,1 +1,0 @@
-Putri Septiani, A., & Rosmansyah, Y. (2021). Features, Frameworks, and Benefits of Gamified Microlearning: A Systematic Literature Review. _2021 3rd International Conference on Modern Educational Technology_, 130–135. https://doi.org/10.1145/3468978.3469000
