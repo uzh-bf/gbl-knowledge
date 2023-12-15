@@ -1,0 +1,1 @@
+Bartle, R. (1996). Hearts, clubs, diamonds, spades: Players who suit MUDs. _Journal of MUD Research_, _1_(1).

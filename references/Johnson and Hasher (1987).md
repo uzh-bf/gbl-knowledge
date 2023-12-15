@@ -1,0 +1,1 @@
+Johnson, M. K., & Hasher, L. (1987). Human learning and memory. _Annual Review of Psychology_, _38_, 631–668. https://doi.org/10.1146/annurev.ps.38.020187.003215

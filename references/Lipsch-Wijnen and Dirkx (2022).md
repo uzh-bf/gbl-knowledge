@@ -1,0 +1,1 @@
+Lipsch-Wijnen, I., & Dirkx, K. (2022). A case study of the use of the Hattie and Timperley feedback model on written feedback in thesis examination in higher education. _Cogent Education_, _9_(1), 2082089. https://doi.org/10.1080/2331186X.2022.2082089

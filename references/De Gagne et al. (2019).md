@@ -1,0 +1,1 @@
+De Gagne, J. C., Park, H. K., Hall, K., Woodward, A., Yamane, S., & Kim, S. S. (2019). Microlearning in Health Professions Education: Scoping Review. _JMIR Medical Education_, _5_(2), e13997. https://doi.org/10.2196/13997

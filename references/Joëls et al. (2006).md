@@ -1,0 +1,1 @@
+Joëls, M., Pu, Z., Wiegert, O., Oitzl, M. S., & Krugers, H. J. (2006). Learning under stress: How does it work? _Trends in Cognitive Sciences_, _10_(4), 152–158. https://doi.org/10.1016/j.tics.2006.02.002

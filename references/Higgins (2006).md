@@ -1,0 +1,1 @@
+Higgins, E. T. (2006). Value from hedonic experience and engagement. _Psychological Review_, _113_(3), 439–460. Scopus. https://doi.org/10.1037/0033-295X.113.3.439

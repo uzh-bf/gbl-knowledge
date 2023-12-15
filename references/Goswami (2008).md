@@ -1,0 +1,1 @@
+Goswami, U. (2008). Principles of Learning, Implications for Teaching: A Cognitive Neuroscience Perspective. _Journal of Philosophy of Education_, _42_(3–4), 381–399. https://doi.org/10.1111/j.1467-9752.2008.00639.x

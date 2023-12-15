@@ -1,1 +1,1 @@
-Sailer, M., Hense, J. U., Mayr, S. K., & Mandl, H. (2017). How gamification motivates: An experimental study of the effects of specific game design elements on psychological need satisfaction. _Computers in_
+Sailer, M., Hense, J. U., Mayr, S. K., & Mandl, H. (2017). How gamification motivates: An experimental study of the effects of specific game design elements on psychological need satisfaction. _Computers in Human Behavior_, _69_, 371–380. https://doi.org/10.1016/j.chb.2016.12.033

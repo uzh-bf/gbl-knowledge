@@ -1,0 +1,1 @@
+Jahnke, I., Lee, Y.-M., Pham, M., He, H., & Austin, L. (2020). Unpacking the Inherent Design Principles of Mobile Microlearning. _Technology, Knowledge and Learning_, _25_(3), 585–619. https://doi.org/10.1007/s10758-019-09413-w
