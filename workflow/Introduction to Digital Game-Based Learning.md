@@ -7,7 +7,7 @@ description:
     as its key effects. Our resources will help you understand if you
     should apply game-based learning to your use case and what results you
     can expect."
-videoSrc: "https://tube.switch.ch/embed/fZLlA3PQVf"
+videoSrc: "https://api.cast.switch.ch/p/106/embedPlaykitJs/uiconf_id/23449004/partner_id/106?iframeembed=true&playerId=kaltura_player&entry_id=0_20x08yhm"
 resources:
   - name: "Slides (PDF)"
     href: "/assets/Introduction_to_DGBL.pdf"

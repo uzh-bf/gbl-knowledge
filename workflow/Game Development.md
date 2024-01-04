@@ -7,7 +7,7 @@ description:
     content and technical developers is recommended. Individual game
     elements should be tested and evaluated on an ongoing basis so that
     corrective measures can be taken promptly if necessary."
-videoSrc: "https://tube.switch.ch/embed/DzvtvEspwp"
+videoSrc: "https://api.cast.switch.ch/p/106/embedPlaykitJs/uiconf_id/23449004/partner_id/106?iframeembed=true&playerId=kaltura_player&entry_id=0_7s958w2r"
 resources:
     - name: "Slides (PDF)"
       href: "/assets/Game_Development.pdf"

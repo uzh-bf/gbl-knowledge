@@ -11,7 +11,7 @@ description:
     find a suitable game setting and to further develop the game (part),
     it is helpful to always ask for feedback and to regularly evaluate the
     game and the game setting."
-videoSrc: "https://tube.switch.ch/embed/9noiwL00Oi"
+videoSrc: "https://api.cast.switch.ch/p/106/embedPlaykitJs/uiconf_id/23449004/partner_id/106?iframeembed=true&playerId=kaltura_player&entry_id=0_oi711ns6"
 resources:
     - name: "Slides (PDF)"
       href: "/assets/Game_Execution.pdf"
