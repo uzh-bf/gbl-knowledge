@@ -1,0 +1,4 @@
+## Abstract
+We synthesized the literature on gamification of education by conducting a review of the literature on gamification in the educational and learning context. Based on our review, we identified several game design elements that are used in education. These game design elements include points, levels/stages, badges, leaderboards, prizes, progress bars, storyline, and feed- back. We provided examples from the literature to illustrate the application of gamification in the educational context.
+
+Nah, F. F.-H., Zeng, Q., Telaprolu, V. R., Ayyappa, A. P., & Eschenbrenner, B. (2014). Gamification of Education: A Review of Literature. In F. F.-H. Nah (Ed.), _International Conference on HCI in Business_ (Vol. 8527, pp. 401–409). Springer International Publishing. https://doi.org/10.1007/978-3-319-07293-7_39
