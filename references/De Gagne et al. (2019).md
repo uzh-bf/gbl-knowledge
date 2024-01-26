@@ -1,4 +1,4 @@
-## Abstract
+## Paper's Abstract
 **Background**: Microlearning, the acquisition of knowledge or skills in the form of small units, is endorsed by health professions educators as a means of facilitating student learning, training, and continuing education, but it is difficult to define in terms of its features and outcomes.  
 
 **Objective**: This review aimed to conduct a systematic search of the literature on microlearning in health professions education to identify key concepts, characterize microlearning as an educational strategy, and evaluate pedagogical outcomes experienced by health professions students.  

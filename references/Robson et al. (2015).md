@@ -1,4 +1,4 @@
-## Abstract
+## Paper's Abstract
 There is growing interest in how gamification - defined as the application
 of game design principles in non-gaming contexts - can be used in business. However,
 academic research and management practice have paid little attention to the

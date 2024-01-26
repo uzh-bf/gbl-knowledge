@@ -1,4 +1,4 @@
-## Abstract
+## Paper's Abstract
 In this paper we focus on the interaction design properties of micro-
 learning experiences to outline relevant research directions and main challenges
 of the field. We start by analyzing current efforts in the area of educational
