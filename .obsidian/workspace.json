@@ -11,12 +11,8 @@
             "id": "7291aa3c4143dfe0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definitions/Science of Learning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definitions/Science of Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definitions/Science of Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +168,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7291aa3c4143dfe0",
+  "active": "ce8b4aca33014e4b",
   "lastOpenFiles": [
+    "definitions/Science of Learning.md",
     "courses/Finance for the Future - Investments, Sustainable Finance & FinTech (Summer School).md",
     "courses/Banking Game - Gesamtfuehrung einer Bank (S).md",
     "definitions/Gamification.md",
@@ -201,7 +196,6 @@
     "references/Prensky (2003).md",
     "references/Nah et al. (2014).md",
     "references/Marzano and Kendall (2007).md",
-    "references/Majuri et al. (2018).md",
     "assets/Octalysis Framework.png",
     "assets/KlickerLogo 1.png",
     "assets/playertypes.png",
