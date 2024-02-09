@@ -41,3 +41,31 @@ The "Evaluate" category is described by forming judgements based on standards an
 - **Producing** entails *constructing* or inventing new products or procedures. 
 
 Source: [[Anderson et al. (2001)]]
+
+# Other Taxonomy Models of Educational Objectives
+Due to criticism regarding Bloom’s original taxonomy, there were many updated versions of it created during these years.
+
+## Kendall & Marzano's New Taxonomy
+The difference between Bloom’s Taxonomy and the one from Kendall & Marzano is that Bloom et al.’s Original Framework mostly focuses on the cognitive aspect. Marzano and Kendall emphasise metacognition and the self-esteem. Their framework treats the cognitive system in a more practical and motivational way.
+
+Benjamin Bloom’s Taxonomy consists of six levels which are arranged in a hierarchical order: Re-membering, Understanding, Applying, Analysing, Synthesizing and Creating. In response to the limitations of Bloom’s Taxonomy, a new taxonomy of thinking skills has evolved. This updated framework considers a broader array of factors influencing learners’ cognitive processes, offering a more evidence-based approach for educators seeking to enhance their students’ thinking abilities. 
+
+The New Taxonomy consists of 3 systems and the knowledge domain, all of which are important for thinking and learning. The three systems are the self-system, the metacognitive system, and the cognitive system.
+
+The self-system, when confronted with a new task, determines whether to continue with the current behavior or engage in the new activity. The metacognitive system es-tablishes and monitors goal attainment while the cognitive system processes essential in-formation. The knowledge domain contributes the necessary content to complete the comprehensive thinking skills framework.
+
+Source: [[Marzano and Kendall (2007)]]
+
+## SOLO-Taxonomy
+
+Structure of the Observed Learning Outcome, also called SOLO, is a taxonomy developed by John B. Biggs and Kevin F. Collis (later called Tang). The SOLO-Taxonomy is used to assess and guide the development of cognitive skills and learning outcomes. It focuses on the depth of understanding and thinking. It classifies student’s understanding of a subject into different levels. The levels include prestructural, unistructural, multistructural, relational, and ex-tended abstract. Each level represents a progressive degree of complexity in the processing of information. The levels are explained in more detail here.
+
+1) Prestructural: Understanding at this level is elementary and unsystematic. Learner has little or no grasp of the topic
+2) Unistructural: Learner can identify simple facts and aspects of the topic, but there is still no connection between them.
+3) Multistructural: Learner can recognize various aspects of the topic and understand them in isolation, but a deeper connection and integration are still lacking.
+4) Relational: At this level, learner can establish connections between different aspects of the topic and develop a more comprehensive understanding.
+5) Extended abstract: The highest level involves the ability to apply the learned knowledge to new, complex situations and to independently expand upon it.
+
+Summarized the difference between Bloom’s Taxonomy and the one from Biggs & Collis is that Blooms’ focuses more on cognitive processes and the SOLO-Taxonomy more on the structure and depth of understanding.
+
+Source: [[Nor and Idris (2010)]]; [[Prakash, Narayan and Sethuraman (2010)]]

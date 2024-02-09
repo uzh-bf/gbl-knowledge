@@ -1,0 +1,5 @@
+
+## Abstract
+Post-graduate students in statistics courses are expected to use their reasoning when making informal inference from comparison of two box plots. A framework based on the SOLO Taxonomy that can be used to assess students’ informal inferential reasoning as they compare two box plots had been developed. It consists of a set of descriptors of the levels of reasoning and interview tasks that can be used to collect evidence of students’ informal inferential reasoning. An example of a student’s response to one of the tasks and how the descriptors are used to determine the levels of students’ informal inferential reasoning will be presented.
+
+Nor, N. M., & Idris, N. (2010). Assessing Students’ Informal Inferential Reasoning using SOLO Tax-onomy based Framework. Procedia - Social and Behavioral Sciences, 2(2), 4805–4809. https://doi.org/10.1016/j.sbspro.2010.03.774

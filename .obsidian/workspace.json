@@ -11,8 +11,12 @@
             "id": "7291aa3c4143dfe0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "definitions/Types of Knowledge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "definitions/Types of Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "definitions/Types of Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitions/Science of Learning.md"
+                "file": "definitions/Types of Knowledge.md"
               }
             }
           },
@@ -168,34 +174,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ce8b4aca33014e4b",
+  "active": "7291aa3c4143dfe0",
   "lastOpenFiles": [
-    "definitions/Science of Learning.md",
-    "courses/Finance for the Future - Investments, Sustainable Finance & FinTech (Summer School).md",
-    "courses/Banking Game - Gesamtfuehrung einer Bank (S).md",
-    "definitions/Gamification.md",
+    "definitions/Learning Objective.md",
     "definitions/Microlearning.md",
-    "definitions/Feedback.md",
-    "definitions/Banking and Finance.md",
+    "definitions/Miro.md",
+    "definitions/Motivation.md",
+    "definitions/Octalysis Framework.md",
+    "definitions/Bloom's Taxonomy.md",
+    "references/Prakash, Narayan and Sethuraman (2010).md",
+    "references/Nor and Idris (2010).md",
+    "definitions/Prototype.md",
+    "definitions/Player Types.md",
+    "definitions/Serious Games.md",
+    "definitions/Types of Knowledge.md",
     "definitions/Assessment Design.md",
-    "references/Buchem and Hamelmann (2010).md",
-    "references/Chou (2019).md",
-    "references/Caponetto et al. (2014).md",
-    "references/Al-Azawi et al. (2016).md",
+    "definitions/Banking and Finance.md",
+    "definitions/Simulations.md",
+    "definitions/Soft Skills.md",
+    "references/Krathwohl (2002).md",
+    "references/Joëls et al. (2006).md",
+    "references/Khurana and Kumar (2017).md",
+    "references/KlickerUZH.md",
     "references/Andoniou (2017).md",
-    "references/Bartle (1996).md",
+    "references/Anderson (2001).md",
     "references/Belham (2018).md",
     "references/Bai et al. (2020).md",
-    "Home.md",
-    "references/Wisniewski et al. (2020).md",
-    "references/Sousa (2022).md",
-    "references/Sailer et al. (2017).md",
-    "references/Sadler (1989).md",
-    "references/Robson et al. (2015).md",
-    "references/Putri Septiani and Rosmansyah (2021).md",
-    "references/Prensky (2003).md",
-    "references/Nah et al. (2014).md",
     "references/Marzano and Kendall (2007).md",
+    "references/Sousa (2022).md",
     "assets/Octalysis Framework.png",
     "assets/KlickerLogo 1.png",
     "assets/playertypes.png",

@@ -18,7 +18,7 @@ The [[Portfolio Management Simulation]] (game flow below in blue) follows the in
 
 ## Necessary Theoretical Background
 
-Before the [[Portfolio Management Simulation]] can be successfully applied, it is important to make sure that the students are already equipped with a basic level of the following [[Prior Knowledge]] (which they can practically apply during the simulation):
+Before the [[Portfolio Management Simulation]] can be successfully applied, it is important to make sure that the students are already equipped with a basic level of the following [[Types of Knowledge]] (which they can practically apply during the simulation):
 
 - In the field of **finance**: Risk-return concept and measures, asset classes and the influence of key economic factors on financial markets
 - In the field of **business administration**: Income statement
