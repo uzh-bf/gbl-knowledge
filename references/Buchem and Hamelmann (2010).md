@@ -1,7 +1,7 @@
+> Buchem, I., & Hamelmann, H. (2010). Microlearning: A strategy for ongoing professional development. _eLearning Papers_, _21_(7).
 ## Summary
 In this paper we introduce microlearning in online communities as a learning approach
-triggered by current patterns of media use and supported by new technologies, such Web 2.0
-and social software. We delineate microlearning as a "pragmatic innovation" to lifelong learning
+triggered by current patterns of media use and supported by new technologies, such as Web 2.0 and social software. We delineate microlearning as a "pragmatic innovation" to lifelong learning
 due to its capability to support flexible learning that can be easily integrated into everyday
 activities, supporting individual learning aims and needs.
 
@@ -21,4 +21,3 @@ provide a viable solution to fast-paced and multitask-oriented patterns of learn
 today. Microlearning, aligned with formal learning and embedded in online communities, has
 the potential to support ongoing professional development.
 
-Buchem, I., & Hamelmann, H. (2010). Microlearning: A strategy for ongoing professional development. _eLearning Papers_, _21_(7).

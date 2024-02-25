@@ -1,5 +1,4 @@
 ## Defining Gamification
-*potentially replace image*
 
 ![[Gamification Circle.png]]
 

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "250f14e2f17a447e",
+        "id": "9431dcc53b40e5f6",
         "type": "tabs",
         "children": [
           {
-            "id": "7291aa3c4143dfe0",
+            "id": "8547e3f26116a6bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "references/Nah et al. (2014).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#in-use",
+                "query": "tag:#Feedback",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "references/Nah et al. (2014).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "references/Nah et al. (2014).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitions/Science of Learning.md"
+                "file": "references/Nah et al. (2014).md"
               }
             }
           },
@@ -163,39 +169,39 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce8b4aca33014e4b",
+  "active": "8547e3f26116a6bd",
   "lastOpenFiles": [
-    "definitions/Science of Learning.md",
-    "courses/Finance for the Future - Investments, Sustainable Finance & FinTech (Summer School).md",
-    "courses/Banking Game - Gesamtfuehrung einer Bank (S).md",
-    "definitions/Gamification.md",
-    "definitions/Microlearning.md",
-    "definitions/Feedback.md",
-    "definitions/Banking and Finance.md",
-    "definitions/Assessment Design.md",
-    "references/Buchem and Hamelmann (2010).md",
-    "references/Chou (2019).md",
-    "references/Caponetto et al. (2014).md",
-    "references/Al-Azawi et al. (2016).md",
-    "references/Andoniou (2017).md",
-    "references/Bartle (1996).md",
-    "references/Belham (2018).md",
-    "references/Bai et al. (2020).md",
-    "Home.md",
+    "references/Marzano and Kendall (2007).md",
+    "references/Nah et al. (2014).md",
+    "references/Prensky (2003).md",
+    "learning outcomes.md",
+    "Digital Game-Based Learning.md",
+    "references/Putri Septiani and Rosmansyah (2021).md",
+    "references/Robson et al. (2015).md",
     "references/Wisniewski et al. (2020).md",
     "references/Sousa (2022).md",
     "references/Sailer et al. (2017).md",
     "references/Sadler (1989).md",
-    "references/Robson et al. (2015).md",
-    "references/Putri Septiani and Rosmansyah (2021).md",
-    "references/Prensky (2003).md",
-    "references/Nah et al. (2014).md",
-    "references/Marzano and Kendall (2007).md",
+    "definitions/Motivation.md",
+    "definitions/Feedback.md",
+    "references/Majuri et al. (2018).md",
+    "references/Lipsch-Wijnen and Dirkx (2022).md",
+    "references/Landers et al. (2018).md",
+    "references/KlickerUZH.md",
+    "references/Khurana and Kumar (2017).md",
+    "references/Johnson and Hasher (1987).md",
+    "references/Joëls et al. (2006).md",
+    "references/Jahnke et al. (2020).md",
+    "references/Higgins (2006).md",
+    "references/Hattie and Timperley (2007).md",
+    "references/Hattie (2012).md",
+    "references/Hamari et al. (2016).md",
+    "references/Halbach and Solheim (2018).md",
     "assets/Octalysis Framework.png",
     "assets/KlickerLogo 1.png",
     "assets/playertypes.png",

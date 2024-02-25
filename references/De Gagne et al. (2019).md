@@ -1,3 +1,4 @@
+> De Gagne, J. C., Park, H. K., Hall, K., Woodward, A., Yamane, S., & Kim, S. S. (2019). Microlearning in Health Professions Education: Scoping Review. _JMIR Medical Education_, _5_(2), e13997. https://doi.org/10.2196/13997
 ## Paper's Abstract
 **Background**: Microlearning, the acquisition of knowledge or skills in the form of small units, is endorsed by health professions educators as a means of facilitating student learning, training, and continuing education, but it is difficult to define in terms of its features and outcomes.  
 
@@ -9,4 +10,3 @@
 
 **Conclusions**: Microlearning as an educational strategy has demonstrated a positive effect on the knowledge and confidence of health professions students in performing procedures, retaining knowledge, studying, and engaging in collaborative learning. However, downsides to microlearning include pedagogical discomfort, technology inequalities, and privacy concerns. Future research should look at higher-level outcomes, including benefits to patients or practice changes. The findings of this scoping review will inform education researchers, faculty, and academic administrators on the application of microlearning, pinpoint gaps in the literature, and help identify opportunities for instructional designers and subject matter experts to improve course content in didactic and clinical settings.
 
-De Gagne, J. C., Park, H. K., Hall, K., Woodward, A., Yamane, S., & Kim, S. S. (2019). Microlearning in Health Professions Education: Scoping Review. _JMIR Medical Education_, _5_(2), e13997. https://doi.org/10.2196/13997
