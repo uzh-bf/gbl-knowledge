@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9431dcc53b40e5f6",
+        "id": "a014a54aaaba2469",
         "type": "tabs",
         "children": [
           {
-            "id": "8547e3f26116a6bd",
+            "id": "a661fcee947295aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/Nah et al. (2014).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/Nah et al. (2014).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/Nah et al. (2014).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "references/Nah et al. (2014).md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,34 +166,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8547e3f26116a6bd",
+  "active": "a661fcee947295aa",
   "lastOpenFiles": [
-    "references/Marzano and Kendall (2007).md",
-    "references/Nah et al. (2014).md",
-    "references/Prensky (2003).md",
-    "learning outcomes.md",
-    "Digital Game-Based Learning.md",
-    "references/Putri Septiani and Rosmansyah (2021).md",
-    "references/Robson et al. (2015).md",
+    "references/Bartle (1996).md",
+    "references/Al-Azawi et al. (2016).md",
+    "references/Andoniou (2017).md",
+    "references/Bai et al. (2020).md",
     "references/Wisniewski et al. (2020).md",
-    "references/Sousa (2022).md",
-    "references/Sailer et al. (2017).md",
     "references/Sadler (1989).md",
-    "definitions/Motivation.md",
-    "definitions/Feedback.md",
-    "references/Majuri et al. (2018).md",
-    "references/Lipsch-Wijnen and Dirkx (2022).md",
-    "references/Landers et al. (2018).md",
-    "references/KlickerUZH.md",
-    "references/Khurana and Kumar (2017).md",
-    "references/Johnson and Hasher (1987).md",
-    "references/Joëls et al. (2006).md",
-    "references/Jahnke et al. (2020).md",
-    "references/Higgins (2006).md",
-    "references/Hattie and Timperley (2007).md",
-    "references/Hattie (2012).md",
-    "references/Hamari et al. (2016).md",
+    "references/Belham (2018).md",
+    "references/Buchem and Hamelmann (2010).md",
+    "references/Caponetto et al. (2014).md",
+    "references/Chou (2019).md",
+    "references/De Gagne et al. (2019).md",
+    "references/Deterding et al. (2011).md",
+    "references/Duhigg (2014).md",
+    "references/Gabrielli et al. (2006).md",
+    "references/Goswami (2008).md",
     "references/Halbach and Solheim (2018).md",
+    "references/Hamari et al. (2016).md",
+    "references/Hattie (2012).md",
+    "references/Hattie and Timperley (2007).md",
+    "references/Higgins (2006).md",
+    "references/Jahnke et al. (2020).md",
+    "references/Joëls et al. (2006).md",
+    "references/Johnson and Hasher (1987).md",
+    "references/Khurana and Kumar (2017).md",
+    "references/KlickerUZH.md",
+    "references/Landers et al. (2018).md",
     "assets/Octalysis Framework.png",
     "assets/KlickerLogo 1.png",
     "assets/playertypes.png",

@@ -1,6 +1,12 @@
+# Technoliterati: Digital Explorations of Diverse Micro-Learning Experiences
+## Summary
+This ebook titled "Digital Explorations of Diverse Micro-Learning Experiences" is a curated collection of articles on technology, digital life, art, design and future technologies. The articles explore a wide variety of issues related to the increasing impact and intrusion of technology in human life. Key themes include the challenges of disconnecting from the digital world, the pervasiveness of surveillance, the social implications of social media, emerging technologies like AI and VR, and issues around online privacy and security. The ebook aims to educate and promote understanding of technology's complex effects on individuals and society.
+## Key Topics
+- **Digital distraction and disconnecting:** Strategies for unplugging from technology to regain control and mindfulness in an always-connected world.
+- **Surveillance and privacy:** How surveillance technologies are becoming ubiquitous in cities and the challenges of maintaining anonymity and privacy.
+- **Social media's impact:** The social pressures and mental health implications of social media use, especially on younger generations.
+- **Artificial intelligence:** The development of AI technologies, their potential to reshape society, and philosophical questions around AI consciousness.
+- **Online security:** The various forms of cybercrime and best practices for protecting accounts and data online.
+- **Emerging technologies:** Discussions of virtual reality, quantum computing, and other cutting-edge technological developments.
+## Reference
 > Andoniou, C. (2017). _Technoliterati: Digital Explorations of Diverse Micro-Learning Experiences Vol.7_.
-## Book's Introduction
-Digital Explorations of Diverse Micro-Learning Experiences, Vol.7, is the seventh e-book in the TechnoLiterati series. This series of technology and education publications, explores a wide variety of issues on education, technology, art, design, future technologies, digital life and many more, which can be considered as micro-learning experiences of a larger puzzle of teaching and learning with digital technologies. The stories are selected based on content value, diversity of information and knowledge, personal academic interest and aesthetics, with the aim to motivate, educate and promote understanding of the ever increasing intrusion and effect of technology to the human nature and life experience.
-
-The stories included in this issue appeared online in a variety of online resources between March and April 2017 and were hosted in the TechnoLiterati content curation micro-blog. All stories in this e-book are linked to their original URL link, which simply means you need to be online to read the full stories. Click on the title, image, or source link to access the full story. If you get a Security Warning to connect to the online website click Allow and the story will open in your web browser. Enjoy.
-
