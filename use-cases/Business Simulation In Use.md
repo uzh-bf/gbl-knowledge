@@ -12,7 +12,7 @@ resources:
 
 The [[Business Simulation]] shows students which financial aspects need to be considered in company management and how the individual areas of the company are connected in terms of their financial impact. The board game enables students to playfully experience the connections between the goods cycle and the money cycle of a company. A possible playthrough is shown below: 
 
-<!-- ![](https://sos-ch-dk-2.exo.io/gbl-uzh/UC_DG_SimulationProcess_bg.png) -->
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/UC_DG_SimulationProcess_bg.png)
 
 ## Necessary Theoretical Background
 
