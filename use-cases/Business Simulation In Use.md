@@ -47,10 +47,7 @@ Below is an exemplary syllabus of the three-day seminar, which includes theoreti
 | 12.30 – 13.30 | Lunch break |
 | 13.30 – 15.00 | Strategy development (individually by teams) |
 | 15.00 – 17.00 | Playing year 1 and strategy presentations  |
-
-
 | Day 2         |               |
-| ------------- | ------------- |
 | 08.30 – 09.00 | Presentation of year 1 results by game leader |
 | 09.00 – 09.30 | Theory block: Liquidity |
 | 09.30 – 11.00 | Playing year 2 |
@@ -60,9 +57,7 @@ Below is an exemplary syllabus of the three-day seminar, which includes theoreti
 | 14.00 – 15.30 | Results year 3 and playing year 4 |
 | 15.45 – 16.15 | Theory block: Cost accounting |
 | 16.15 – 17.45 | Results year 4 and playing year 5 |
-
 | Day 3         |               |
-| ------------- | ------------- |
 | 08.30 – 10.00 | Results year 5 and playing year 6 |
 | 10.15 – 10.45 | Theory block: Key performance indicator analysis |
 | 10.45 – 12.00 | Results year 6 and playing year 7 |
