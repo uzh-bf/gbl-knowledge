@@ -13,10 +13,12 @@ resources:
 Gamification is a trend that is not only occurring in the financial sector but is also gaining popularity through many educational and professional offerings. While educational offerings have already recognized the trend at various levels and companies also like to use games for training, this is still quite new in the financial sector. Gamification itself, and especially in relation to the financial world, can raise some ethical questions.
 
 Pros and Precautions with simulations according to CFA Institute (2022) and Nespolo (2024) in the context of Finance: 
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/ethics_check.png)
 - The more complex theoretical issues are, the higher the hurdle to learning them can be. Playful learning elements can mitigate these hurdles through a practical and playful aspect. This way, knowledge transfer does not feel like traditional frontal teaching, and learners experience moments of success and fun, which can meaningfully support learning. 
 - Through simulations and playful scenarios, users can not only gain theoretical knowledge but also develop practical skills that are essential for understanding and navigating the real financial market as well as soft skills. Thus, gamification in the financial sector offers high potential to bridge gaps and make complex content easier to convey. 
 - Many gamification applications provide users with learning successes and thus motivation in complex theoretical aspects. This reinforces their application in the financial sector.  
 - Simulations allow you to make mistakes in a safe space without consequences, or to try out things that cannot be tested in the real environment. 
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/ethics_warn.png)
 - From an ethical perspective, it can always be critically examined whether financial instruments should be associated with something playful. The ethical conflict arises from various viewpoints in that the capital or lives of others can be affected by financial decisions. In general, several other points must be critically considered. Gamification in the context of financial education should primarily be implemented for educational purposes. 
 - Games entail a certain addictive potential through the fun experienced by users, which can lead employees to engage with the applications even after working hours, thereby blurring the lines between work and leisure.
 - The transmission between fiction and reality must be maintained, and topics with serious real-world relevance should not be made too playful. 
