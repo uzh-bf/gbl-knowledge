@@ -2,7 +2,7 @@
 slug: portfolio-management-simulation
 title: Portfolio Management Simulation
 imgSrc: '/images/pfm_game.png'
-tags: ['DBF', 'Simulation', 'Investing']
+tags: ['UZH DF', 'Simulation', 'Investing']
 subtitle: A simulation to improve decision-making ability
 objectives:
   - Players are able to apply their knowledge in finance and macroeconomics in a portfolio management setting. 

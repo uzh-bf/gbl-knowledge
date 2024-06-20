@@ -2,7 +2,7 @@
 slug: private-banking-game
 title: Private Banking Advisory Game
 imgSrc: '/images/under_construction.jpg'
-tags: ['DBF', 'Serious Game', 'Banking', 'Work in Progress']
+tags: ['UZH DF', 'Serious Game', 'Banking', 'Work in Progress']
 subtitle: A serious game to enhance your understanding of risk and return in an investment context
 objectives:
   - The participant is able to identify risk/return relations.

@@ -2,7 +2,7 @@
 slug: escape-uzh
 title: EscapeUZH
 imgSrc: '/images/escape_hero.png'
-tags: ['DBF', 'Educational Escape Room', 'University of Zurich']
+tags: ['UZH DF', 'Educational Escape Room', 'University of Zurich']
 subtitle: The Search for the Instant University Diploma – A Scavenger Hunt to get to know the University of Zurich (UZH)
 objectives:
   - University of Zurich – As the escape room is set in the University of Zurich, players can learn about the institution’s main campus, history, culture and its academic legacy in a playful setting.

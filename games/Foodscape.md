@@ -2,7 +2,7 @@
 slug: foodscape
 title: Foodscape
 imgSrc: '/images/foodscape.png'
-tags: ['ZHAW', 'Serious Game', 'Nutrition', 'Sustainability']
+tags: ['ZHAW', 'ZHdK', 'Serious Game', 'Nutrition', 'Sustainability']
 subtitle: Explore the complex relationships between nutrition, land use, health and sustainability in the Swiss food system.
 objectives:
   - Players can identify connections between nutrition and land use.
