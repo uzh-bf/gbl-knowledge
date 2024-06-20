@@ -3,7 +3,7 @@ slug: business-simulation-in-use
 title: A Business Simulation in Use
 abstract: In today's dynamic business landscape, effective financial management is a key element for organizational success. This immersive business simulation offers a unique opportunity to delve into the world of corporate finance, providing participants with a risk-free environment to improve their decision-making skills and gain a comprehensive understanding of financial strategies. Through various scenarios and real-world challenges, players can explore the complexities of financial planning, budgeting, and resource allocation. 
 type: simulations
-imgSrc: '/images/business_simulation_1.png'
+imgSrc: '/images/business_simulation_playthrough.png'
 gallery: ''
 resources:
 ---
@@ -12,7 +12,7 @@ resources:
 
 The [[Business Simulation]] shows students which financial aspects need to be considered in company management and how the individual areas of the company are connected in terms of their financial impact. The board game enables students to playfully experience the connections between the goods cycle and the money cycle of a company. A possible playthrough is shown below: 
 
-![](https://sos-ch-dk-2.exo.io/gbl-uzh/UC_DG_SimulationProcess_bg.png)
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/business_simulation_playthrough.png)
 
 ## Necessary Theoretical Background
 
@@ -40,29 +40,7 @@ Using the [[Business Simulation]] requires a lot of in-class time. Thus, a playi
 
 Below is an exemplary syllabus of the three-day seminar, which includes theoretical input lectures as well as game and results explanation phases. 
 
-| Day 1         |               |
-| ------------- | ------------- |
-| 09.00 – 10.30 | Preparing and setting up the board games  |
-| 10.30 – 12.30 | Introduction and playing year 0 (guided game round) |
-| 12.30 – 13.30 | Lunch break |
-| 13.30 – 15.00 | Strategy development (individually by teams) |
-| 15.00 – 17.00 | Playing year 1 and strategy presentations  |
-| Day 2         |               |
-| 08.30 – 09.00 | Presentation of year 1 results by game leader |
-| 09.00 – 09.30 | Theory block: Liquidity |
-| 09.30 – 11.00 | Playing year 2 |
-| 11.15 – 11.30 | Presentation of year 1 results by game leader |
-| 11.30 – 13.00 | Playing year 3 |
-| 13.00 – 14.00 | Lunch break |
-| 14.00 – 15.30 | Results year 3 and playing year 4 |
-| 15.45 – 16.15 | Theory block: Cost accounting |
-| 16.15 – 17.45 | Results year 4 and playing year 5 |
-| Day 3         |               |
-| 08.30 – 10.00 | Results year 5 and playing year 6 |
-| 10.15 – 10.45 | Theory block: Key performance indicator analysis |
-| 10.45 – 12.00 | Results year 6 and playing year 7 |
-| 12.00 – 15.00 | Preparation for annual general meeting |
-| 15.00 – 17.00 | Annual general meeting of each company |
+![](https://sos-ch-dk-2.exo.io/gbl-uzh/business_simulation_schedule.png)
 
 ## Asssessment Design
 
