@@ -1,7 +1,7 @@
 ---
 slug: foodscape
 title: Foodscape
-imgSrc: '/images/doofscape.png'
+imgSrc: '/images/foodscape.png'
 tags: ['ZHAW', 'Serious Game', 'Nutrition', 'Sustainability']
 subtitle: Explore the complex relationships between nutrition, land use, health and sustainability in the Swiss food system.
 objectives:
