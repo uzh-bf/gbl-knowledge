@@ -3,22 +3,22 @@ slug: design-thinking-for-game-based-learning
 title: Design Thinking for Game-Based Learning
 abstract: Design Thinking provides a way to face dynamic, multifaceted challenges, by using a creative and collaborative process. In this use case, the Design Thinking Process is being applied to elaborating game ideas and prototypes.
 type: development
-imgSrc: '/images/DTP Miro.png'
-gallery: ''
+imgSrc: "/images/DTP Miro.png"
+gallery: ""
 resources:
 ---
 
 ## Design Thinking
 
-[[Design Thinking]] provides a way to face dynamic, multifaceted challenges, such as elaborating game ideas and prototypes, by using a creative and collaborative process. «Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success», said Tim Brown, Executive Chair of IDEO.
+[[definitions/Design-Thinking|Design Thinking]] provides a way to face dynamic, multifaceted challenges, such as elaborating game ideas and prototypes, by using a creative and collaborative process. «Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success», said Tim Brown, Executive Chair of IDEO.
 
-The design thinking process is a way to solve problems through creativity. Throughout the [[Design Thinking|Design Thinking Process]], choices are created (divergent thinking), and choices are being made (convergent thinking):
+The design thinking process is a way to solve problems through creativity. Throughout the [[definitions/Design-Thinking|Design Thinking Process]], choices are created (divergent thinking), and choices are being made (convergent thinking):
 
 ![](https://sos-ch-dk-2.exo.io/gbl-uzh/UC_DTP_DTPataGlance_WithSource_bg.png)
 
 ## Design Thinking Process
 
-The six steps of the [[Design Thinking|Design Thinking Process]] based on Design Council UK (2019) and Stadelmann (2021) are the following:
+The six steps of the [[definitions/Design-Thinking|Design Thinking Process]] based on Design Council UK (2019) and Stadelmann (2021) are the following:
 
 - **Understand**: Understand the question respectively problem (e.g., difficult conceptional topic) as a team and identify involved stakeholders (e.g., students, lecturers).
 - **Observe**: Observe (e.g. visit lectures, look at exam results) and talk to relevant stakeholders (e.g., students, lecturers) while dealing with the question respectively the problem.
@@ -29,7 +29,7 @@ The six steps of the [[Design Thinking|Design Thinking Process]] based on Design
 
 ## Design Thinking for Game-Based Learning
 
-A description of the [[Design Thinking|Design Thinking Process]] applied in the field of [[Game-Based Learning]] respectively how to proceed from a specific need (e.g., I want to gamify a difficult conceptional topic) to a [[Prototype|Testable Prototype]] can be found on the following slides. The [[Miro]] template facilitates a [[Design Thinking]] workshop in the field of [[Game-Based Learning]]:
+A description of the [[definitions/Design-Thinking|Design Thinking Process]] applied in the field of [[definitions/Game-Based-Learning|Game-Based Learning]] respectively how to proceed from a specific need (e.g., I want to gamify a difficult conceptional topic) to a [[Prototype|Testable Prototype]] can be found on the following slides. The [[Miro]] template facilitates a [[definitions/Design-Thinking|Design Thinking]] workshop in the field of [[definitions/Game-Based-Learning|Game-Based Learning]]:
 
 https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337
 
