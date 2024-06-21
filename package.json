@@ -6,6 +6,7 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "dev": "pnpm quartz build --serve -d content",
+    "build": "pnpm quartz build-d content",
     "sync": "pnpm quartz sync",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
