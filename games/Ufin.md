@@ -2,7 +2,7 @@
 slug: ufin
 title: 'uFin: The Challenge'
 imgSrc: '/images/ufin.jpg'
-tags: ['DBF', 'Serious Game', 'Ethics']
+tags: ['UZH DF', 'Serious Game', 'Ethics']
 subtitle: Promoting Values in Business through Digital Games
 objectives:
   - Establish and improve a sensorium for violations of rules and ethical standards.

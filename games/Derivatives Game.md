@@ -2,7 +2,7 @@
 slug: derivatives-game
 title: Derivatives Game
 imgSrc: '/images/derivatives_1.png'
-tags: ['DBF', 'Simulation', 'Derivatives Trading']
+tags: ['UZH DF', 'Simulation', 'Derivatives Trading']
 subtitle: A simulation for a better understanding of exchange-traded financial derivatives
 objectives:
   - Players can apply their theoretical knowledge to trade on spot, futures, and options markets according to their assigned role.

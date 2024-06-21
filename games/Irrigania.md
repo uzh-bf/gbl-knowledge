@@ -2,7 +2,7 @@
 slug: irrigania
 title: Irrigania
 imgSrc: '/images/irrigania_hero.png'
-tags: ['GEO', 'Simulation', 'Water Management']
+tags: ['UZH GEO', 'Simulation', 'Water Management']
 subtitle: A web-based game about sharing water resources
 objectives:
   - Teaching about collaboration and conflicts with regard to shared water resources
