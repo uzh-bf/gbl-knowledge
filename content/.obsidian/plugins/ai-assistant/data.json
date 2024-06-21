@@ -1,0 +1,10 @@
+{
+  "mySetting": "default",
+  "apiKey": "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",
+  "modelName": "gpt-4-turbo-preview",
+  "imageModelName": "dall-e-3",
+  "maxTokens": 1000,
+  "replaceSelection": true,
+  "imgFolder": "AiAssistant/Assets",
+  "language": "en, de"
+}

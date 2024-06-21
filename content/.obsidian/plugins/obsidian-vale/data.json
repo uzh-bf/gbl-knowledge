@@ -1,0 +1,11 @@
+{
+  "type": "cli",
+  "server": {
+    "url": "http://localhost:7777"
+  },
+  "cli": {
+    "managed": true,
+    "valePath": "",
+    "configPath": ""
+  }
+}
