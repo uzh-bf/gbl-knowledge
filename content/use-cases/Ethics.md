@@ -31,7 +31,7 @@ Within the framework of general ethical principles, it should also be noted that
 
 ## Ethical Aspects in the Portfolio Management Simulation
 
-With the [Portfolio Management Simulation](https://www.gbl.uzh.ch/games/portfolio-management-simulation), users can experience the portfolio management context in a protected environment. It intends to allow players experience return possibilities but also the risk when constructing and supervising an investment portfolio. 
+With the [[games/Portfolio-Management-Simulation|Portfolio Management Simulation]], users can experience the portfolio management context in a protected environment. It intends to allow players experience return possibilities but also the risk when constructing and supervising an investment portfolio. 
 
 Some examples of ethical considerations: 
 
