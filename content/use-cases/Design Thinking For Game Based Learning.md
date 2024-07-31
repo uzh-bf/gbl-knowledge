@@ -29,18 +29,14 @@ The six steps of the [[definitions/Design-Thinking|Design Thinking Process]] bas
 
 ## Design Thinking for Game-Based Learning
 
-A description of the [[definitions/Design-Thinking|Design Thinking Process]] applied in the field of [[definitions/Game-Based-Learning|Game-Based Learning]] respectively how to proceed from a specific need (e.g., I want to gamify a difficult conceptional topic) to a [[Prototype|Testable Prototype]] can be found on the following slides. The [[Miro]] template facilitates a [[definitions/Design-Thinking|Design Thinking]] workshop in the field of [[definitions/Game-Based-Learning|Game-Based Learning]]:
-
-https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337
+A description of the [[definitions/Design-Thinking|Design Thinking Process]] applied in the field of [[definitions/Game-Based-Learning|Game-Based Learning]] respectively how to proceed from a specific need (e.g., I want to gamify a difficult conceptional topic) to a [[definitions/Prototype|Testable Prototype]] can be found on the following slides. This [Miro template](https://miro.com/app/board/uXjVPy43BHY=/?share_link_id=587893963337) facilitates a [[definitions/Design-Thinking|Design Thinking]] workshop in the field of [[definitions/Game-Based-Learning|Game-Based Learning]].
 
 [Design Thinking for GBL - Process Description](https://sos-ch-dk-2.exo.io/gbl-uzh/GBL_Design_Thinking_Process.pdf)
 
-![[GBL_Design_Thinking_Process.pdf]]
-
 ## Further Resources and References
 
-Design Council UK, 2019, Framework for Innovation: Design Council’s evolved Double Diamond, retrieved from https://www.designcouncil.org.uk/our-work/skills-learning/tools-frameworks/framework-for-innovation-design-councils-evolved-double-diamond/ on 16 December 2022.
+Design Council UK, 2019, Framework for Innovation: Design Council’s evolved Double Diamond, retrieved from [https://www.designcouncil.org.uk/our-work/skills-learning/tools-frameworks/framework-for-innovation-design-councils-evolved-double-diamond/](https://www.designcouncil.org.uk/our-work/skills-learning/tools-frameworks/framework-for-innovation-design-councils-evolved-double-diamond/) on 16 December 2022.
 
-Ideo, 2022, Design Thinking Defined, retrieved from https://designthinking.ideo.com/ on 1 September 2022.
+Ideo, 2022, Design Thinking Defined, retrieved from [https://designthinking.ideo.com/](https://designthinking.ideo.com/) on 1 September 2022.
 
 Stadelmann, 2021, Design Thinking for Learning and Teaching, Workshop at the University of Zurich.
