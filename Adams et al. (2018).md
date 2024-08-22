@@ -1,0 +1,9 @@
+## Abstract
+
+Nursing professional development practitioners have the responsibility to find creative and innovative ways to teach and provide learners with the education needed to practice safely in the hospital setting. This article describes an interactive game-based learning experience as a way to engage and empower both nurse residents and experienced nurses.
+
+The escape room experience was created as a way to integrate gaming technology and adult learning principles. Participants of a traditional escape room are given a scenario and must solve puzzles and use clues to complete all tasks and “escape” the room, usually within 60 minutes. Nurse residents were asked to participate in the experience to help demonstrate their knowledge and understanding of the learning objectives of the nurse residency program (NRP).
+
+The concept for this escape room was to incorporate critical thinking and teamwork and to utilize communication skills into an active learning strategy for adult learners. Nurse residents within the organization provided feedback that lectures were not effective or engaging. One objective of this experience was to change the format of how nurses are trained from a passive approach, with lecture and slides, to an active learning approach incorporating game-based learning. The second objective was to evaluate if nurse residents retained the information received during the yearlong residency seminars. This was measured during the interactive escape room activity.
+
+Adams, V., Burger, S., Crawford, K., & Setter, R. (2018). Can you escape? Creating an escape room to facilitate active learning. _Journal for nurses in professional development_, _34_(2), E1-E5. https://journals.lww.com/jnsdonline/fulltext/2018/03000/can_you_escape__creating_an_escape_room_to.15.aspx

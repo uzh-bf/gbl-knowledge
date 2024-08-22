@@ -1,0 +1,7 @@
+## Abstract
+
+Escape rooms, a form of collaborative live-action gaming requiring participants to solve clues to escape a locked room, have grown in popularity across the nation. Games bring together problem solving, critical thinking, and teamwork. This game method has not yet appeared in nursing education literature. The authors describe two versions of the innovative escape room pedagogical method used in undergraduate nursing education. Theoretical bases, learning activities, and types of game clues that could be used are detailed. Future research will address the ability of students to reach learning objectives before and after the game.
+
+We were at a loss. Previous attempts to use games, such as Jeopardy and Family Feud, with nursing-themed questions in a fundamentals course rarely required more than student comprehension of material. Only a few students actively participated, and they quickly became bored. Inspired to create a game of intrigue and inquiry, we adapted the escape room concept to two undergraduate content areas in the baccalaureate nursing program at a midsized Midwestern university.
+
+Morrell, B. L., & Ball, H. M. (2020). Can you escape nursing school? Educational escape room in nursing education. _Nursing Education Perspectives_, _41_(3), 197-198. https://journals.lww.com/neponline/fulltext/2020/05000/can_you_escape_nursing_school__educational_escape.19.aspx

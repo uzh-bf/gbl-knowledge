@@ -1,0 +1,5 @@
+## Abstract
+
+Commercial escape rooms have provided inspiration for an increasing number of educational escape rooms, where students use their learning to solve problems and “escape” a room in a certain time. However, only few escape room studies have been published in the game-based learning research area, although it has been interested also in learning processes. In this study, we apply causation – effectuation theory to observe the learning processes of three student teams solving tasks in an escape room context. The escape room was part of an information systems science research methods course, where the learning process of 18 international students were observed on video recordings. Different learning processes were observed in the teams and causation – effectuation theory explained for example the experimental or instruction following team behavior.
+
+Järveläinen, J., & Paavilainen-Mäntymäki, E. (2019). Escape room as game-based learning process: causation-effectuation perspective. https://scholarspace.manoa.hawaii.edu/items/186dde3d-0542-46e3-b97a-ab2f5d288d40

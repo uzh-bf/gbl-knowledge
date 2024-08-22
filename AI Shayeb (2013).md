@@ -1,0 +1,5 @@
+## Abstract
+
+There has been considerable debate over the past decades concerning the extent to which finance education has fulfilled employers’ and graduates’ expectations related to knowledge and skills needed in a changing and challenging business environment. This study seeks to examine whether there are significant differences in expectations between finance graduates and their employers through examining the 3 dimensions of skills and knowledge: routine–technical skills, interdisciplinary skills, and interpersonal and development skills. The results show that graduates put more emphasis on routine–technical skills compared to employers, who emphasize the importance of interdisciplinary knowledge and skills from other areas of business education. Both graduates and employers, however, shared a belief in the importance of interpersonal and developmental skills.
+
+Al Shayeb, A. M. (2013). Finance graduates’ knowledge and skills development: graduate and employer perceptions in United Arab Emirates. _Journal of Education for Business_, _88_(6), 307-313. https://www.tandfonline.com/doi/full/10.1080/08832323.2012.715096

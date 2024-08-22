@@ -1,0 +1,4 @@
+## Abstract
+Escape rooms are live-‐action team-‐based games where players discover clues, solve puzzles, and accomplish tasks in one or more rooms in order to accomplish a specific goal(usually escaping from the room) in a limited amount of time. This paper presents the results from a survey answered by 175 escape room facilities from around the world about their facilities. The paper highlights different themes, demographics of players, room features, and other design patterns popular in escape rooms at the start of 2015. Given the rapid growth and evolution of escape rooms, this paper serves to document the current state of this phenomenon.
+
+Nicholson, S. (2015). Peeking behind the locked door: A survey of escape room facilities. https://scottnicholson.com/pubs/erfacwhite.pdf

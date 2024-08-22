@@ -1,0 +1,3 @@
+The integration of gamification in tools like Miro, an online collaborative whiteboarding platform, is a topic of interest when looking to enhance user engagement, creativity, and productivity. Gamification in this context involves adding game-like elements, such as points, badges, leaderboards, and challenges, to non-game environments like Miro to motivate and encourage participation and collaboration among users.
+
+Source: https://miro.com/index/

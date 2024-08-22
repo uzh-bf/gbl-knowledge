@@ -1,0 +1,5 @@
+## Abstract
+
+Escape rooms have become very popular with the public in the past few years. Outside of the for-profit sector many grade schools and public libraries have used them to teach and entertain. This article shows how an academic library was able to successfully use the popularity of escape rooms and their teaching advantages to create an escape experience for students. By creating an experience that remained true to the original purpose of escape rooms, but which spanned the whole campus rather than one room, players learned about the library and other campus services by solving a series of ciphers and riddles.
+
+Mac Gregor, M. (2018). Campus clue: Habituating students to the information search process via gaming. _Pennsylvania Libraries: Research & Practice_, _6_(2), 86-92. https://doi.org/10.5195/palrap.2018.172

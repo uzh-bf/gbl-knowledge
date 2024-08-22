@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definitions/Types of Knowledge.md",
+                "file": "definitions/Educational Escape Room.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definitions/Types of Knowledge.md",
+                "file": "definitions/Educational Escape Room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definitions/Types of Knowledge.md",
+                "file": "definitions/Educational Escape Room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitions/Types of Knowledge.md"
+                "file": "definitions/Educational Escape Room.md"
               }
             }
           },
@@ -176,36 +176,39 @@
   },
   "active": "7291aa3c4143dfe0",
   "lastOpenFiles": [
-    "definitions/Learning Objective.md",
-    "definitions/Microlearning.md",
-    "definitions/Miro.md",
-    "definitions/Motivation.md",
-    "definitions/Octalysis Framework.md",
-    "definitions/Bloom's Taxonomy.md",
-    "references/Prakash, Narayan and Sethuraman (2010).md",
-    "references/Nor and Idris (2010).md",
-    "definitions/Prototype.md",
-    "definitions/Player Types.md",
-    "definitions/Serious Games.md",
-    "definitions/Types of Knowledge.md",
-    "definitions/Assessment Design.md",
-    "definitions/Banking and Finance.md",
-    "definitions/Simulations.md",
-    "definitions/Soft Skills.md",
-    "references/Krathwohl (2002).md",
-    "references/Joëls et al. (2006).md",
-    "references/Khurana and Kumar (2017).md",
-    "references/KlickerUZH.md",
-    "references/Andoniou (2017).md",
-    "references/Anderson (2001).md",
-    "references/Belham (2018).md",
-    "references/Bai et al. (2020).md",
-    "references/Marzano and Kendall (2007).md",
-    "references/Sousa (2022).md",
+    "Connolly et al. (2012).md",
+    "definitions/Educational Escape Room.md",
+    "Veldkamp et al. (2020).md",
+    "Nicholson (2015).md",
+    "Mawhirter and Garofalo (2016).md",
+    "Logarajah, Shagana (2024).md",
+    "Clarke et al. (2017).md",
+    "Fotaris and Mastoras (2022).md",
+    "Hermanns et al. (2017).md",
+    "Fides-Valero et al. (2024).md",
+    "Barnes and Enget (2022).md",
+    "Lavrinenko and Shmatko (2019).md",
+    "Lopez-Pernas et al. (2019a).md",
+    "Wu, Wagenschutz, and Hein (2018).md",
+    "Fotaris and Mastoras (2019).md",
+    "Brady and Andersen (2021).md",
+    "Osmani et al. (2017).md",
+    "AI Shayeb (2013).md",
+    "Guckian, Sridhar, and Meggitt (2020).md",
+    "Roman et al. (2020).md",
+    "Adams et al. (2018).md",
+    "Subhash and Cudney (2018).md",
+    "Waggener (1979).md",
+    "Ungaretti et al. (2015).md",
+    "Järveläinen and Paavilainen-Mäntymäki (2019).md",
+    "Vergne, Simmons, and Bowen (2019).md",
+    "assets/Pasted image 20240822144404.png",
+    "assets/Serious Game.png",
+    "assets/playertypes.png",
+    "assets/Pasted image 20230223124906.png",
     "assets/Octalysis Framework.png",
     "assets/KlickerLogo 1.png",
-    "assets/playertypes.png",
-    "assets/bloom taxonomy.png",
-    "assets/Pasted image 20230223124906.png"
+    "assets/DTP Miro.png",
+    "assets/bloom taxonomy.png"
   ]
 }

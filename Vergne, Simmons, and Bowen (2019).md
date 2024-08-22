@@ -1,0 +1,4 @@
+## Abstract
+An escape-room-game activity was introduced to foster team building and collaborative learning in a laboratory-experiment setting. The students were placed in a laboratory with clues and puzzles that required the students to use a sequence of analytical instruments in the laboratory in order to escape. The instruments utilized included a UV–vis spectrophotometer, an FTIR spectrometer, a gas chromatograph, and a gas chromatograph–mass spectrometer (GCMS). Student groups solved the puzzles and escaped by identifying a mystery compound at the end of the game. Student surveys indicated that the students enjoyed the lab and that they felt it was an effective review of laboratory techniques.
+
+Vergne, M. J., Simmons, J. D., & Bowen, R. S. (2019). Escape the lab: An interactive escape-room game as a laboratory experiment. _Journal of Chemical Education_, _96_(5), 985-991. https://pubs.acs.org/doi/full/10.1021/acs.jchemed.8b01023

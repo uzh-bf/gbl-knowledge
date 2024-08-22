@@ -1,0 +1,4 @@
+## Abstract
+The article reviews the Escape Room activity which promotes leadership and teamwork among medical students. The activity will encourage students to develop leadership and teamwork skills through real-life practice and application. It also employed the medical school's leadership competencies including communication and influence, problem-solving, and systems thinking.
+
+Wu, C., Wagenschutz, H., & Hein, J. (2018). Promoting leadership and teamwork development through Escape Rooms. _Medical Education_, _52_(5). https://eds.p.ebscohost.com/abstract?site=eds&scope=site&jrnl=03080110&asa=N&AN=129181741&h=0ouFAUFgiLOUw4EVmuLi1%2ffH92xCB8QQqzlHkDZwJQKPOsNx62q6%2fUi05BuG6n7pvIZJEo2IuJTu%2frsy2ndyXw%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d03080110%26asa%3dN%26AN%3d129181741

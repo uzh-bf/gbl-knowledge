@@ -1,0 +1,2 @@
+## Abstract
+The purpose of this thesis is to examine the usefulness of educational escape rooms in business and finance at universities and to create a prototype for an escape room in finance. Es-cape rooms promote teamwork, leadership skills, creative thinking, problem-solving skills, student engagement and communication skills. When students are actively involved in the learning process then they can better retain and comprehend the material. Moreover, escape rooms require students to think outside the box.
