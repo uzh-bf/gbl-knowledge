@@ -1,8 +1,8 @@
 ---
 slug: escape-uzh
 title: EscapeUZH
-imgSrc: '/images/escape_hero.png'
-tags: ['UZH DF', 'Educational Escape Room', 'University of Zurich']
+imgSrc: "/images/escape_hero.png"
+tags: ["UZH DF", "Educational Escape Room", "University of Zurich"]
 subtitle: The Search for the Instant University Diploma – A Scavenger Hunt to get to know the University of Zurich (UZH)
 objectives:
   - University of Zurich – As the escape room is set in the University of Zurich, players can learn about the institution’s main campus, history, culture and its academic legacy in a playful setting.
@@ -18,10 +18,10 @@ keywords:
   - Scavenger Hunt
 useCases:
   - title: EscapeUZH
-    imgSrc: '/images/escape_hero.png'
+    imgSrc: "/images/escape_hero.png"
     href: /use-cases/escape-uzh
-imprint: 'Department of Banking and Finance, University of Zurich (Content and EscapeUZH Platform). Universidad Politécnica de Madrid (Escapp Platform).'
-contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
+imprint: "Department of Finance, University of Zurich (Content and EscapeUZH Platform). Universidad Politécnica de Madrid (Escapp Platform)."
+contact: "[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)"
 radarCharts:
   - name: Characteristics
     text: This escape room enables its users to sharpen their analytic thinking through a series of intriguing puzzles related to the UZH. While collaborating closely with team members, players also engage in friendly competition, pushing boundaries to enhance both prior knowledge and crucial soft skills. Above all, this engaging journey offers participants a unique blend of information about the UZH and entertainment, ensuring an unforgettable experience.

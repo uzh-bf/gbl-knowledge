@@ -1,8 +1,8 @@
 ---
 slug: private-banking-game
 title: Private Banking Advisory Game
-imgSrc: '/images/under_construction.jpg'
-tags: ['UZH DF', 'Serious Game', 'Banking', 'Work in Progress']
+imgSrc: "/images/under_construction.jpg"
+tags: ["UZH DF", "Serious Game", "Banking", "Work in Progress"]
 subtitle: A serious game to enhance your understanding of risk and return in an investment context
 objectives:
   - The participant is able to identify risk/return relations.
@@ -17,8 +17,8 @@ language:
 keywords:
   - Web-based Serious Game
   - Client Advisory
-imprint: Department of Banking and Finance, University of Zurich
-contact: '[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Banking and Finance, University of Zurich'
+imprint: Department of Finance, University of Zurich
+contact: "[Dr. Benjamin Wilding](https://www.bf.uzh.ch/de/persons/wilding-benjamin), Department of Finance, University of Zurich"
 radarCharts:
   - name: Characteristics
     text: The Private Banking Advisory Game emphasizes the enhancement of soft skills in the field of client advisory in private banking while providing a high entertainment value.

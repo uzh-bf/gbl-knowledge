@@ -1,14 +1,14 @@
 ---
 slug: portfolio-management-simulation
 title: Portfolio Management Simulation
-imgSrc: '/images/pfm_game.png'
-tags: ['UZH DF', 'Simulation', 'Investing']
+imgSrc: "/images/pfm_game.png"
+tags: ["UZH DF", "Simulation", "Investing"]
 subtitle: A simulation to improve decision-making ability
 objectives:
-  - Players are able to apply their knowledge in finance and macroeconomics in a portfolio management setting. 
-  - Players are able to construct a strategic asset allocation which covers the customer's needs. 
-  - Players are able to construct a portfolio that fits to the strategic and tactical asset allocation. 
-  - Players are able to analyze various financial ratios, draw conclusions and make tactical adjustments in the portfolio(s) based on macroeconomic  forecasts.   
+  - Players are able to apply their knowledge in finance and macroeconomics in a portfolio management setting.
+  - Players are able to construct a strategic asset allocation which covers the customer's needs.
+  - Players are able to construct a portfolio that fits to the strategic and tactical asset allocation.
+  - Players are able to analyze various financial ratios, draw conclusions and make tactical adjustments in the portfolio(s) based on macroeconomic  forecasts.
   - Players are able to present and explain their strategy, implementation decisions, and results to a specific target audience in a suitable and understandable way.
 scenarios:
   - University education and training
@@ -23,14 +23,14 @@ keywords:
   - Asset Management
 useCases:
   - title: Portfolio Management Simulation in Use
-    imgSrc: '/images/pfm_game.png'
+    imgSrc: "/images/pfm_game.png"
     href: /use-cases/portfolio-management-simulation-in-use
   - title: "WIP: Time-Series Bootstrap for GBL"
     subtitle: Working with Time-Series and Scenarios
-    imgSrc: '/images/under_construction.jpg'
+    imgSrc: "/images/under_construction.jpg"
     href: ""
-imprint: Department of Banking and Finance, University of Zurich
-contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
+imprint: Department of Finance, University of Zurich
+contact: "[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)"
 radarCharts:
   - name: Characteristics
     text: The Portfolio Management Game enables its users to cooperate as a management of a private bank while competing for customers against other management teams. Thereby they apply their knowledge in the field of asset management.

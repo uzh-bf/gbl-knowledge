@@ -1,8 +1,8 @@
 ---
 slug: derivatives-game
 title: Derivatives Game
-imgSrc: '/images/derivatives_1.png'
-tags: ['UZH DF', 'Simulation', 'Derivatives Trading']
+imgSrc: "/images/derivatives_1.png"
+tags: ["UZH DF", "Simulation", "Derivatives Trading"]
 subtitle: A simulation for a better understanding of exchange-traded financial derivatives
 objectives:
   - Players can apply their theoretical knowledge to trade on spot, futures, and options markets according to their assigned role.
@@ -23,14 +23,14 @@ keywords:
   - Options
 useCases:
   - title: Derivatives Game in Use
-    imgSrc: '/images/derivatives_1.png'
+    imgSrc: "/images/derivatives_1.png"
     href: /use-cases/derivatives-game-in-use
-  - title: 'WIP: @gbl-uzh/platform'
-    imgSrc: '/images/under_construction.jpg'
+  - title: "WIP: @gbl-uzh/platform"
+    imgSrc: "/images/under_construction.jpg"
     subtitle: Open-Source Platform for Web-based Simulations
-    href: ''
-imprint: Department of Banking and Finance, University of Zurich
-contact: '[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)'
+    href: ""
+imprint: Department of Finance, University of Zurich
+contact: "[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)"
 radarCharts:
   - name: Characteristics
     text: The Derivatives Game enables its players to work as the management of a cocoa farm or a chocolate factory in a market environment with uncertain cocoa prices. Players get the opportunity of applying their theoretical knowledge in the field of derivatives in a practically oriented environment. Further, they get to understand the chances and risks of trading on the spot and the derivatives markets, respectively. Players may work together in groups, but do not trade directly with their competitors, as the focus lies primarily on the analytical perspective of trading.
