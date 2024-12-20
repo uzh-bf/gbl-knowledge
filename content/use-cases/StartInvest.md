@@ -1,5 +1,5 @@
 ---
-slug: startinvest
+slug: startinvest-in-use
 title: StartInvest in Use
 abstract: In today's dynamic business landscape, effective financial management is a key element for organizational success. This immersive business simulation offers a unique opportunity to delve into the world of corporate finance, providing participants with a risk-free environment to improve their decision-making skills and gain a comprehensive understanding of financial strategies.
 type: simulations

@@ -1,6 +1,6 @@
 ---
 slug: escape-uzh
-title: EscapeUZH - Developing Digital Educational Escape Rooms
+title: Developing Digital Educational Escape Rooms
 abstract: The development process of a hybrid escape room respectively scavenger hunt, where a captivating plot meets challenging riddles set at the University of Zurich. By leveraging this escape room platform, educators can craft their own escape room.
 type: development
 imgSrc: "/images/escape_hero.png"
@@ -8,9 +8,9 @@ gallery: ""
 resources:
 ---
 
-> The Search for the Instant University Diploma – A Scavenger Hunt to get to know the University of Zurich
+> EscapeUZH: The Search for the Instant University Diploma – A Scavenger Hunt to get to know the University of Zurich
 
-Our digital educational escape room, "The Search for the Instant University Diploma", is an escape room tour set within the University of Zurich. This experience is based on a campus-wide scavenger hunt across the UZH City Campus where players take on the role of scholars, following clues left behind in an age-old diary. Players traverse historical and symbolic university locations like the Lichthof, and get to know some interesting facts about the UZH while solving unique riddles.
+Our digital educational escape room, "EscapeUZH: The Search for the Instant University Diploma", is an escape room tour set within the University of Zurich. This experience is based on a campus-wide scavenger hunt across the UZH City Campus where players take on the role of scholars, following clues left behind in an age-old diary. Players traverse historical and symbolic university locations like the Lichthof, and get to know some interesting facts about the UZH while solving unique riddles.
 
 ## Digital Educational Escape Room
 

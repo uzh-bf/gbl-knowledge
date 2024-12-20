@@ -21,6 +21,10 @@ keywords:
   - Diversification
 imprint: Department of Finance, University of Zurich
 contact: "[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli, Jakob Jakob](https://www.gbl.uzh.ch/about)"
+useCases:
+  - title: StartInvest in Use
+    imgSrc: "/images/StartInvest_Roboter.png"
+    href: /use-cases/startinvest-in-use
 radarCharts:
   - name: Characteristics
     text: StartInvest provides a basic portfolio management experience with moderate analytical requirements. Players can work individually or in small groups, with a balanced level of competition through performance comparison. The simulation requires minimal prior knowledge and maintains basic soft skill development, making it particularly accessible for beginners in investment management.

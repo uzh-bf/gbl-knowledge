@@ -25,10 +25,6 @@ useCases:
   - title: Portfolio Management Simulation in Use
     imgSrc: "/images/pfm_game.png"
     href: /use-cases/portfolio-management-simulation-in-use
-  - title: "WIP: Time-Series Bootstrap for GBL"
-    subtitle: Working with Time-Series and Scenarios
-    imgSrc: "/images/under_construction.jpg"
-    href: ""
 imprint: Department of Finance, University of Zurich
 contact: "[Dr. Benjamin Wilding, Anja Zgraggen, Roland Schläfli](https://www.gbl.uzh.ch/about)"
 radarCharts:
