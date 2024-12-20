@@ -1,14 +1,12 @@
 ---
 slug: ethics
-title: Ethics Aspects in Gamification
+title: Ethical Aspects in the field of Gamification and Finance
 abstract: Based on the work of Nespolo (2024) this use case addresses ethical aspects in the context of gamification and Game-Based Learning in Finance. First, the topic is discussed in general and thereafter more specific in the context of a Portfolio Management Simulation.
 type: didactics
 imgSrc: "/images/ethics_1.png"
 gallery: ""
 resources:
 ---
-
-## Ethical Aspects in the field of Gamification and Finance
 
 _“When used well, gamification can be a powerful tool for engagement, literacy and driving positive outcomes.” CFA Institute, 2022_
 

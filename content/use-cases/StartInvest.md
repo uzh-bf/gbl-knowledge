@@ -8,7 +8,7 @@ gallery: ""
 resources:
 ---
 
-## First Steps into Investment Instruments
+> First Steps into Investment Instruments
 
 The StartInvest simulation allows players to gain initial experience in the field of investments. The investment decisions are purposefully limited to the option of investing in bonds or shares respectively leaving the money on a bank account. The decisions are deliberately kept very simple in order thatto the keep the entry threshold is low. With many the main target group being at Finance entry level, the simulation intends to improve financial literacy.
 

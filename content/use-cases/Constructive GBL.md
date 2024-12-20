@@ -8,8 +8,6 @@ gallery: ""
 resources:
 ---
 
-## Introduction
-
 Constructive Game-Based Learning (GBL) integrates constructivist pedagogical principles with interactive gamification and Game-Based Learning elements to create engaging educational experiences. This approach is essential for enhancing active learning environments where students build knowledge through exploration and experimentation. The seminar "Game-Based Learning - Development of Interdisciplinary Learning Games" at the University of Zurich exemplifies this approach by guiding students through a structured framework that encourages creativity and problem-solving.
 
 The seminar includes going through a Design Thinking Process (DTP) that involves understanding complex problems, observing and synthesizing information, ideating solutions, prototyping game concepts, and testing these prototypes. This comprehensive process ensures that students can apply theoretical knowledge practically while receiving feedback from peers and instructors. This use case provides a brief overview of Constructive GBL by integrating theoretical insights with practical applications from the seminar.

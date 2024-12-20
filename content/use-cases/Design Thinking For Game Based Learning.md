@@ -8,8 +8,6 @@ gallery: ""
 resources:
 ---
 
-## Design Thinking
-
 [[definitions/Design-Thinking|Design Thinking]] provides a way to face dynamic, multifaceted challenges, such as elaborating game ideas and prototypes, by using a creative and collaborative process. «Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success», said Tim Brown, Executive Chair of IDEO.
 
 The design thinking process is a way to solve problems through creativity. Throughout the [[definitions/Design-Thinking|Design Thinking Process]], choices are created (divergent thinking), and choices are being made (convergent thinking):
