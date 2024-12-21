@@ -62,10 +62,14 @@ radarCharts:
         value: 2
 thumbnail: /images/StartInvest_Roboter.png
 gallery:
-  - imgSrc: /images/StartInvest_Roboter.png
+  - imgSrc: /images/startinvest_play.png
     alt: StartInvest Image 1
-  - imgSrc: /images/startinvest_charts.png
+  - imgSrc: /images/startinvest_dice.png
     alt: StartInvest Image 2
+  - imgSrc: /images/startinvest_reports.png
+    alt: StartInvest Image 3
+  - imgSrc: /images/startinvest_class.png
+    alt: StartInvest Image 4
 ---
 
 In this introductory investment simulation, you have received a lottery prize and face the challenge of making strategic investment decisions. Working in groups or on your own, you will manage your portfolio by allocating funds across three asset classes learning about risk and return relationships. Your success depends on making informed decisions about allocating your assets between a savings account offering guaranteed returns (no risk), bonds with moderate returns and moderate risk, and stocks with higher potential returns but also higher risks, each carrying its own risk profile.

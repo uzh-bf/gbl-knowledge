@@ -3,14 +3,18 @@ slug: business-simulation-in-use
 title: A Business Simulation in Use
 abstract: In today's dynamic business landscape, effective financial management is a key element for organizational success. This immersive business simulation offers a unique opportunity to delve into the world of corporate finance, providing participants with a risk-free environment to improve their decision-making skills and gain a comprehensive understanding of financial strategies.
 type: simulations
-imgSrc: "/images/business_simulation_playthrough.png"
+imgSrc: "/images/business_simulation_hero.jpg"
 gallery: ""
 resources:
 ---
 
 > A simulation for a better understanding of corporate financial management
 
-The Business Simulation shows students which financial aspects need to be considered in company management and how the individual areas of the company are connected in terms of their financial impact. The board game enables students to playfully experience the connections between the goods cycle and the money cycle of a company. A possible playthrough is shown below:
+The Business Simulation shows students which financial aspects need to be considered in company management and how the individual areas of the company are connected in terms of their financial impact. The board game enables students to playfully experience the connections between the goods cycle and the money cycle of a company.
+
+![](https://www.gbl.uzh.ch/images/business_simulation_play.jpg)
+
+A possible playthrough is shown below:
 
 ![](https://sos-ch-dk-2.exo.io/gbl-uzh/business_simulation_playthrough.png)
 
