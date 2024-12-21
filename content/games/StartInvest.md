@@ -68,7 +68,7 @@ gallery:
     alt: StartInvest Image 2
   - imgSrc: /images/startinvest_reports.png
     alt: StartInvest Image 3
-  - imgSrc: /images/startinvest_class.png
+  - imgSrc: /images/startinvest_class.jpg
     alt: StartInvest Image 4
 ---
 
