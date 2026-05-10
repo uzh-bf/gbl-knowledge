@@ -88,5 +88,5 @@ Possible questions on the example of the [[games/Portfolio-Management-Simulation
 
 Finally, some feedback from the players of the Portfolio Management Simulation:
 
-- “The Portfolio Management Simulation was a lot of fun, and I have never had the mopportunity to do something like this before, so it was also a great learning experience. I always looked forward to seeing the results of the previous periods.” (Student from International Summer School 2020)
+- “The Portfolio Management Simulation was a lot of fun, and I have never had the opportunity to do something like this before, so it was also a great learning experience. I always looked forward to seeing the results of the previous periods.” (Student from International Summer School 2020)
 - “I absolutely loved the Portfolio Management  Simulation, it was great fun and required us to apply our knowledge and to work meticulously to come up with good decisions for our portfolio, our customers, and our bank in general. It's a very educational, fun tool.”  (Student from International Summer School 2020)
